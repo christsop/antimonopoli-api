@@ -10,9 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.21.2",
+    "install": "^0.13.0",
     "jsdom": "^25.0.1",
     "node-fetch": "^3.3.2",
+    "npm": "^11.0.0",
     "p-limit": "^6.2.0"
   }
 }

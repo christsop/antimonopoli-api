@@ -15,6 +15,7 @@ async function getTotalPages() {
     const document = dom.window.document;
 
     const paginationLinks = document.querySelectorAll('.nav-links a.page-numbers');
+    
     let maxPage = 1;
     paginationLinks.forEach(link => {
         const pageNum = parseInt(link.textContent);
@@ -90,8 +91,9 @@ async function scrapeWinners() {
 
     console.log('Total event details fetched:', eventDetails.length);
 
+
     // Combine event URLs with their respective details
-    eventDetails.forEach((details, index) => {
+    eventDetails.slice(0, 2).forEach((details, index) => {
         allEventDetails.push({
             eventUrl: allEventLinks[index],
             ...details

@@ -9,7 +9,7 @@ const app = express();
 const PORT = 4000;
 app.use(cors());
 app.use(cors({
-    origin: '*' // Replace with your frontend URL
+    origin: 'https://antimonopoli.vercel.app/' // Replace with your frontend URL
 }));
 
 // Function to get the total number of pages in the winners section

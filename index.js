@@ -7,11 +7,18 @@ const cors = require('cors'); // Import the cors module
 
 const app = express();
 const PORT = 4000;
-app.use(cors());
-app.use(cors({
-    origin: 'https://antimonopoli.vercel.app/' // Replace with your frontend URL
-}));
+const allowedOrigins = ['https://antimonopoli.vercel.app'];  // Frontend URL
 
+app.use(cors({
+    origin: function (origin, callback) {
+        // Allow requests with no origin (like mobile apps or Postman)
+        if (!origin || allowedOrigins.indexOf(origin) !== -1) {
+            callback(null, true);
+        } else {
+            callback(new Error('Not allowed by CORS'));
+        }
+    }
+}));
 
 // Function to get the total number of pages in the winners section
 async function getTotalPages() {

@@ -109,20 +109,15 @@ const DATA_FILE_PATH = path.join(__dirname, 'winners.json');
 
 app.get('/winners', async (req, res) => {
     try {
-        // Check if cached data exists
+        // Check if the local JSON file exists
         if (fs.existsSync(DATA_FILE_PATH)) {
             console.log('Returning cached data...');
             const cachedData = JSON.parse(fs.readFileSync(DATA_FILE_PATH, 'utf8'));
-
-            // Trigger background update
-            updateWinnersDataInBackground();
-
-            // Return cached data immediately
             return res.json(cachedData);
         }
 
-        // If no cache exists, scrape new data
-        console.log('No cache found. Scraping data...');
+        // If no cached data exists, scrape winners
+        console.log('Scraping new data...');
         const winnersData = await scrapeWinners();
 
         // Save the data to a local JSON file
@@ -135,20 +130,6 @@ app.get('/winners', async (req, res) => {
         res.status(500).json({ error: 'Failed to fetch winners data' });
     }
 });
-
-// Function to update cached data in the background
-async function updateWinnersDataInBackground() {
-    try {
-        console.log('Updating cached data in the background...');
-        const newWinnersData = await scrapeWinners();
-
-        // Save updated data to the file
-        fs.writeFileSync(DATA_FILE_PATH, JSON.stringify(newWinnersData, null, 2), 'utf8');
-        console.log('Cache updated successfully.');
-    } catch (error) {
-        console.error('Error updating cached data:', error);
-    }
-}
 
 app.listen(PORT, () => {
   console.log(`Server running at http://localhost:${PORT}`);

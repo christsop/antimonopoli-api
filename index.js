@@ -1,5 +1,8 @@
 const express = require('express');
 const { JSDOM } = require('jsdom');
+const path = require('path');
+const fs = require('fs');
+
 
 const app = express();
 const PORT = 4000;
@@ -15,7 +18,6 @@ async function getTotalPages() {
     const document = dom.window.document;
 
     const paginationLinks = document.querySelectorAll('.nav-links a.page-numbers');
-    
     let maxPage = 1;
     paginationLinks.forEach(link => {
         const pageNum = parseInt(link.textContent);
@@ -64,15 +66,13 @@ async function extractEventDetails(eventUrl) {
 
 // Main function to process all pages and extract data
 async function scrapeWinners() {
-    // const totalPages = await getTotalPages();
-    const totalPages = Math.min(await getTotalPages(), 2); // Only fetch 2 pages
-
+    const totalPages = await getTotalPages();
     const allEventLinks = [];
     const allEventDetails = [];
 
     // Dynamically import `p-limit`
     const { default: pLimit } = await import('p-limit'); 
-    const limit = pLimit(3); // Adjust concurrency level (5 concurrent tasks)
+    const limit = pLimit(5); // Adjust concurrency level (5 concurrent tasks)
 
     console.log('Fetching all event links...');
     
@@ -105,33 +105,50 @@ async function scrapeWinners() {
     return allEventDetails;
 }
 
-
-let cachedWinners = null;
+const DATA_FILE_PATH = path.join(__dirname, 'winners.json');
 
 app.get('/winners', async (req, res) => {
     try {
-        // Serve cached data if available
-        if (cachedWinners) {
-            return res.json(cachedWinners);
+        // Check if cached data exists
+        if (fs.existsSync(DATA_FILE_PATH)) {
+            console.log('Returning cached data...');
+            const cachedData = JSON.parse(fs.readFileSync(DATA_FILE_PATH, 'utf8'));
+
+            // Trigger background update
+            updateWinnersDataInBackground();
+
+            // Return cached data immediately
+            return res.json(cachedData);
         }
 
+        // If no cache exists, scrape new data
+        console.log('No cache found. Scraping data...');
         const winnersData = await scrapeWinners();
-        cachedWinners = winnersData; // Cache the data
+
+        // Save the data to a local JSON file
+        fs.writeFileSync(DATA_FILE_PATH, JSON.stringify(winnersData, null, 2), 'utf8');
+
+        // Return the newly scraped data
         res.json(winnersData);
     } catch (error) {
+        console.error('Error fetching winners data:', error);
         res.status(500).json({ error: 'Failed to fetch winners data' });
     }
 });
 
-app.get('/test-fetch', async (req, res) => {
+// Function to update cached data in the background
+async function updateWinnersDataInBackground() {
     try {
-        const response = await fetch('https://www.monopoli.gr/diagonismoi/winners/');
-        const html = await response.text();
-        res.send(html); // Verify if Vercel can fetch this page
+        console.log('Updating cached data in the background...');
+        const newWinnersData = await scrapeWinners();
+
+        // Save updated data to the file
+        fs.writeFileSync(DATA_FILE_PATH, JSON.stringify(newWinnersData, null, 2), 'utf8');
+        console.log('Cache updated successfully.');
     } catch (error) {
-        res.status(500).json({ error: 'Fetch failed', details: error.message });
+        console.error('Error updating cached data:', error);
     }
-});
+}
 
 app.listen(PORT, () => {
   console.log(`Server running at http://localhost:${PORT}`);

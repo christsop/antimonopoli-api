@@ -64,13 +64,15 @@ async function extractEventDetails(eventUrl) {
 
 // Main function to process all pages and extract data
 async function scrapeWinners() {
-    const totalPages = await getTotalPages();
+    // const totalPages = await getTotalPages();
+    const totalPages = Math.min(await getTotalPages(), 2); // Only fetch 2 pages
+
     const allEventLinks = [];
     const allEventDetails = [];
 
     // Dynamically import `p-limit`
     const { default: pLimit } = await import('p-limit'); 
-    const limit = pLimit(5); // Adjust concurrency level (5 concurrent tasks)
+    const limit = pLimit(3); // Adjust concurrency level (5 concurrent tasks)
 
     console.log('Fetching all event links...');
     
@@ -93,7 +95,7 @@ async function scrapeWinners() {
 
 
     // Combine event URLs with their respective details
-    eventDetails.slice(0, 2).forEach((details, index) => {
+    eventDetails.forEach((details, index) => {
         allEventDetails.push({
             eventUrl: allEventLinks[index],
             ...details
@@ -104,16 +106,30 @@ async function scrapeWinners() {
 }
 
 
-app.get('/home', (req, res) => {
-  res.status(200).json('Welcome, your app is working well');
-});
+let cachedWinners = null;
 
 app.get('/winners', async (req, res) => {
     try {
+        // Serve cached data if available
+        if (cachedWinners) {
+            return res.json(cachedWinners);
+        }
+
         const winnersData = await scrapeWinners();
+        cachedWinners = winnersData; // Cache the data
         res.json(winnersData);
     } catch (error) {
         res.status(500).json({ error: 'Failed to fetch winners data' });
+    }
+});
+
+app.get('/test-fetch', async (req, res) => {
+    try {
+        const response = await fetch('https://www.monopoli.gr/diagonismoi/winners/');
+        const html = await response.text();
+        res.send(html); // Verify if Vercel can fetch this page
+    } catch (error) {
+        res.status(500).json({ error: 'Fetch failed', details: error.message });
     }
 });
 

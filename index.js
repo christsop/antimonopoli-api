@@ -83,7 +83,7 @@ async function scrapeWinners() {
 
     // Dynamically import `p-limit`
     const { default: pLimit } = await import('p-limit'); 
-    const limit = pLimit(5); // Adjust concurrency level (5 concurrent tasks)
+    const limit = pLimit(10); // Adjust concurrency level (5 concurrent tasks)
 
     console.log('Fetching all event links...');
     

@@ -7,17 +7,9 @@ const cors = require('cors'); // Import the cors module
 
 const app = express();
 const PORT = 4000;
-const allowedOrigins = ['https://antimonopoli.vercel.app'];  // Frontend URL
-
+app.use(cors());
 app.use(cors({
-    origin: function (origin, callback) {
-        // Allow requests with no origin (like mobile apps or Postman)
-        if (!origin || allowedOrigins.indexOf(origin) !== -1) {
-            callback(null, true);
-        } else {
-            callback(new Error('Not allowed by CORS'));
-        }
-    }
+    origin: 'https://antimonopoli.vercel.app/' // Replace with your frontend URL
 }));
 
 // Function to get the total number of pages in the winners section
@@ -77,17 +69,16 @@ async function extractEventDetails(eventUrl) {
 
 // Main function to process all pages and extract data
 async function scrapeWinners() {
-    let totalPages = 1;//await getTotalPages();
+    const totalPages = await getTotalPages();
     const allEventLinks = [];
     const allEventDetails = [];
 
-
     // Dynamically import `p-limit`
     const { default: pLimit } = await import('p-limit'); 
-    const limit = pLimit(10); // Adjust concurrency level (5 concurrent tasks)
+    const limit = pLimit(5); // Adjust concurrency level (5 concurrent tasks)
 
     console.log('Fetching all event links...');
-    
+
     // Fetch all event links concurrently
     const pagePromises = Array.from({ length: totalPages }, (_, i) =>
         limit(() => extractEventLinks(i + 1))
@@ -121,20 +112,17 @@ const DATA_FILE_PATH = path.join(__dirname, 'winners.json');
 
 app.get('/winners', async (req, res) => {
     try {
-        // Check if cached data exists
+        // Check if the local JSON file exists
         if (fs.existsSync(DATA_FILE_PATH)) {
             console.log('Returning cached data...');
             const cachedData = JSON.parse(fs.readFileSync(DATA_FILE_PATH, 'utf8'));
-
-            // Trigger background update
-            updateWinnersDataInBackground();
-
-            // Return cached data immediately
             return res.json(cachedData);
+        } else {
+            console.log('Cached data not found...');
         }
 
-        // If no cache exists, scrape new data
-        console.log('No cache found. Scraping data...');
+        // If no cached data exists, scrape winners
+        console.log('Scraping new data...');
         const winnersData = await scrapeWinners();
 
         // Save the data to a local JSON file
@@ -148,22 +136,6 @@ app.get('/winners', async (req, res) => {
     }
 });
 
-// Function to update cached data in the background
-async function updateWinnersDataInBackground() {
-    try {
-        console.log('Updating cached data in the background...');
-        const newWinnersData = await scrapeWinners();
-
-        // Save updated data to the file
-        fs.writeFileSync(DATA_FILE_PATH, JSON.stringify(newWinnersData, null, 2), 'utf8');
-        console.log('Cache updated successfully.');
-    } catch (error) {
-        console.error('Error updating cached data:', error);
-    }
-}
-
 app.listen(PORT, () => {
   console.log(`Server running at http://localhost:${PORT}`);
 });
-
-module.exports = app;

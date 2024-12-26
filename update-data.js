@@ -105,9 +105,14 @@ async function scrapeWinners() {
 
 const DATA_FILE_PATH = path.join(__dirname, 'winners.json');
 
-const winnersData = await scrapeWinners();
+export const updateDatabase = async () => {
+    const winnersData = await scrapeWinners();
 
-// Save the data to a local JSON file
-fs.writeFileSync(DATA_FILE_PATH, JSON.stringify(winnersData, null, 2), 'utf8');
+    // Save the data to a local JSON file
+    fs.writeFileSync(DATA_FILE_PATH, JSON.stringify(winnersData, null, 2), 'utf8');
+}
+
+updateDatabase();
+
 
 

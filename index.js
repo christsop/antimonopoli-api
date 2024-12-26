@@ -114,6 +114,8 @@ app.get('/winners', async (req, res) => {
             console.log('Returning cached data...');
             const cachedData = JSON.parse(fs.readFileSync(DATA_FILE_PATH, 'utf8'));
             return res.json(cachedData);
+        } else {
+            console.log('Cached data not found...');
         }
 
         // If no cached data exists, scrape winners

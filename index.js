@@ -3,6 +3,7 @@ const { JSDOM } = require('jsdom');
 const path = require('path');
 const fs = require('fs');
 const cors = require('cors'); // Import the cors module
+const { log } = require('console');
 
 
 const app = express();
@@ -77,9 +78,10 @@ async function extractEventDetails(eventUrl) {
 
 // Main function to process all pages and extract data
 async function scrapeWinners() {
-    const totalPages = await getTotalPages();
+    let totalPages = 1;//await getTotalPages();
     const allEventLinks = [];
     const allEventDetails = [];
+
 
     // Dynamically import `p-limit`
     const { default: pLimit } = await import('p-limit'); 
@@ -91,7 +93,10 @@ async function scrapeWinners() {
     const pagePromises = Array.from({ length: totalPages }, (_, i) =>
         limit(() => extractEventLinks(i + 1))
     );
-    const eventLinksPerPage = await Promise.all(pagePromises);
+    let eventLinksPerPage = await Promise.all(pagePromises);
+    eventLinksPerPage = [['https://www.monopoli.gr/diagonismos/nikites-diagonismou-oi-oikodomoi-tis-aytokratorias-tou-mporis-vian-sto-theatro-104-29-12-2024-stis-2000/']]
+    console.log('event link per page');
+    console.log(eventLinksPerPage);
     eventLinksPerPage.forEach(links => allEventLinks.push(...links));
 
     console.log('Total event links fetched:', allEventLinks.length);

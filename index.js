@@ -2,7 +2,6 @@ const express = require('express');
 const path = require('path');
 const fs = require('fs');
 const cors = require('cors'); // Import the cors module
-const { updateDatabase } = require('./update-data');
 
 const app = express();
 const PORT = 4000;
@@ -12,8 +11,6 @@ app.use(cors({
 }));
 
 const DATA_FILE_PATH = path.join(__dirname, 'winners.json');
-
-updateDatabase();
 
 app.get('/winners', async (req, res) => {
     try {

@@ -3,12 +3,12 @@ import path from 'path';
 import fs from 'fs';
 import { fileURLToPath } from 'url';
 
-
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Function to get the total number of pages in the winners section
 async function getTotalPages() {
+    console.time('getTotalPages');
     const url = 'https://www.monopoli.gr/diagonismoi/winners/';
     const response = await fetch(url);
     const html = await response.text();
@@ -23,12 +23,13 @@ async function getTotalPages() {
             maxPage = pageNum;
         }
     });
-
+    console.timeEnd('getTotalPages');
     return maxPage;
 }
 
 // Function to extract all event links from a page
 async function extractEventLinks(pageNumber) {
+    console.time(`extractEventLinks Page ${pageNumber}`);
     const url = `https://www.monopoli.gr/diagonismoi/winners/page/${pageNumber}/`;
     const response = await fetch(url);
     const html = await response.text();
@@ -36,6 +37,7 @@ async function extractEventLinks(pageNumber) {
     const document = dom.window.document;
 
     const eventLinks = Array.from(document.querySelectorAll('.winners_contest_box')).map(link => link.href);
+    console.timeEnd(`extractEventLinks Page ${pageNumber}`);
     return eventLinks;
 }
 
@@ -64,6 +66,7 @@ async function extractEventDetails(eventUrl) {
 
 // Main function to process all pages and extract data
 async function scrapeWinners() {
+    console.time('scrapeWinners');
     const totalPages = await getTotalPages();
     const allEventLinks = [];
     const allEventDetails = [];
@@ -75,22 +78,25 @@ async function scrapeWinners() {
     console.log('Fetching all event links...');
 
     // Fetch all event links concurrently
+    console.time('fetchEventLinks');
     const pagePromises = Array.from({ length: totalPages }, (_, i) =>
         limit(() => extractEventLinks(i + 1))
     );
     const eventLinksPerPage = await Promise.all(pagePromises);
     eventLinksPerPage.forEach(links => allEventLinks.push(...links));
+    console.timeEnd('fetchEventLinks');
 
     console.log('Total event links fetched:', allEventLinks.length);
 
     // Fetch all event details concurrently
+    console.time('fetchEventDetails');
     const detailPromises = allEventLinks.map(eventUrl =>
         limit(() => extractEventDetails(eventUrl))
     );
     const eventDetails = await Promise.all(detailPromises);
+    console.timeEnd('fetchEventDetails');
 
     console.log('Total event details fetched:', eventDetails.length);
-
 
     // Combine event URLs with their respective details
     eventDetails.forEach((details, index) => {
@@ -100,19 +106,20 @@ async function scrapeWinners() {
         });
     });
 
+    console.timeEnd('scrapeWinners');
     return allEventDetails;
 }
 
 const DATA_FILE_PATH = path.join(__dirname, 'winners.json');
 
 export const updateDatabase = async () => {
+    console.time('updateDatabase');
     const winnersData = await scrapeWinners();
 
     // Save the data to a local JSON file
     fs.writeFileSync(DATA_FILE_PATH, JSON.stringify(winnersData, null, 2), 'utf8');
+    console.timeEnd('updateDatabase');
 }
 
-updateDatabase();
 
-
-
+export default updateDatabase;

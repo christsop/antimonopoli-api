@@ -122,4 +122,4 @@ export const updateDatabase = async () => {
 }
 
 
-export default updateDatabase;
+updateDatabase();

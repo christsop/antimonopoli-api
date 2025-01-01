@@ -209,18 +209,42 @@ async function processRequests(idsAndDates, users) {
 }
 
 const users = [
-  {
-      gender: "Κος",
-      firstname: "Χρήστος",
-      lastname: "Τσοπέλας",
-      address: "Μενελάου 25",
-      city: "Καλλιθέα",
-      postal: "17672",
-      phone: "6934831454",
-      email: "tsopelasat@gmail.com",
-      job: "Ιδιωτ. Υπαλληλος",
-      age: "19-30"
-  },
+  // {
+  //     gender: "Κος",
+  //     firstname: "Χρήστος",
+  //     lastname: "Τσοπέλας",
+  //     address: "Μενελάου 25",
+  //     city: "Καλλιθέα",
+  //     postal: "17672",
+  //     phone: "6934831454",
+  //     email: "tsopelasat@gmail.com",
+  //     job: "Ιδιωτ. Υπαλληλος",
+  //     age: "19-30"
+  // },
+  // {
+  //   gender: "Κα",
+  //   firstname: "Ελένη",
+  //   lastname: "Κοσεογλου",
+  //   address: "Μενελάου 25",
+  //   city: "Αθήνα",
+  //   postal: "17672",
+  //   phone: "6981723853",
+  //   email: "eleni.koseoglou.94@gmail.com",
+  //   job: "Ιδιωτ. Υπαλληλος",
+  //   age: "19-30"
+  // },
+  // {
+  //     gender: "Κα",
+  //     firstname: "Ελένη",
+  //     lastname: "Τσεντιδου",
+  //     address: "Μενελάου 25",
+  //     city: "Αθήνα",
+  //     postal: "17672",
+  //     phone: "6981723853",
+  //     email: "amanitamouscaria@hotmail.com",
+  //     job: "Ιδιωτ. Υπαλληλος",
+  //     age: "19-30"
+  // },
   {
     gender: "Κος",
     firstname: "Λευτερης",
@@ -280,30 +304,6 @@ const users = [
     email: "sofaki_092@hotmail.com",
     job: "Ιδιωτ. Υπαλληλος",
     age: "19-30"
-  },
-  {
-    gender: "Κα",
-    firstname: "Ελένη",
-    lastname: "Κοσεογλου",
-    address: "Μενελάου 25",
-    city: "Αθήνα",
-    postal: "17672",
-    phone: "6981723853",
-    email: "eleni.koseoglou.94@gmail.com",
-    job: "Ιδιωτ. Υπαλληλος",
-    age: "19-30"
-  },
-  {
-      gender: "Κα",
-      firstname: "Ελένη",
-      lastname: "Τσεντιδου",
-      address: "Μενελάου 25",
-      city: "Αθήνα",
-      postal: "17672",
-      phone: "6981723853",
-      email: "amanitamouscaria@hotmail.com",
-      job: "Ιδιωτ. Υπαλληλος",
-      age: "19-30"
   },
   {
       gender: "Κα",

@@ -343,8 +343,6 @@ const users = [
     job: "Ιδιωτ. Υπαλληλος",
     age: "19-30"
   },
-
-
   {
       gender: "Κα",
       firstname: "αθηνα",

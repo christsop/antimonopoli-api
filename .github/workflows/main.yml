@@ -2,7 +2,7 @@ name: Run Daily Script
 
 on:
   schedule:
-    - cron: '39 0 * * *' # Runs at 0:36 AM UTC, which is 2:36 AM EET
+    - cron: '37 0 * * *' # Runs at 0:36 AM UTC, which is 2:36 AM EET
 
 jobs:
   build:

@@ -1,9 +1,9 @@
 name: Run Script and Commit Changes
 
 on:
-  push: # Trigger the workflow on a commit
-    branches:
-      - main # Replace 'main' with your default branch name, if different
+  schedule:
+    # Run the workflow every 3 hours
+    - cron: "0 */3 * * *" # At minute 0, every 3rd hour
   workflow_dispatch: # Allow manual trigger of the workflow
 
 jobs:

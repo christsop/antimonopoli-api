@@ -1,8 +1,9 @@
-name: Run Daily Script
+name: Run Script on Commit
 
 on:
-  schedule:
-    - cron: '38 0 * * *' # Runs at 0:36 AM UTC, which is 2:36 AM EET
+  push: # Trigger the workflow on a commit
+    branches:
+      - main # Replace 'main' with your default branch name, if different
 
 jobs:
   build:

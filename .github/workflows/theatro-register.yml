@@ -1,24 +1,24 @@
-name: Run Script on Commit
+# name: Run Script on Commit
 
-on:
-  push: # Trigger the workflow on a commit
-    branches:
-      - main # Replace 'main' with your default branch name, if different
+# on:
+#   push: # Trigger the workflow on a commit
+#     branches:
+#       - main # Replace 'main' with your default branch name, if different
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     steps:
+#     - name: Checkout code
+#       uses: actions/checkout@v3
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: 18
+#     - name: Set up Node.js
+#       uses: actions/setup-node@v3
+#       with:
+#         node-version: 18
 
-    - name: Install dependencies
-      run: npm install
+#     - name: Install dependencies
+#       run: npm install
 
-    - name: Run script
-      run: node theatro.mjs
+#     - name: Run script
+#       run: node theatro.mjs

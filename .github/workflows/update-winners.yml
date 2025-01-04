@@ -21,4 +21,4 @@ jobs:
       run: npm install
 
     - name: Run script
-      run: node theatro.mjs
+      run: node update-data.js

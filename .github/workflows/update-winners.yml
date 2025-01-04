@@ -1,4 +1,4 @@
-name: Run Script and Commit Changes
+name: Update winners
 
 on:
   workflow_dispatch: # Allow manual trigger of the workflow

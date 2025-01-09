@@ -1,5 +1,68 @@
 [
   {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-diadromos-2-tis-tis-eystathias-sto-theatro-arroyo-10-01-2025-stis-2100/",
+    "eventTitle": "“Διάδρομος 2” της της Ευσταθίας στο Θέατρο Arroyo – 10/01/2025 στις 21:00",
+    "winners": [
+      "ΧΡΉΣΤΟΣ ΤΣΟΠΈΛΑΣΑΙΚΑΤΕΡΙΝΗ ΓΑΛΥΦΑΣΟΦΙΑ  ΚΟΝΤΟΝΙΚΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-memorantoum-apo-tin-omada-the-young-quill-sto-theatro-mpellos-10-01-2025-stis-2100/",
+    "eventTitle": "“Μεμοράντουμ” από την ομάδα The Young Quill στο Θέατρο Μπέλλος – 10/01/2025 στις 21:00",
+    "winners": [
+      "ΜΑΡΙΑ ΤΣΕΡΒΑΚΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-ismini-tou-gianni-ritsou-sto-theatro-dromos-10-01-2025-stis-2100/",
+    "eventTitle": "Ισμήνη του Γιάννη Ρίτσου στο Θέατρο Δρόμος – 10/01/2025 στις 21:00",
+    "winners": [
+      "ΑΝΤΩΝΙΟΣ ΙΩΑΝΝΙΔΗΣΛΕΥΤΕΡΗΣ ΜΟΡΙΤΣΣΕΒΑΣΤΉ ΒΑΔΑΛΟΥΚΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-an-imoun-kokkino-tou-aki-dimou-sto-theatro-simeio-10-01-2025-stis-2030/",
+    "eventTitle": "“Αν ήμουν κόκκινο” του Άκη Δήμου στο Θέατρο Σημείο – 10/01/2025 στις 20:30",
+    "winners": [
+      "ΑΠΟΣΤΟΛΟΠΟΥΛΟΥ ΑΛΕΞΑΝΔΡΑΔΉΜΗΤΡΑ ΣΤΡΙΜΠΑΚΟΥΛΟΥΚΑΣ ΒΛΑΒΙΑΝΟΣΑΓΓΕΛΙΚΗ ΑΛΙΓΗΖΑΚΗΓΙΑΝΝΗΣ ΛΑΖΑΡΙΔΗΣΣΩΤΗΡΙΟΣ ΡΗΓΟΣΕΛΕΥΘΕΡΙΑ ΠΑΝΟΥΣΗΜΑΡΚΕΛΛΑ ΓΙΑΝΝΑΚΟΠΟΥΛΟΥΜΑΡΙΝΑ ΜΑΡΚΟΠΟΥΛΟΥΆΛΚΗΣΤΙΣ  ΒΛΑΧΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-mein-komplex-tou-mpampi-klalioti-sto-theatro-apo-mixanis-10-01-2025-stis-2100/",
+    "eventTitle": "“Mein Komplex” του Μπάμπη Κλαλιώτη στο θέατρο Από Μηχανής – 10/01/2025 στις 21:00",
+    "winners": [
+      "ΑΝΤΩΝΗΣ ΚΑΡΑΝΤΩΝΙΟΥΑΝΔΡΕΑΣ ΔΗΜΟΠΟΥΛΟΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-antigoni-mou-tou-andrea-flouraki-sto-theatro-104-10-01-2025-stis-2115/",
+    "eventTitle": "«Αντιγόνη μου» του Ανδρέα Φλουράκη στο θέατρο 104 – 10/01/2025 στις 21:15",
+    "winners": [
+      "ΣΤΑΜΑΤΊΑ ΤΣΑΚΑΛΟΥΤΆΣΟΣ ΜΟΣΧΟΝΆΣΣΤΑΎΡΟΣ ΓΕΝΝΙΤΣΑΡΗΣΘΕΟΔΩΡΑ ΣΥΜΕΩΝΙΔΟΥΟΛΓΑ ΛΙΑΠΟΠΟΥΛΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-match-tis-danais-liodaki-sto-plyfa-10-01-2025-stis-2100/",
+    "eventTitle": "“Match” της Δανάης Λιοδάκη στο ΠΛΥΦΑ – 10/01/2025 στις 21:00",
+    "winners": [
+      "ΠΑΝΑΓΙΏΤΑ ΑΛΕΞΑΝΔΡΊΔΟΥΣΟΦΊΑ ΜΠΊΧΤΑΔΗΜΗΤΡΙΟΣ ΜΙΧΑΛΗΣΓΕΡΑΣΙΜΟΣ ΚΑΡΑΓΙΑΝΝΗΣΝΙΚΟΣ ΛΕΒΑΚΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-giorgos-nikos-stratakis-ston-stayro-tou-notou-10-01-2025-stis-2230/",
+    "eventTitle": "Γιώργος & Νίκος Στρατάκης στον Σταυρό του Νότου – 10/01/2025 στις 22:30",
+    "winners": [
+      "ΜΑΡΊΑ  ΑΝΑΣΤΑΣΊΟΥ ΚΑΛΛΙΡΡΟΗ ΦΩΝΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-vasanizomai-tou-antoni-tsipianiti-sto-theatro-alkmini-10-01-2025-stis-2115/",
+    "eventTitle": "“Βασανίζομαι!” του Αντώνη Τσιπιανίτη στο θέατρο Αλκμήνη – 10/01/2025 στις 21:15",
+    "winners": [
+      "ΙΩΑΝΝΗΣ ΜΑΥΡΟΥΔΗΣΒΑΣΙΛΗΣ ΡΟΥΧΩΤΑΣ"
+    ]
+  },
+  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-gouri-gia-to-25-apo-nicofilimon-jewelry/",
     "eventTitle": "Νικητές διαγωνισμού: γούρι για το ’25 από Nicofilimon Jewelry",
     "winners": []
@@ -48,9 +111,15 @@
   },
   {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-epitheoritis-tou-gkogkol-sto-theatro-gkloria-09-01-2025-stis-2100/",
-    "eventTitle": "“Επιθεωρητής” του Γκόγκολ στο Θέατρο Γκλόρια – 09/01/2025 στις 21:00",
+    "eventTitle": "ΑΚΥΡΩΣΗ ΠΑΡΑΣΤΑΣΗΣ- Επιθεωρητής” του Γκόγκολ στο Θέατρο Γκλόρια – 09/01/2025 στις 21:00",
     "winners": [
-      "ΧΡΙΣΤΙΝΑ ΣΩΤΗΡΙΟΥΑΘΑΝΑΣΙΑ ΕΜΜΑΝΟΥΗΛΗΛΊΑΣ  ΤΣΟΠΗΣ ΡΟΜΙΝΑ ΧΑΤΖΑΚΗΣΠΥΡΙΔΩΝ ΞΕΝΟΣΙΩΆΝΝΗΣ  ΦΟΥΡΛΗΣ ΑΝΤΩΝΙΑ ΝΤΕΡΔΗΜΑ"
+      "ΧΡΙΣΤΙΝΑ ΣΩΤΗΡΙΟΥ",
+      "ΑΘΑΝΑΣΙΑ ΕΜΜΑΝΟΥΗΛ",
+      "ΗΛΊΑΣ ΤΣΟΠΗΣ",
+      "ΡΟΜΙΝΑ ΧΑΤΖΑΚΗ",
+      "ΣΠΥΡΙΔΩΝ ΞΕΝΟΣ",
+      "ΙΩΆΝΝΗΣ ΦΟΥΡΛΗΣ",
+      "ΑΝΤΩΝΙΑ ΝΤΕΡΔΗΜΑ"
     ]
   },
   {

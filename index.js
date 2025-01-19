@@ -36,6 +36,8 @@ async function updateWinners() {
     const workflowFileName = 'update-winners.yml'; 
     const branch = 'main'; 
 
+    log('token: ', token);
+    return;
     const url = `https://api.github.com/repos/${repoOwner}/${repoName}/actions/workflows/${workflowFileName}/dispatches`;
 
     try {

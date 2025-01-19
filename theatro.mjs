@@ -9,7 +9,6 @@ const url1 = 'https://www.monopoli.gr/diagonismoi/proskliseis-gia-theatro/page/'
 const url2 = 'https://www.monopoli.gr/diagonismoi/proskliseis-gia-theatro/page/2/'; // Replace with your target webpage link
 const url3 = 'https://www.monopoli.gr/diagonismoi/proskliseis-gia-theatro/page/3/'; // Replace with your target webpage link
 const url4 = 'https://www.monopoli.gr/diagonismoi/proskliseis-gia-theatro/page/4/'; // Replace with your target webpage link
-const url5 = 'https://www.monopoli.gr/diagonismoi/proskliseis-gia-synaylies-mousikes-skines/'; // Replace with your target webpage link
 const url6 = 'https://www.monopoli.gr/diagonismos/'; // Replace with your target webpage link
 
 
@@ -76,9 +75,8 @@ const links1 = await extractLinks(url1);
 const links2 = await extractLinks(url2);
 const links3 = await extractLinks(url3);
 const links4 = await extractLinks(url4);
-const links5 = await extractLinks(url5);
 const links6 = await extractLinks(url6);
-const pageLinks = [...links1, ...links2, ...links3, ...links4, ...links5, ...links6];
+const pageLinks = [...links1, ...links2, ...links3, ...links4, ...links6];
 
 
 async function fetchAvailableDates(code) {
@@ -244,6 +242,18 @@ const users = [
       email: "amanitamouscaria@hotmail.com",
       job: "Ιδιωτ. Υπαλληλος",
       age: "19-30"
+  },
+  {
+    gender: "Κος",
+    firstname: "Πανος",
+    lastname: "Αναστασοπουλος",
+    address: "Θεοφιλοπουλου 7",
+    city: "Νεος Κοσμος",
+    postal: "11743",
+    phone: "6978290410",
+    email: "anastaso.pan@gmail.com",
+    job: "Ιδιωτ. Υπαλληλος",
+    age: "19-30"
   },
   {
     gender: "Κος",

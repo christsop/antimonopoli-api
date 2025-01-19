@@ -28,7 +28,7 @@ app.get('/winners', async (req, res) => {
 });
 
 async function updateWinners() {
-    const token = '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'; 
+    const token = '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'; 
     const repoOwner = 'christsop';
     const repoName = 'antimonopoli-api';
     const workflowFileName = 'update-winners.yml'; 

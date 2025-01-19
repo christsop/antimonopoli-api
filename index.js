@@ -27,6 +27,50 @@ app.get('/winners', async (req, res) => {
     }
 });
 
+async function updateWinners() {
+    const token = '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'; 
+    const repoOwner = 'christsop';
+    const repoName = 'antimonopoli-api';
+    const workflowFileName = 'update-winners.yml'; 
+    const branch = 'main'; 
+
+    const url = `https://api.github.com/repos/${repoOwner}/${repoName}/actions/workflows/${workflowFileName}/dispatches`;
+
+    try {
+        const response = await fetch(url, {
+            method: 'POST',
+            headers: {
+                'Authorization': `Bearer ${token}`, // Authenticate using the token
+                'Accept': 'application/vnd.github+json',
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ ref: branch }), // Pass the branch name in the body
+        });
+
+        if (!response.ok) {
+            const errorData = await response.json();
+            throw new Error(
+                `Failed to trigger workflow: ${response.status} ${response.statusText} - ${JSON.stringify(errorData)}`
+            );
+        }
+
+        console.log('Workflow triggered successfully!');
+    } catch (error) {
+        console.error('Error triggering workflow:', error.message);
+    } finally {
+        console.log('Request to trigger workflow completed.');
+    }
+}
+
+app.get('/updateWinners', async (req, res) => {
+    try {
+        updateWinners();
+    } catch (error) {
+        console.error('Error triggering github action:', error);
+        res.status(500).json({ error: 'Failed to trigger github action' });
+    }
+});
+
 // app.get('/update-data', async (req, res) => {
 //     try {
 //         // Check if the local JSON file exists

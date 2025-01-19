@@ -2,6 +2,8 @@ const express = require('express');
 const path = require('path');
 const fs = require('fs');
 const cors = require('cors'); // Import the cors module
+const { log } = require('console');
+require('dotenv').config();
 
 const app = express();
 const PORT = 4000;
@@ -28,7 +30,7 @@ app.get('/winners', async (req, res) => {
 });
 
 async function updateWinners() {
-    const token = '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'; 
+    const token = process.env.GITHUB_TOKEN;
     const repoOwner = 'christsop';
     const repoName = 'antimonopoli-api';
     const workflowFileName = 'update-winners.yml'; 

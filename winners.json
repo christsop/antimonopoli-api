@@ -1,5 +1,47 @@
 [
   {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-thanatos-tou-molierou-apo-tin-k4-theater-groop-sto-theatro-rektifie-21-01-2025-stis-2100/",
+    "eventTitle": "“Ο Θάνατος του Μολιέρου” από την Κ4 Theater Groop στο Θέατρο Ρεκτιφιέ – 21/01/2025 στις 21:00",
+    "winners": [
+      "ΑΓΓΕΛΙΚΗ ΓΟΥΣΓΟΥΛΑΔΗΜΗΤΡΙΟΣ ΤΡΙΚΚΑΣΝΤΙΝΑ  ΚΑΡΑΧΑΛΙΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-proti-nyxta-tou-gamou-tou-louitzi-pirantello-sto-theatro-2510-21-01-2025-stis-2030/",
+    "eventTitle": "“Η Πρώτη Νύχτα του Γάμου” του Λουίτζι Πιραντέλλο στο Θέατρο 2510 – 21/01/2025 στις 20:30",
+    "winners": [
+      "ΜΑΡΊΑ  ΓΚΟΒΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-kai-ekfyteysen-o-theos-paradeison-apo-tous-c-for-circus-sto-theatro-anesis-21-01-2025-stis-2100/",
+    "eventTitle": "“Και εκφύτευσεν ο Θεός παράδεισον” από τους C for Circus στο Θέατρο Άνεσις – 21/01/2025 στις 21:00",
+    "winners": [
+      "ΓΙΩΡΓΟΣ ΠΑΝΤΑΖΟΠΟΥΛΟΣΜΑΡΓΑΡΊΤΑ ΧΑΛΚΙΑΠΑΥΛΟΣ  ΓΕΩΡΓΟΠΟΥΛΟΣΘΑΛΕΙΑ ΔΙΑΜΑΝΤΟΠΟΥΛΟΥΜΑΡΙΑ ΠΑΠΟΥΤΣΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/sikelianos-metron-panton-o-anthropos-tou-gianni-falkoni-sto-theatro-alkmini-21-01-2025-stis-21-00/",
+    "eventTitle": "“Σικελιανός: Μέτρον πάντων ο άνθρωπος” του Γιάννη Φαλκώνη στο θέατρο Αλκμήνη – 21/01/2025 στις 21.00",
+    "winners": [
+      "ΤΕΡΕΖΑ ΖΟΥΓΑΝΕΛΗΑΝΔΡΟΜΑΧΗ ΚΟΥΛΟΥΡΙΩΤΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-eimai-i-gynaika-mou-me-ton-antoni-loudaro-sto-theatro-metaksourgeio-21-01-2025-stis-21-00/",
+    "eventTitle": "Είμαι η γυναίκα μου με τον Αντώνη Λουδάρο στο Θέατρο Μεταξουργείο – 21/01/2025 στις 21.00",
+    "winners": [
+      "ΔΗΜΗΤΡΑ ΑΜΕΡΙΚΆΝΟΥΜΑΡΙΑ ΑΣΚΑΡΙΔΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-mama-mou-sto-theatro-mousouri-kerdiste-proskliseis-21-01-2025-stis-21-00/",
+    "eventTitle": "“Μαμά μου” στο Θέατρο Μουσούρη – Κερδίστε προσκλήσεις – 21/01/2025 στις 21.00",
+    "winners": [
+      "ΘΟΔΩΡΉΣ ΓΙΑΝΝΌΠΟΥΛΟΣΘΕΟΔΩΡΑ ΚΟΥΡΕΜΕΝΟΥΣΤΑΥΡΟΎΛΑ ΜΑΡΑΘΙΑΟΡΕΣΤΗΣ  ΚΑΡΑΜΠΕΣΙΝΗΣ ΝΊΚΟΣ  ΚΑΛΟΓΕΡΌΠΟΥΛΟΣ ΧΡΙΣΤΙΝΑ ΤΖΟΥΤΖΑΧΡΥΣΑ ΚΟΡΑΚΑΛΑΜΠΡΙΝΗ  ΚΟΥΙΟΥΡΗ ΒΑΣΩ ΚΥΡΙΑΚΙΔΟΥ"
+    ]
+  },
+  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-kai-ekfyteysen-o-theos-paradeison-apo-tous-c-for-circus-sto-theatro-anesis-20-01-2025-stis-2000/",
     "eventTitle": "“Και εκφύτευσεν ο Θεός παράδεισον” από τους C for Circus στο Θέατρο Άνεσις – 20/01/2025 στις 20:00",
     "winners": [
@@ -68,7 +110,13 @@
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-lykanthropos-wolf-man-deite-tin-premiera-tis-tainias-sta-village-athens-metro-mall-20-01-2025-stis-2000/",
     "eventTitle": "Λυκάνθρωπος (Wolf Man): Δείτε την πρεμιέρα της ταινίας στα Village Athens Metro Mall – 20/01/2025 στις 20:00",
     "winners": [
-      "ΑΡΓΎΡΗΣ  ΣΚΟΎΡΤΗΣ ΙΩΆΝΝΗΣ  ΓΕΏΡΓΑΣ ΕΛΕΝΗ ΚΑΚΙΟΠΟΥΛΟΥΜΑΡΙΑ ΦΩΤΟΠΟΥΛΟΥΠΑΝΟΣ   ΗΛΙΟΠΟΥΛΟΣ  ΕΙΡΉΝΗ  ΣΤΕΦΑΝΟΥ MAΡΙΑ ΧΡΙΣΤΟΦΟΡΑΤΟΥ ΜΑΡΙΑ"
+      "ΑΡΓΎΡΗΣ ΣΚΟΎΡΤΗΣ",
+      "ΙΩΆΝΝΗΣ ΓΕΏΡΓΑΣ",
+      "ΕΛΕΝΗ ΚΑΚΙΟΠΟΥΛΟΥ",
+      "ΜΑΡΙΑ ΦΩΤΟΠΟΥΛΟΥ",
+      "ΠΑΝΟΣ ΗΛΙΟΠΟΥΛΟΣ",
+      "ΕΙΡΉΝΗ ΣΤΕΦΑΝΟΥ",
+      "MAΡΙΑ ΧΡΙΣΤΟΦΟΡΑΤΟΥ ΜΑΡΙΑ"
     ]
   },
   {
@@ -83,139 +131,6 @@
     "eventTitle": "“Το Αγόρι με τις δυο καρδιές” των αδελφών Αμίρι στο Θέατρο Κατερίνα Βασιλάκου – 20/01/2025 στις 19:00",
     "winners": [
       "ΠΑΝΑΓΙΩΤΑ ΜΑΡΙΟΛΑΚΟΥΕΥΓΕΝΙΑ ΚΟΥΤΣΑΙΜΑΝΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-pianistria-kai-vokalistria-tis-jazz-francesca-tandoi-sto-half-note-jazz-club-19-01-2025-stis-2130/",
-    "eventTitle": "Η πιανίστρια και βοκαλίστρια της jazz Francesca Tandoi στο Half Note Jazz Club – 19/01/2025 στις 21:30",
-    "winners": [
-      "ΕΛΕΝΗ ΒΑΣΙΛΑΝΤΩΝΑΚΗΘΕΟΔΩΡΟΣ ΛΥΡΗΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-don-kixotis-tou-migkel-nte-thervantes-sto-theatro-kappa-19-01-2025-stis-1130/",
-    "eventTitle": "“Δον Κιχώτης” του Μιγκέλ ντε Θερβάντες στο Θέατρο Κάππα – 19/01/2025 στις 11:30",
-    "winners": [
-      "ΕΛΕΝΗ ΣΠΑΘΗΧΡΙΣΤΙΝΑ  ΑΝΤΩΝΙΟΥ ΓΙΟΎΛΗ  ΦΙΛΙΠΠΊΔΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-mpes-sta-papoutsia-mou-apo-ti-theatriki-omada-oneirodrama-sto-theatro-stathmos-19-01-2025-stis-1130/",
-    "eventTitle": "“Μπες στα Παπούτσια μου” από τη θεατρική ομάδα Ονειρόδραμα στο Θέατρο Σταθμός – 19/01/2025 στις 11:30",
-    "winners": [
-      "ΜΑΡΊΑ ΤΖΑΦΟΥΔΈΣΠΟΙΝΑ  ΛΟΥΚΑΔΟΠΟΎΛΟΥ ΖΩΉ  ΤΣΙΑΛΑΦΟΎΤΑ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-oi-dyo-skyloi-tis-konstantinas-nikolaidi-sto-theatro-alkmini-19-01-2025-stis-2100/",
-    "eventTitle": "“Οι δύο σκύλοι” της Κωνσταντίνας Νικολαΐδη στο θέατρο Αλκμήνη – 19/01/2025 στις 21:00",
-    "winners": [
-      "ΣΗΜΕΛΑ ΚΕΦΑΛΙΔΟΥΓΙΩΡΓΟΣ ΜΑΚΡΗΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-bitter-watermellon-tou-andrea-zafeiri-sto-theatro-2510-19-01-2025-stis-1900/",
-    "eventTitle": "“Bitter Watermellon” του Ανδρέα Ζαφείρη στο Θέατρο 2510 – 19/01/2025 στις 19:00",
-    "winners": [
-      "ΕΥΑΓΓΕΛΙΑ ΟΙΚΟΝΌΜΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-akanthodis-tis-zaxaroulas-xroni-stin-athinaiki-skini-kalvou-kalampoki-19-01-2025-stis-1800/",
-    "eventTitle": "«Ακανθώδης» της Ζαχαρούλας Χρόνη στην Αθηναϊκή Σκηνή Κάλβου-Καλαμπόκη – 19/01/2025 στις 18:00",
-    "winners": [
-      "ΕΥΑΓΓΕΛΙΑ ΧΡΥΣΟΠΟΥΛΟΥΜΑΡΊΑ  ΚΟΛΙΑΚΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-to-agori-me-tis-dyo-kardies-ton-adelfon-amiri-sto-theatro-katerina-vasilakou-19-01-2025-stis-1600/",
-    "eventTitle": "“Το Αγόρι με τις δυο καρδιές” των αδελφών Αμίρι στο Θέατρο Κατερίνα Βασιλάκου – 19/01/2025 στις 16:00",
-    "winners": [
-      "ΕΛΕΝΗ ΤΣΙΜΠΟΥΡΑΚΗΙΩΑΝΝΑ ΜΑΖΩΝΑΚΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-meres-oloklires-sta-dendra-tis-margkerit-ntyras-sto-theatro-polyxoros-ekstan-19-01-2025-stis-1900/",
-    "eventTitle": "“Μέρες ολόκληρες στα δένδρα” της Μαργκερίτ Ντυράς στο Θέατρο – Πολυχώρος Εκστάν – 19/01/2025 στις 19:00",
-    "winners": [
-      "ΚΥΡΙΑΚΉ  ΘΡΑΣΥΒΟΥΛΟΥ ΜΙΧΑΛΗΣ ΜΟΡΑΓΛΗΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/i-athina-tou-mesopolemou-1922-1940-ntokimanter-tis-marias-iliou-sto-megaro-mousikis-19-01-2025-stis-2000/",
-    "eventTitle": "“Η Αθήνα του Μεσοπολέμου 1922-1940”: Ντοκιμαντέρ της Μαρίας Ηλιού στο Μέγαρο Μουσικής – 19/01/2025 στις 20:00",
-    "winners": [
-      "ΘΑΝΟΣ ΜΥΓΔΑΝΗΣΣΟΦΊΑ  ΦΙΛΙΠΠΊΔΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-to-xristougenniatiko-oneiro-tou-skroutz-tou-gianni-romanou-sto-theatro-xoros-texnis-asomaton-19-01-2025-stis-1200/",
-    "eventTitle": "«Το Χριστουγεννιάτικο όνειρο του Σκρουτζ» του Γιάννη Ρωμανού στο θέατρο «Χώρος Τέχνης Ασωμάτων» – 19/01/2025 στις 12:00",
-    "winners": [
-      "ΔΗΜΗΤΡΙΟΣ ΣΩΤΗΡΟΠΟΥΛΟΣΚΩΝΣΤΑΝΤΙΝΑ ΚΑΤΣΙΑΒΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-lyssasmeni-gata-tou-tenesi-ouiliams-sto-theatro-athina-19-01-2025-stis-1900/",
-    "eventTitle": "“Η Λυσσασμένη Γάτα” του Τενεσί Ουίλιαμς στο Θέατρο Αθηνά – 19/01/2025 στις 19:00",
-    "winners": [
-      "ΕΛΕΝΗ ΠΑΠΑΚΑΤΕΡΙΝΑ ΤΣΙΚΡΙΚΑΑΓΓΕΛΙΚΗ ΤΣΙΚΟΥΔΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/thrylikotites-mia-in-situ-yvridiki-parastasi-tou-ioko-ioanni-kotidi-sto-cinobo-opera-19-01-2025-stis-1600/",
-    "eventTitle": "“Θρυλικότητες”: Μια in situ υβριδική παράσταση του Ιώκο Ιωάννη Κοτίδη στο Cinobo Opera – 19/01/2025 στις 16:00",
-    "winners": [
-      "ΘΕΟΔΩΡΑ ΔΙΑΜΑΝΤΙΔΟΥΓΕΩΡΓΙΟΣ ΧΑΤΖΗΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/thrylikotites-mia-in-situ-yvridiki-parastasi-tou-ioko-ioanni-kotidi-sto-cinobo-opera-19-01-2025-stis-1600-2/",
-    "eventTitle": "“Θρυλικότητες”: Μια in situ υβριδική παράσταση του Ιώκο Ιωάννη Κοτίδη στο Cinobo Opera – 19/01/2025 στις 16:00",
-    "winners": [
-      "ΘΕΟΔΩΡΑ ΔΙΑΜΑΝΤΙΔΟΥΓΕΩΡΓΙΟΣ ΧΑΤΖΗΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/you-dont-know-my-place-i-mousiki-tou-tzoulious-istman-stin-enallaktiki-skini-tis-ethnikis-lyrikis-skinis-sto-kpisn-19-01-2025-stis-1930/",
-    "eventTitle": "You Don’t Know My Place: Η μουσική του Τζούλιους Ήστμαν στην Εναλλακτική Σκηνή της Εθνικής Λυρικής Σκηνής, στο ΚΠΙΣΝ – 19/01/2025 στις 19:30",
-    "winners": [
-      "ΚΩΝΣΤΑΝΤΊΝΑ ΜΑΓΚΑΦΆΆΝΝΑ  ΙΓΓΛΕΖΟΥ ΗΛΕΚΤΡΑ ΣΕΒΕΝΤΕΚΙΔΟΥΣΤΕΛΛΑ ΤΑΧΤΑΡΑ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-arravoniastikia-tou-axillea-tis-alkis-zei-sto-theatro-metaksourgeio-kerdiste-proskliseis-19-01-2025-stis-1900/",
-    "eventTitle": "Η αρραβωνιαστικιά του Αχιλλέα της Άλκης Ζέη στο Θέατρο Μεταξουργείο- Κερδίστε Προσκλήσεις – 19/01/2025 στις 19:00",
-    "winners": [
-      "ΒΑΣΙΛΙΚΉ ΔΑΜΆΣΚΟΥAΓΓΕΛΙΚΗ ΤΖΙΜΑΒΑΡΒΑΡΑ ΚΑΝΟΝΙΔΟΥΚΕΛΛΥ ΜΙΧΑΗΛΕΛΠΙΔΑ ΝΙΚΟΛΑΙΔΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-ta-genethlia-tis-ririkas-tis-marias-kilaidoni-sto-theatro-metaksourgeio-19-01-2025-stis-1200/",
-    "eventTitle": "«Τα γενέθλια της Ριρίκας» της Μαρίας Κηλαηδόνη στο θέατρο Μεταξουργείο – 19/01/2025 στις 12:00",
-    "winners": [
-      "ΕΥΘΥΜΗΣ ΚΥΡΓΙΑΝΝΑΚΗΣΜΑΝΩΛΗΣ ΠΑΛΑΙΟΛΟΥΓΚΑΣΑΙΚΑΤΕΡΙΝΗ ΓΑΛΥΦΑNΑΣΙΑ ΜΠΟΥΓΙΟΥΚΑΜΑΡΊΑ ΠΕΤΡΟΠΟΥΛΟΥΜΑΡΙΑ ΝΟΡΜΑ ΠΙΣΤΙΟΛΗΒΑΣΙΛΙΚΉ ΤΣΑΛΊΜΗΚΩΣΤΑΣ ΓΚΙΚΑΣΑΡΙΣΤΕΙΔΗΣ ΔΑΦΕΡΕΡΑΣΒΑΣΙΛΙΚΉ ΤΣΑΛΊΜΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-to-tavli-tou-dimitri-kexaidi-sto-apo-mixanis-theatro-19-01-2025-stis-2030/",
-    "eventTitle": "“Το Τάβλι” του Δημήτρη Κεχαΐδη στο Από Μηχανής Θέατρο – 19/01/2025 στις 20:30",
-    "winners": [
-      "ΜΑΡΊΑ ΠΑΝΑΓΟΠΟΎΛΟΥ ΚΩΝΣΤΑΝΤΙΝΑ ΛΟΥΚΑΚΗΑΓΓΕΛΟΣ ΝΙΚΟΛΑΟΥΚΑΛΛΙΟΠΗ ΣΕΛΙΑΝΑΚΗΕΛΕΝΗ ΠΙΠΗΝΤΙΝΟΣ ΔΗΜΗΤΡΑΚΟΠΟΥΛΟΣΕΙΡΗΝΗ ΕΥΑΓΓΕΛΟΥΓΑΒΡΙΉΛ ΚΑΡΑΚΩΤΣΟΓΛΟΥΣΤΈΛΙΟΣ ΛΙΟΥΔΆΚΗΣΑΦΡΟΔΊΤΗ  ΜΠΟΝΤΊΝΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-tzon-gavriil-mporkman-tou-errikou-ipsen-sto-theatro-ekati-19-01-2025-stis-1900/",
-    "eventTitle": "“Τζον Γαβριήλ Μπόρκμαν” του Ερρίκου Ιψεν στο Θέατρο Εκάτη – 19/01/2025 στις 19:00",
-    "winners": [
-      "ΜΑΡΙΑ ΓΕΩΡΓΑΚΟΠΟΥΛΟΥΠΑΝΑΓΙΩΤΗΣ ΡΟΥΣΟΠΟΥΛΟΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-alli-stella-tou-themi-moumoulidi-sto-mikro-gkloria-19-01-2025-stis-1800/",
-    "eventTitle": "“Η άλλη Στέλλα” του Θέμη Μουμουλίδη στο Μικρό Γκλόρια – 19/01/2025 στις 18:00",
-    "winners": [
-      "ΔΑΝΑΗ ΒΑΣΤΑΡΟΥΧΑΠΑΣΧΑΛΗΣ ΣΑΝΙΔΑΣ"
     ]
   },
   {

@@ -4,14 +4,6 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
-
-const url1 = 'https://www.monopoli.gr/diagonismoi/proskliseis-gia-theatro/page/'; // Replace with your target webpage link
-const url2 = 'https://www.monopoli.gr/diagonismoi/proskliseis-gia-theatro/page/2/'; // Replace with your target webpage link
-const url3 = 'https://www.monopoli.gr/diagonismoi/proskliseis-gia-theatro/page/3/'; // Replace with your target webpage link
-const url4 = 'https://www.monopoli.gr/diagonismoi/proskliseis-gia-theatro/page/4/'; // Replace with your target webpage link
-const url6 = 'https://www.monopoli.gr/diagonismos/'; // Replace with your target webpage link
-
-
 // Get the current directory in ES module scope
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -71,13 +63,21 @@ async function extractLinks(url) {
   }
 }
 
-const links1 = await extractLinks(url1);
-const links2 = await extractLinks(url2);
-const links3 = await extractLinks(url3);
-const links4 = await extractLinks(url4);
-const links6 = await extractLinks(url6);
-const pageLinks = [...links1, ...links2, ...links3, ...links4, ...links6];
+  const categories = [
+    'https://www.monopoli.gr/diagonismos/',
+    'https://www.monopoli.gr/diagonismoi/proskliseis-gia-theatro',
+    'https://www.monopoli.gr/diagonismoi/proskliseis-gia-theatro/page/2/',
+    'https://www.monopoli.gr/diagonismoi/proskliseis-gia-theatro/page/3/',
+    'https://www.monopoli.gr/diagonismoi/proskliseis-gia-theatro/page/4/',
+    'https://www.monopoli.gr/diagonismoi/proskliseis-gia-geystikes-apolayseis/',
+  ]
 
+  let pageLinks = [];
+
+  for (const category of categories) {
+    const links = await extractLinks(category);
+    pageLinks.push(...links);
+  }
 
 async function fetchAvailableDates(code) {
   try {

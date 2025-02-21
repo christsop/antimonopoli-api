@@ -245,18 +245,6 @@ const users = [
   },
   {
     gender: "Κος",
-    firstname: "Πανος",
-    lastname: "Αναστασοπουλος",
-    address: "Θεοφιλοπουλου 7",
-    city: "Νεος Κοσμος",
-    postal: "11743",
-    phone: "6978290410",
-    email: "anastaso.pan@gmail.com",
-    job: "Ιδιωτ. Υπαλληλος",
-    age: "19-30"
-  },
-  {
-    gender: "Κος",
     firstname: "Λευτερης",
     lastname: "Μοριτς",
     address: "Σπαρτης 7",

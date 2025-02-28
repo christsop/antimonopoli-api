@@ -1,72 +1,324 @@
 [
   {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-doros-dimosthenous-sto-half-note-jazz-club-02-03-2025-stis-2130/",
+    "eventTitle": "Ο Δώρος Δημοσθένους στο Half Note Jazz Club – 02/03/2025 στις 21:30",
+    "winners": [
+      "ΑΝΑΣΤΑΣΙΑ ΑΝΑΓΝΩΣΤΟΥΜΙΝΑ ΧΙΝΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-don-kixotis-tou-migkel-nte-thervantes-sto-theatro-kappa-02-03-2025-stis-1130/",
+    "eventTitle": "“Δον Κιχώτης” του Μιγκέλ ντε Θερβάντες στο Θέατρο Κάππα – 02/03/2025 στις 11:30",
+    "winners": [
+      "ΔΗΜΗΤΡΗΣ ΚΟΥΣΠΑΡΗΣΕΜΜΑΝΟΥΕΛΑ ΨΩΜΑΔΑΚΗΧΡΥΣΑ ΜΠΕΝΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-ta-pathi-tis-agapis-tou-thanasi-salta-sto-xoros-texnis-asomaton-02-03-2025-stis-2000/",
+    "eventTitle": "“Τα πάθη της Αγάπης” του Θανάση Σάλτα στο Χώρος Τέχνης Ασωμάτων – 02/03/2025 στις 20:00",
+    "winners": [
+      "ΣΤΕΡΓΙΑΝΗ ΓΕΡΑΣΟΠΟΥΛΟΥΜΑΡΊΑ ΠΙΣΙΝΆΡΑΔΉΜΗΤΡΑ ΛΥΚΙΑΡΔΟΠΟΎΛΟΥΠΑΝΑΓΙΩΤΗΣ ΓΚΟΤΣΗΣΕΙΡΗΝΗ ΕΥΑΓΓΕΛΟΥΜΑΡΙΑ ΔΡΑΚΟΥΛΑΚΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-meres-oloklires-sta-dendra-tis-margkerit-ntyras-sto-theatro-polyxoros-ekstan-02-03-2025-stis-1900/",
+    "eventTitle": "“Μέρες ολόκληρες στα δένδρα” της Μαργκερίτ Ντυράς στο Θέατρο – Πολυχώρος Εκστάν – 02/03/2025 στις 19:00",
+    "winners": [
+      "ΚΡΥΣΤΑΛΛΙΑ ΡΟΥΜΠΙΕΜΑΡΙΑ ΚΟΥΚΟΥΛΙΩΤΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-meres-oloklires-sta-dendra-tis-margkerit-ntyras-sto-theatro-polyxoros-ekstan-01-03-2025-stis-2030/",
+    "eventTitle": "“Μέρες ολόκληρες στα δένδρα” της Μαργκερίτ Ντυράς στο Θέατρο – Πολυχώρος Εκστάν – 01/03/2025 στις 20:30",
+    "winners": [
+      "ΓΙΆΝΝΗΣ ΠΑΠΑΚΩΝΣΤΑΝΤΙΝΟΥ ΔΗΜΗΤΡΗΣ ΑΛΒΑΝΟΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-kai-pame-prima-tis-marinas-sotiropoulou-sto-theatro-aleksandreia-01-03-2025-stis-1800/",
+    "eventTitle": "“Και πάμε πρίμα…” της Μαρίνας Σωτηροπούλου στο Θέατρο Αλεξάνδρεια – 01/03/2025 στις 18:00",
+    "winners": [
+      "ΝΙΚΗΦΌΡΟΣ ΚΑΙΜΑΞΉΣΝΙΚΟΣ ΚΟΥΚΛΟΤΙΔΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-staxtopouta-sto-theatro-aylaia-01-03-2025-stis-1700/",
+    "eventTitle": "“Η Σταχτοπούτα” στο Θέατρο Αυλαία – 01/03/2025 στις 17:00",
+    "winners": [
+      "ΧΡΥΣΟΥΛΑ ΠΟΛΥΖΟΥΜΑΡΊΑ  ΓΑΛΆΝΗ ΣΠΥΡΟΣ ΣΓΟΥΡΟΠΟΥΛΟΣΙΩΑΝΝΗΣ ΠΑΠΟΥΤΣΗΣΕΙΡΉΝΗ  ΤΖΙΒΙΤΖΉ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-xansel-gkretel-sto-theatro-aylaia-02-03-2025-stis-1230/",
+    "eventTitle": "“Χάνσελ & Γκρέτελ” στο Θέατρο Αυλαία – 02/03/2025 στις 12:30",
+    "winners": [
+      "ΓΛΥΚΕΡΊΑ  ΓΚΟΤΣΗ ΜΑΡΊΑ ΠΑΠΑΔΟΠΟΎΛΟΥΕΛΕΝΗ ΣΤΑΘΑΚΗΖΩΉ ΤΣΙΑΛΑΦΟΎΤΑΑΛΕΞΆΝΔΡΑ ΠΙΤΟΥΡΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-gynaikes-sto-ntivani-tis-voulas-argyropoulou-sto-theatro-nous-01-03-2025-stis-2100/",
+    "eventTitle": "“Γυναίκες στο Ντιβάνι” της Βούλας Αργυροπούλου στο Θέατρο Νους – 01/03/2025 στις 21:00",
+    "winners": [
+      "ΒΑΣΙΛΗΣ ΒΑΣΙΛΕΙΟΥΙΑΝΘΗ ΗΛΙΑΔΗΓΙΩΡΓΟΣ ΔΕΛΙΕΖΑΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-giannis-giokarinis-nikos-ziogalas-vasilis-kazoulis-kai-lakis-papadopoulos-ston-stayro-tou-notou-plus-01-03-2025-stis-2200/",
+    "eventTitle": "Γιάννης Γιοκαρίνης, Νίκος Ζιώγαλας, Βασίλης Καζούλης και Λάκης Παπαδόπουλος στον Σταυρό του Νότου PLUS – 01/03/2025 στις 22:00",
+    "winners": [
+      "ΟΛΓΑ ΡΟΥΒΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-vasilias-vatraxos-ton-adelfon-gkrim-sto-theatro-thymeli-01-03-2025-stis-1800/",
+    "eventTitle": "«Ο Βασιλιάς Βάτραχος» των αδελφών Γκριμ στο Θέατρο Θυμέλη – 01/03/2025 στις 18:00",
+    "winners": [
+      "ΑΛΕΞΑΝΔΡΑ ΜΟΡΦΟΠΟΎΛΟΥΝΙΚΟΛΕΤΤΑ ΤΡΙΑΝΤΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-itan-oloi-tous-paidia-mou-tou-arthour-miller-sto-theatro-alkyonis-02-03-2025-stis-1900/",
+    "eventTitle": "«Ήταν όλοι τους παιδιά μου» του Άρθουρ Μίλλερ στο θέατρο Αλκυονίς – 02/03/2025 στις 19:00",
+    "winners": [
+      "ΑΛΕΞΑΝΔΡΑ ΡΟΥΜΠΟΥΟΛΓΑ ΓΕΩΡΓΟΥΛΑ ΓΙΩΡΓΟΣ ΤΣΑΚΙΡΕΛΛΗΣΣΩΤΗΡΗΣ ΝΙΚΟΛΑΟΥΑΝΑΣΤΑΣΗΣ ΜΠΟΥΡΑΖΑΝΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-itan-oloi-tous-paidia-mou-tou-arthour-miller-sto-theatro-alkyonis-01-03-2025-stis-2100/",
+    "eventTitle": "«Ήταν όλοι τους παιδιά μου» του Άρθουρ Μίλλερ στο θέατρο Αλκυονίς – 01/03/2025 στις 21:00",
+    "winners": [
+      "ΞΕΝΙΑ ΔΑΡΡΑΑΓΓΕΛΙΚΗ  ΜΑΡΚΟΠΟΥΛΟΥ ΦΩΤΊΤΣΑ  ΜΆΝΟΥ ΕΛΛΗ ΔΙΑΜΑΝΤΕΑ ΒΆΛΙΑ  ΧΡΙΣΤΌΠΟΥΛΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-itan-oloi-tous-paidia-mou-tou-arthour-miller-sto-theatro-alkyonis-01-03-2025-stis-1800/",
+    "eventTitle": "«Ήταν όλοι τους παιδιά μου» του Άρθουρ Μίλλερ στο θέατρο Αλκυονίς – 01/03/2025 στις 18:00",
+    "winners": [
+      "ΣΟΦΊΑ ΠΑΡΑΣΚΕΥΌΠΟΥΛΟΥΡΟΥΜΠΙΝΗ ΙΩΑΝΝΟΥΚΩΝΣΤΑΝΤΙΝΑ ΛΙΣΓΑΡΑΝΙΚΟΣ ΧΑΤΖΗΧΡΗΣΤΟΥΣΩΤΉΡΗΣ ΒΑΚΑΛΌΠΟΥΛΟΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-a-tribute-to-charlie-parker-apo-to-gilad-atzmon-quartet-sto-theatre-of-the-no-01-03-2025-stis-2230/",
+    "eventTitle": "A Tribute to Charlie Parker από το Gilad Atzmon Quartet στο Theatre Of The No – 01/03/2025 στις 22:30",
+    "winners": [
+      "ΛΙΛΙΑΝ ΦΑΝΙΔΑΚΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-antigoni-mou-tou-andrea-flouraki-sto-theatro-104-02-03-2025-stis-2115/",
+    "eventTitle": "«Αντιγόνη μου» του Ανδρέα Φλουράκη στο θέατρο 104 – 02/03/2025 στις 21:15",
+    "winners": [
+      "ΧΡΥΣΑ ΚΟΡΑΚΑΧΡΙΣΤΊΝΑ  ΔΡΊΤΣΑ ΦΙΛΙΠΠΟΣ ΝΙΚΟΛΑΙΔΗΣΚΩΝΣΤΑΝΤΊΝΟΣ ΜΩΡΑΪ́ΤΗΣΠΑΡΗΣ ΓΙΑΠΑΠΠΑΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/ypervaro-asimanto-asximatisto-ena-eyropaiko-deipno-tou-verner-svamp-sto-theatro-thiseion-02-03-2025-stis-2100/",
+    "eventTitle": "“Υπέρβαρο, ασήμαντο: Ασχημάτιστο/Ένα ευρωπαϊκό δείπνο” του Βέρνερ Σβαμπ στο Θέατρο Θησείον – 02/03/2025 στις 21:00",
+    "winners": [
+      "ΦΙΛΙΠΠΟΣ ΜΗΤΡΟΠΟΥΛΟΣΚΩΣΤΑΣ ΟΥΖΟΥΝΙΔΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-contaminated-tis-theodoras-kotsi-felitsi-sto-metropolitan-the-urban-theater-thes-niki-02-03-2025-stis-2100/",
+    "eventTitle": "“Contaminated” της Θεοδώρας Κώτση-Φελίτσι στο Metropolitan -The Urban Theater (Θεσ/νικη) – 02/03/2025 στις 21:00",
+    "winners": [
+      "ΠΩΛΙΝΑ ΖΙΑΚΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-contaminated-tis-theodoras-kotsi-felitsi-sto-metropolitan-the-urban-theater-thes-niki-01-03-2025-stis-2100/",
+    "eventTitle": "“Contaminated” της Θεοδώρας Κώτση-Φελίτσι στο Metropolitan -The Urban Theater (Θεσ/νικη) – 01/03/2025 στις 21:00",
+    "winners": [
+      "ΜΕΛΠΟΜΕΝΗ ΙΩΑΝΝΙΔΟΥMΕΛΠΟΜΕΝΗ ΜΑΥΡΊΔΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-aporriptetai-tou-tzortz-mpernarnt-so-sto-theatro-simeio-02-03-2025-stis-1930/",
+    "eventTitle": "“Απορρίπτεται” του Τζωρτζ Μπέρναρντ Σω στο Θέατρο Σημείο – 02/03/2025 στις 19:30",
+    "winners": [
+      "ΘΕΝΙΑ ΚΟΣΜΑΕΥΑΓΓΕΛΟΣ ΜΠΟΛΗΣΑΙΚΑΤΕΡΙΝΗ ΦΥΚΟΥΡΑΑΡΤΕΜΙΣ ΚΙΝΙΑΓΙΑΝΝΗΣ ΚΟΥΣΠΑΡΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-aporriptetai-tou-tzortz-mpernarnt-so-sto-theatro-simeio-01-03-2025-stis-2030/",
+    "eventTitle": "“Απορρίπτεται” του Τζωρτζ Μπέρναρντ Σω στο Θέατρο Σημείο – 01/03/2025 στις 20:30",
+    "winners": [
+      "ΚΥΡΙΑΚΉ ΜΑΡΙΑ ΜΠΙΤΑΔΟΥΓΙΩΡΓΟΣ Δ ΠΑΠΟΥΛΙΑΣΣΤΕΛΛΑ ΠΕΤΣΙΤΗΑΓΓΕΛΙΚΗ ΣΤΡΟΥΣΟΠΟΥΛΟΥΜΑΝΟΣ  ΑΝΑΤΟΛΊΤΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-mounis-tis-lenas-kitsopoulou-sto-theatro-olvio-02-03-2025-stis-2030/",
+    "eventTitle": "«Ο Μουνής» της Λένας Κιτσοπούλου στο Θέατρο Olvio – 02/03/2025 στις 20:30",
+    "winners": [
+      "ΙΩΑΝΝΑ ΒΕΡΛΗΙΩΑΝΝΑ ΣΤΑΘΟΠΟΥΛΟΥΠΑΝΑΓΙΩΤΗΣ ΛΑΓΙΟΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-mounis-tis-lenas-kitsopoulou-sto-theatro-olvio-01-03-2025-stis-1830/",
+    "eventTitle": "«Ο Μουνής» της Λένας Κιτσοπούλου στο Θέατρο Olvio – 01/03/2025 στις 18:30",
+    "winners": [
+      "ΜΥΡΤΏ ΛΥΚΟΎΡΗΓΕΡΑΣΙΜΟΣ ΚΟΜΙΩΤΗΣΒΥΡΩΝΑΣ ΡΑΛΛΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/van-flamengo-gogh-i-zoi-kai-to-ergo-tou-van-gkogk-mesa-apo-to-flamengko-sto-theatro-metaksourgeio-01-03-2025-stis-2100/",
+    "eventTitle": "“Van-Flamengo-Gogh”: Η ζωή και το έργο του Βαν Γκογκ μέσα από το φλαμένγκο στο Θέατρο Μεταξουργείο – 01/03/2025 στις 21:00",
+    "winners": [
+      "ΔΉΜΗΤΡΑ  ΛΑΜΠΡΙΝΆΚΟΥ ΓΑΡΥΦΑΛΙΑ ΠΡΟΚΟΠΙΟΥΤΡΥΦΩΝΑΣ ΜΑΡΑΤΟΣΑΓΓΕΛΟΣ ΟΙΚΟΝΟΜΙΔΗΣΙΟΛΗ ΚΑΤΣΑΡΟΥΚΑΛΛΙΡΡΟΗ ΖΗΚΟΥΠΗΝΕΛΟΠΗ ΧΑΡΙΣΙΑΔΗΡΕΝΟΣ ΑΠΟΣΤΟΛΟΠΟΥΛΟΣΘΕΟΔΟΣΗΣ ΚΑΝΙΑΡΌΣΠΗΝΕΛΟΠΗ ΚΑΛΎΒΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-votka-molotof-tis-elenis-rantou-ston-elliniko-kosmo-02-03-2025-stis-1815/",
+    "eventTitle": "“Βότκα Μολότοφ” της Ελένης Ράντου στον «Ελληνικό Κόσμο» – 02/03/2025 στις 18:15",
+    "winners": [
+      "ΛΙΝΑ ΚΟΥΣΤΈΝΗΣΤΑΜΑΤΙΑ ΚΑΡΑΜΠΑΛΗΜΑΡΙΑ ΚΟΥΜΠΑΣΑΡΟΥΓΕΩΡΓΙΑ ΗΛΙΟΠΟΥΛΟΥΕΛΕΥΘΕΡΊΑ ΕΥΑΓΓΕΛΑΚΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-pappous-exei-piesi-tis-dimitras-papadopoulou-sto-theatron-tou-kentrou-politismou-ellinikos-kosmos-01-03-2025-stis-2115/",
+    "eventTitle": "“Ο παππούς έχει πίεση” της Δήμητρας Παπαδοπούλου στο Θέατρον του Κέντρου Πολιτισμού Ελληνικός Κόσμος – 01/03/2025 στις 21:15",
+    "winners": [
+      "ΣΤΕΛΙΟΣ ΖΑΟΥΤΗΣΕΥΑΓΓΕΛΟΣ ΛΑΘΙΩΤΑΚΗΣΑΛΕΞΑΝΔΡΑ ΠΑΠΑΔΗΜΗΤΡΙΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-enas-kathreftis-tis-sam-xolkroft-sto-theatro-prova-02-03-2025-stis-1900/",
+    "eventTitle": "“Ένας Καθρέφτης” της Σαμ Χόλκροφτ στο Θέατρο Πρόβα – 02/03/2025 στις 19:00",
+    "winners": [
+      "ΕΛΈΝΗ ΜΠΑΛΙΟΎΚΟΥΝΕΚΤΑΡΙΟΣ ΧΑΡΑΤΣΗΣΖΕΤΑ ΠΑΝΑΓΗΔΗΜΗΤΡΑ ΡΑΣΠΙΤΣΟΥΕΛΠΙΔΑ ΝΙΚΟΛΑΙΔΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-enas-kathreftis-tis-sam-xolkroft-sto-theatro-prova-01-03-2025-stis-2030/",
+    "eventTitle": "“Ένας Καθρέφτης” της Σαμ Χόλκροφτ στο Θέατρο Πρόβα – 01/03/2025 στις 20:30",
+    "winners": [
+      "ΚΥΡΙΑΚΉ ΜΑΡΚΈΑΜΑΡΙΑ ΓΙΑΝΝΟΥΤΣΟΥΓΙΏΡΓΟΣ ΞΈΝΟΣΧΡΗΣΤΟΣ ΡΑΦΑΗΛΙΔΗΣΓΙΩΤΑ ΜΠΡΑΒΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-teleti-tou-tsagiou-ton-achim-wieland-kai-mariou-ioannou-sto-artiria-athens-02-03-2025-stis-2100/",
+    "eventTitle": "«Η Τελετή του Τσαγιού» των Achim Wieland και Μάριου Ιωάννου στο Αrtiria Athens – 02/03/2025 στις 21:00",
+    "winners": [
+      "ΝΙΚΗΦΟΡΟΣ ΒΟΥΤΣΗΣΑΡΙΣΤΟΤΕΛΗΣ ΓΡΗΓΟΡΑΤΟΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-teleti-tou-tsagiou-ton-achim-wieland-kai-mariou-ioannou-sto-artiria-athens-01-03-2025-stis-2100/",
+    "eventTitle": "«Η Τελετή του Τσαγιού» των Achim Wieland και Μάριου Ιωάννου στο Αrtiria Athens – 01/03/2025 στις 21:00",
+    "winners": [
+      "ΓΕΩΡΓΙΑ ΑΓΓΕΛΑΚΟΠΟΥΛΟΥΚΑΤΕΡΊΝΑ ΒΟΖΕΜΠΕΡ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-giorgos-papageorgiou-kai-oi-polkar-ston-stayro-tou-notou-01-03-2025-stis-2230/",
+    "eventTitle": "Ο Γιώργος Παπαγεωργίου και οι Polkar στον Σταυρό του Νότου – 01/03/2025 στις 22:30",
+    "winners": [
+      "ΓΙΩΡΓΟΣ ΧΡΙΣΤΟΠΟΥΛΟΣΜΑΡΙΝΑ ΧΟΡΤΑΤΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-the-swingin-cats-sto-gazarte-roof-stage-kerdiste-proskliseis-02-03-2025-stis-2130/",
+    "eventTitle": "The Swingin’ Cats στο Gazarte Roof Stage – Κερδίστε προσκλήσεις – 02/03/2025 στις 21:30",
+    "winners": [
+      "ΠΕΤΡΟΣ  ΚΩΝΣΤΑΝΤΙΝΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-metamorfosi-tou-frants-kafka-sto-theatro-olvio-01-03-2025-stis-2330/",
+    "eventTitle": "“Μεταμόρφωση” του Φραντς Κάφκα στο Θέατρο Olvio – 01/03/2025 στις 23:30",
+    "winners": [
+      "ΒΑΓΓΕΛΗΣ ΜΠΕΜΠΗΣΜΑΚΑΛΙΑΣ ΒΑΓΓΕΛΗΣΚΩΣΤΟΥΛΑ ΜΗΤΑΑΝΔΡΕΑΣ ΣΦΗΝΑΣΔΙΟΝΥΣΙΑ ΔΡΟΥΛΙΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-stamatis-kraounakis-t-aidonia-tou-xeimona-sto-alsos-02-03-2025-stis-2030/",
+    "eventTitle": "Ο Σταμάτης Κραουνάκης «Τ’ Αηδόνια Του Χειμώνα» στο Άλσος – 02/03/2025 στις 20:30",
+    "winners": [
+      "ΕΙΡΗΝΗ ΝΟΜΙΚΟΥΔΗΜΗΤΡΑ ΝΙΚΟΛΕΤΑ ΑΝΑΣΤΑΣΙΟΥΑΡΙΑΔΝΗ ΔΟΥΒΡΗΣΟΦΙΑ ΛΟΥΔΑΡΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-mikser-tis-zetis-fitsiou-sto-theatro-mikro-gkloria-02-03-2025-stis-2000/",
+    "eventTitle": "“Μίξερ” της Ζέτης Φίτσιου στο Θέατρο Μικρό Γκλόρια – 02/03/2025 στις 20:00",
+    "winners": [
+      "ΠΑΡΑΣΚΕΥΗ ΣΕΪΣΟΓΛΟΥΚΑΤΕΡΙΝΑ ΓΚΑΡΑΒΕΛΑΕΛΒΙΡΑ ΔΡΙΒΗΛΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-to-gramma-mias-agnostis-tou-stefan-tsvaix-sto-studio-kypselis-02-03-2025-stis-1845/",
+    "eventTitle": "“Το Γράμμα μιας άγνωστης” του Στέφαν Τσβάιχ  στο Studio Κυψέλης – 02/03/2025 στις 18:45",
+    "winners": [
+      "ΤΡΑΥΛΟΥ ΑΣΗΜΙΝΑΒΑΓΓΕΛΙΑ ΛΙΑΜΠΟΤΗ                             ΤΖΕΝΗ  ΚΩΝΣΤΑΝΤΙΝΟΥ                              ΑΣΠΑΣΙΑ ΧΑΡΛΑΜΠΙΤΑΚΩΝΣΤΑΝΤΙΝΟΣ  ΠΕΤΡΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-to-gramma-mias-agnostis-tou-stefan-tsvaix-sto-studio-kypselis-01-03-2025-stis-2100/",
+    "eventTitle": "“Το Γράμμα μιας άγνωστης” του Στέφαν Τσβάιχ  στο Studio Κυψέλης – 01/03/2025 στις 21:00",
+    "winners": [
+      "ΑΣΠΑΣΙΑ ΧΑΡΛΑΜΠΙΤΑΧΡΉΣΤΟΣ ΡΑΜΑΝΤΆΝΗΣΙΩΑΝΝΗΣ ΤΣΟΠΕΛΑΣΓΕΣΘΗΜΑΝΗ ΔΗΜΗΤΡΟΠΟΥΛΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-fransis-tis-almperta-tsopanaki-sto-theatro-paramythias-02-03-2025-stis-2000/",
+    "eventTitle": "“Φράνσις” της Αλμπέρτα Τσοπανάκη στο Θέατρο Παραμυθίας – 02/03/2025 στις 20:00",
+    "winners": [
+      "ΣΟΦΙΑ ΚΟΣΕΟΓΛΟΥΜΑΡΙΑ ΜΕΜΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-vasilakis-kai-mairoula-tou-anargyrou-vazaiou-sto-theatro-alkmini-01-03-2025-stis-1830/",
+    "eventTitle": "“Βασιλάκης και Μαιρούλα” του Ανάργυρου Βαζαίου στο θέατρο Αλκμήνη – 01/03/2025 στις 18:30",
+    "winners": [
+      "ΒΑΣΙΛΕΙΑ ΒΟΥΡΟΥΣΩΤΗΡΗΣ ΚΛΕΙΔΑΡΑΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-paranoia-tou-gky-nte-mopassan-sto-theatro-mikros-kerameikos-02-03-2025-stis-1830/",
+    "eventTitle": "«PARANOIA» του Γκυ Ντε Μωπασσάν στο Θέατρο Μικρός Κεραμεικός – 02/03/2025 στις 18:30",
+    "winners": [
+      "ΔΗΜΗΤΡΑ ΚΑΝΑΚΗΒΙΟΛΕΤΤΑ ΧΡΥΣΗΜΑΡΙΑ ΗΛΙΟΥΑΔΑΜΑΝΤΙΑ ΖΩΓΡΑΦΑΚΗΚΑΛΛΙΟΠΗ ΜΙΜΙΚΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-paranoia-tou-gky-nte-mopassan-sto-theatro-mikros-kerameikos-01-03-2025-stis-2130/",
+    "eventTitle": "«PARANOIA» του Γκυ Ντε Μωπασσάν στο Θέατρο Μικρός Κεραμεικός – 01/03/2025 στις 21:30",
+    "winners": [
+      "ΧΡΉΣΤΟΣ ΤΣΟΠΈΛΑΣΓΕΩΡΓΙΟΣ ΠΑΠΑΚΩΝΣΤΑΝΤΊΝΟΥΗΛΙΑΝΑ ΣΠΥΡΙΔΩΝΟΣΑΝΔΡΕΑΣ ΜΟΥΡΣΕΛΛΑΣΝΤΟΡΑ ΝΤΑΓΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-elegeia-tis-mnimis-tou-nik-pein-sto-studio-mayromixali-02-03-2025-stis-%ce%841900/",
+    "eventTitle": "“Ελεγεία της μνήμης” του Νικ Πέιν στο Studio Μαυρομιχάλη – 02/03/2025 στις ΄19:00",
+    "winners": [
+      "ΕΡΜΙΟΝΗ ΒΑΡΒΑΡΟΠΟΥΛΟΥΓΙΩΡΓΟΣ ΛΙΑΔΗΣΗΛΙΑΣ ΠΙΣΤΙΚΟΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-promitheas-estayromenos-tou-xristou-liakopoulou-sto-theatro-alkmini-02-03-2025-stis-1830/",
+    "eventTitle": "«Προμηθέας εσταυρωμένος» του Χρήστου Λιακόπουλου στο Θέατρο Αλκμήνη – 02/03/2025 στις 18:30",
+    "winners": [
+      "ΧΡΥΣΑ ΝΩΛΗΠΑΝΑΓΙΏΤΗΣ ΜΠΟΥΛΟΓΕΏΡΓΟΣΒΑΙΑ ΜΑΤΣΚΑΕΥΑΓΓΕΛΟΣ ΧΟΡΤΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-tzon-gavriil-mporkman-tou-errikou-ipsen-sto-theatro-ekati-02-03-2025-stis-1900/",
+    "eventTitle": "“Τζον Γαβριήλ Μπόρκμαν” του Ερρίκου Ιψεν στο Θέατρο Εκάτη – 02/03/2025 στις 19:00",
+    "winners": [
+      "ΝΙΚΟΣ ΔΕΛΛΗΣΚΩΝΣΤΑΝΤΊΝΑ ΜΑΓΚΑΦΆ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-tzon-gavriil-mporkman-tou-errikou-ipsen-sto-theatro-ekati-01-03-2025-stis-2100/",
+    "eventTitle": "“Τζον Γαβριήλ Μπόρκμαν” του Ερρίκου Ιψεν στο Θέατρο Εκάτη – 01/03/2025 στις 21:00",
+    "winners": [
+      "ΧΑΡΆΛΑΜΠΟΣ  ΗΛΊΑΣ ΤΑΣΟΣ ΓΕΩΡΓΑΚΟΠΟΥΛΟΣ"
+    ]
+  },
+  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/oi-diagonismoi-gia-28-02-2025-akyrothikan/",
     "eventTitle": "Οι διαγωνισμοί για 28/02/2025 ακυρώθηκαν λόγω της απεργίας",
     "winners": [
       "Οι διαγωνισμοί που αφορούσαν θεατρικές και μουσικές παραστάσεις για 28/02/2025 ακυρώθηκαν καθώς οι χώροι συμμετέχουν στην απεργία."
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-etymigoria-tou-barry-reed-sto-theatron-tou-kentrou-politismou-ellinikos-kosmos-27-02-2025-stis-1900/",
-    "eventTitle": "“Η Ετυμηγορία” του Barry Reed στο Θέατρον του Κέντρου Πολιτισμού Ελληνικός Κόσμος – 27/02/2025 στις 19:00",
-    "winners": [
-      "ΗΣΑΙΑ ΑΘΑΝΑΣΙΑΔΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-no-comedy-vradies-geliou-me-stand-up-comedy-sto-theatre-of-the-no-27-02-2025-stis-2100/",
-    "eventTitle": "«NO COMEDY» – Βραδιές γέλιου με stand-up comedy στο Theatre Of The No – 27/02/2025 στις 21:00",
-    "winners": [
-      "ΑΙΚΑΤΕΡΙΝΗ ΚΩΣΤΑΚΗΠΑΝΑΓΙΩΤΑ ΠΟΛΙΤΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-flai-tis-stellas-zafeiropoulou-sto-theatro-olvio-27-02-2025-stis-2100/",
-    "eventTitle": "“Φλάι” της Στέλλας Ζαφειροπούλου στο Θέατρο Olvio – 27/02/2025 στις 21:00",
-    "winners": [
-      "ΕΥΤΥΧΙΑ ΣΗΜΙΑΚΑΚΗΜΑΥΡΟΥΔΉΣ ΣΠΥΡΙΔΩΝΝΕΦΕΛΗ ΦΑΤΟΥΡΟΥΜΑΡΙΑ ΠΑΠΠΑΓΙΩΡΓΟΣ ΑΝΔΡΕΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-manolis-mitsias-kai-i-giota-negka-sto-theatro-alsos-27-02-2025-stis-2100/",
-    "eventTitle": "Ο Μανώλης Μητσιάς και η Γιώτα Νέγκα στο Θέατρο Άλσος – 27/02/2025 στις 21:00",
-    "winners": [
-      "ΔΙΟΝΥΣΊΑ ΚΑΙΜΑΞΗΣΟΦΙΑ ΣΕΝΙΚΙΔΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-votka-molotof-tis-elenis-rantou-ston-elliniko-kosmo-27-02-2025-stis-2000/",
-    "eventTitle": "“Βότκα Μολότοφ” της Ελένης Ράντου στον «Ελληνικό Κόσμο» – 27/02/2025 στις 20:00",
-    "winners": [
-      "ΑΝΝΑ ΦΡΑΝΤΖΙΟΥΘΕΟΔΩΡΟΣ  ΑΠΟΣΤΟΛΌΠΟΥΛΟΣ ΝΤΙΝΑ  ΚΑΡΑΧΑΛΙΟΥ .ΤΡΥΦΩΝ ΒΕΡΓΟΣΣΟΦΊΑ ΒΙΝΑΚΟΥΕΥΤΥΧΊΑ ΚΥΡΙΑΖΆΚΟΥΜΑΡΙΑ ΤΟΤΣΙΚΑΙΩΑΝΝΗΣ ΙΣΑΑΚΙΔΗΣΑΝΑΣΤΑΣΗΣ  ΚΩΝΣΤΑΝΤΙΝΟΥ          ΠΕΝΝΥ ΚΟΚΟΡΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-ignoramus-tou-gianni-askaroglou-sto-rektifie-27-02-2025-stis-2030/",
-    "eventTitle": "“Ignoramus” του Γιάννη Ασκάρογλου στο Ρεκτιφιέ – 27/02/2025 στις 20:30",
-    "winners": [
-      "ΝΙΚΟΣ ΖΟΥΖΟΥΛΑΣΕΛΈΝΗ ΚΟΣΕΟΓΛΟΥΑΘΗΝΑ ΦΛΕΓΚΑΕΛΕΝΗ  ΠΑΣΛΗ ΕΥΑΓΓΕΛΊΑ  ΤΑΡΑΣΟΥΛΕΑ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-to-mporntelo-tis-mantam-rozas-se-skinothesia-aleksandrou-liakopoulou-sto-theatro-104-27-02-2025-stis-2115/",
-    "eventTitle": "“Το Μπορντέλο της Μαντάμ Ρόζας” σε σκηνοθεσία Αλέξανδρου Λιακόπουλου στο θέατρο 104 – 27/02/2025 στις 21:15",
-    "winners": [
-      "ΦΩΤΕΙΝΗ ΝΤΟΒΟΛΟΥΣΟΦΙΑ ΠΑΣΧΟΥΜΑΡΊΑ  ΣΑΜΨΟΎΛΗ ΒΑΣΙΛΙΚΗ ΣΙΑΚΑΒΑΡΑΛΙΖΑ ΜΑΓΓΑΝΙΑΕΛΕΝΗ ΚΟΥΜΑΝΤΑΡΟΥΣΤΑΥΡΟΎΛΑ  ΚΩΤΣΟΒΟΛΟΥ ΔΕΣΠΟΙΝΑ ΤΣΟΛΚΑΜΑΡΙΑ ΔΑΜΟΡΑΚΗΒΑΣΙΛΕΙΟΣ ΑΡΜΕΝΗΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-gkala-operettas-me-to-synolo-strauss-virtuosi-sto-theatro-pallas-27-02-2025-stis-2100/",
-    "eventTitle": "Γκαλά Οπερέττας με το σύνολο Strauss Virtuosi στο Θέατρο Παλλάς – 27/02/2025 στις 21:00",
-    "winners": [
-      "ΜΑΡΙΑ ΓΕΩΡΓΙΛΑ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-oi-dyo-gioi-tou-mpertolt-mprext-sto-theatro-2510-27-02-2025-stis-2100/",
-    "eventTitle": "“Οι Δυο Γιοι” του Μπέρτολτ Μπρέχτ στο Θέατρο 2510 – 27/02/2025 στις 21:00",
-    "winners": [
-      "ΑΓΓΕΛΟΣ ΚΟΥΤΣΗΣ"
     ]
   },
   {

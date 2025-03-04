@@ -67,24 +67,32 @@ async function updateWinners() {
 
 
 
-
-
-app.get('/update-data', async (req, res) => {
+app.get('/updateWinners', async (req, res) => {
     try {
-        // Check if the local JSON file exists
-        updateDatabase();
-        console.log('runssss');
-        if (fs.existsSync(DATA_FILE_PATH)) {
-            console.log('Returning cached data...');
-            const cachedData = JSON.parse(fs.readFileSync(DATA_FILE_PATH, 'utf8'));
-            return res.json(cachedData);
-        }
-
+        await updateWinners();  // Ensure it's asynchronous if necessary
+        res.status(200).json({ message: 'Winners updated successfully' });
     } catch (error) {
-        console.error('Error fetching winners data:', error);
-        res.status(500).json({ error: 'Failed to fetch winners data' });
+        console.error('Error triggering github action:', error);
+        res.status(500).json({ error: 'Failed to trigger github action' });
     }
 });
+
+// app.get('/update-data', async (req, res) => {
+//     try {
+//         // Check if the local JSON file exists
+//         updateDatabase();
+//         console.log('runssss');
+//         if (fs.existsSync(DATA_FILE_PATH)) {
+//             console.log('Returning cached data...');
+//             const cachedData = JSON.parse(fs.readFileSync(DATA_FILE_PATH, 'utf8'));
+//             return res.json(cachedData);
+//         }
+
+//     } catch (error) {
+//         console.error('Error fetching winners data:', error);
+//         res.status(500).json({ error: 'Failed to fetch winners data' });
+//     }
+// });
 
 app.listen(PORT, () => {
   console.log(`Server running at http://localhost:${PORT}`);

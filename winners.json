@@ -1,5 +1,54 @@
 [
   {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-elegeia-tis-mnimis-tou-nik-pein-sto-studio-mayromixali-09-03-2025-stis-%ce%841900/",
+    "eventTitle": "“Ελεγεία της μνήμης” του Νικ Πέιν στο Studio Μαυρομιχάλη – 09/03/2025 στις ΄19:00",
+    "winners": [
+      "ΣΤΕΛΛΑ ΣΙΔΗΡΟΠΟΥΛΟΥΦΑΝΗ ΚΟΥΤΟΥΓΙΑΕΛΠΙΝΊΚΗ  ΓΙΏΤΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-paranoia-tou-gky-nte-mopassan-sto-theatro-mikros-kerameikos-09-03-2025-stis-1830/",
+    "eventTitle": "«PARANOIA» του Γκυ Ντε Μωπασσάν στο Θέατρο Μικρός Κεραμεικός – 09/03/2025 στις 18:30",
+    "winners": [
+      "ΓΕΩΡΓΙΟΣ ΚΑΡΑΜΠΕΣΙΝΗΣΒΑΙΑ ΜΑΤΣΚΑΜΑΡΙΑ ΠΟΛΥΖΟΠΟΥΛΟΥΔΩΡΟΘΕΑ ΚΟΚΛΩΝΗΑΓΓΕΛΙΚΗ ΣΤΑΘΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-paranoia-tou-gky-nte-mopassan-sto-theatro-mikros-kerameikos-08-03-2025-stis-2130/",
+    "eventTitle": "«PARANOIA» του Γκυ Ντε Μωπασσάν στο Θέατρο Μικρός Κεραμεικός – 08/03/2025 στις 21:30",
+    "winners": [
+      "ΙΩΑΝΝΑ ΜΑΝΤΖΙΟΥΒΑΣΙΛΙΚΉ ΠΎΡΓΟΥΕΛΕΥΘΕΡΊΑ ΚΩΣΤΑΡΆΔΗΜΉΤΡΙΟΣ ΜΠΟΎΡΑΣΜΑΤΊΝΑ ΕΚΛΕΜΕ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-promitheas-estayromenos-tou-xristou-liakopoulou-sto-theatro-alkmini-09-03-2025-stis-1830/",
+    "eventTitle": "«Προμηθέας εσταυρωμένος» του Χρήστου Λιακόπουλου στο Θέατρο Αλκμήνη – 09/03/2025 στις 18:30",
+    "winners": [
+      "ΜΑΡΊΑ ΧΑΝΙΩΤΗΠΑΝΑΓΙΏΤΗΣ ΓΕΩΡΓΙΟΥΚΩΝΣΤΑΝΤΊΝΟΣ ΜΩΡΑΪ́ΤΗΣΑΛΕΞΑΝΔΡΟΣ ΜΩΡΑΙΤΑΚΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-tzon-gavriil-mporkman-tou-errikou-ipsen-sto-theatro-ekati-09-03-2025-stis-1900/",
+    "eventTitle": "“Τζον Γαβριήλ Μπόρκμαν” του Ερρίκου Ιψεν στο Θέατρο Εκάτη – 09/03/2025 στις 19:00",
+    "winners": [
+      "ΔΗΜΗΤΡΙΟΣ ΛΩΛΟΣΜΑΡΙΑ ΜΑΛΕΤΣΙΚΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-tzon-gavriil-mporkman-tou-errikou-ipsen-sto-theatro-ekati-08-03-2025-stis-2100/",
+    "eventTitle": "“Τζον Γαβριήλ Μπόρκμαν” του Ερρίκου Ιψεν στο Θέατρο Εκάτη – 08/03/2025 στις 21:00",
+    "winners": [
+      "ΜΑΡΙΑ ΓΙΑΝΝΟΥΤΣΟΥΛΕΥΤΕΡΗΣ ΜΟΡΙΤΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-kokkinos-ippopotamos-tou-gianni-papazoglou-sto-theatro-en-a-08-03-2025-stis-2100/",
+    "eventTitle": "«Κόκκινος ιπποπόταμος» του Γιάννη Παπάζογλου στο Θέατρο ΕΝ-Α – 08/03/2025 στις 21:00",
+    "winners": [
+      "ΕΛΈΝΗ ΚΟΣΕΟΓΛΟΥΣΑΡΑΝΤΟΣ ΤΖΟΡΤΖΗΣΓΙΩΡΓΟΣ ΑΝΔΡΕΟΥΔΟΜΝΑ ΠΑΝΤΕΛΙΔΟΥΑΘΗΝΑ ΦΛΕΓΚΑ"
+    ]
+  },
+  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-nefeli-fasouli-ston-stayro-tou-notou-club-07-03-2025-stis-2200/",
     "eventTitle": "Η Νεφέλη Φασούλη στον Σταυρό του Νότου Club – 07/03/2025 στις 21:00",
     "winners": [
@@ -80,78 +129,6 @@
     "eventTitle": "“Συγνώμη κύριε ποιος είστε;” στο Red Jasper Cabaret Theater – 07/03/2025 στις 21:30",
     "winners": [
       "ΕΡΜΙΟΝΗ ΒΑΡΒΑΡΟΠΟΥΛΟΥΙΩΑΝΝΑ ΜΙΧΑΚΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-etymigoria-tou-barry-reed-sto-theatron-tou-kentrou-politismou-ellinikos-kosmos-06-03-2025-stis-1900/",
-    "eventTitle": "“Η Ετυμηγορία” του Barry Reed στο Θέατρον του Κέντρου Πολιτισμού Ελληνικός Κόσμος – 06/03/2025 στις 19:00",
-    "winners": [
-      "ΠΑΝΑΓΙΏΤΑ ΑΛΕΞΑΝΔΡΊΔΟΥΑΠΌΣΤΟΛΟΣ  ΝΤΑΡΛΑΣ ΚΩΣΤΑΣ ΑΘΑΝΑΣΙΑΔΗΣΜΑΡΙΑ  ΣΟΥΛΑΚΕΛΛΗ ΣΩΤΉΡΗΣ ΔΗΜΑΚΗΣΜΑΓΔΑΛΗΝΗ ΤΣΕΛΕΝΤΗΧΑΡΑΛΑΜΠΟΣ ΦΡΑΓΚΙΟΓΛΟΥΗΒΗ ΜΑΛΛΙΑΡΑΘΑΛΕΙΑ ΡΟΥΜΠΟΥΟΡΕΣΤΗΣ ΘΑΛΑΣΣΙΝΟΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-stelios-tsoukias-sto-stayro-tou-notou-06-03-2025-stis-2100/",
-    "eventTitle": "Ο Στέλιος Τσουκιάς στο Σταυρό του Νότου – 06/03/2025 στις 21:00",
-    "winners": [
-      "ΕΥΦΡΟΣΥΝΗ ΚΑΤΙΔΟΥΔΩΡΑ ΠΟΥΓΓΙΑΔΉΜΗΤΡΑ ΚΑΛΟΓΉΡΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-manolis-mitsias-kai-i-giota-negka-sto-theatro-alsos-06-03-2025-stis-2100/",
-    "eventTitle": "Ο Μανώλης Μητσιάς και η Γιώτα Νέγκα στο Θέατρο Άλσος – 06/03/2025 στις 21:00",
-    "winners": [
-      "ΓΙΩΡΓΟΣ ΑΝΑΓΝΩΣΤΟΥΓΕΩΡΓΙΑ ΠΑΠΑΓΙΑΝΝΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-flai-tis-stellas-zafeiropoulou-sto-theatro-olvio-06-03-2025-stis-2100/",
-    "eventTitle": "“Φλάι” της Στέλλας Ζαφειροπούλου στο Θέατρο Olvio – 06/03/2025 στις 21:00",
-    "winners": [
-      "ΧΡΉΣΤΟΣ ΡΑΜΑΝΤΆΝΗΣΙΩΑΝΝΗΣ ΤΣΟΠΕΛΑΣΑΝΔΡΕΑΣ ΚΑΚΟΥΡΗΣΕΛΕΝΗ ΚΑΚΚΙΝΟΥΒΙΒΗ ΚΑΚΚΝΟΥΕΡΜΙΝΑ ΚΑΛΛΙΝΙΚΟΥMARIA PETROULIΑΝΑΣΤΑΣΙΑ ΠΑΡΑΔΕΙΣΗΓΙΑΝΝΗΣ ΓΚΑΤΖΙΑΣΕΙΡΗΝΗ ΜΙΓΓΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-apenanti-apo-ti-xorografo-artemis-lampiri-sto-palmtree-mca-06-03-2025-stis-2130/",
-    "eventTitle": "“Απέναντι” από τη χορογράφο Άρτεμις Λαμπίρη στο PalmTree-MCA – 06/03/2025 στις 21:30",
-    "winners": [
-      "ΣΠΥΡΟΣ ΠΑΝΤΖΕΚΟΣ ΠΑΠΑΓΕΩΡΓΌΠΟΥΛΟΣ ΆΛΚΗΣΤΙΣ  ΒΛΑΧΟΥ ΑΓΑΘΗ ΣΤΑΥΡΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-meta-to-telos-tou-dennis-kelly-sto-plyfa-06-03-2025-stis-2100/",
-    "eventTitle": "“Μετά το τέλος” του Dennis Kelly στο ΠΛΥΦΑ – 06/03/2025 στις 21:00",
-    "winners": [
-      "ΒΑΣΊΛΕΙΟΣ ΠΕΤΡΆΣΔΗΜΉΤΡΗΣ ΚΩΣΤΑΡΆΣΠΑΝΑΓΙΩΤΗΣ ΣΙΑΦΑΚΑΣΣΟΦΙΑ ΚΟΣΕΟΓΛΟΥΚΩΝΣΤΑΝΤΊΝΑ ΜΑΓΚΑΦΆΦΩΤΕΙΝΗ ΜΩΚΟΥΕΛΕΝΗ  ΠΑΣΛΗ ΜΑΡΙΝΑ ΓΕΡΟΝΤΗ ΚΑΡΜΑΝΙΩΛΟΥΜΑΡΙΑ ΚΟΥΜΠΑΣΑΡΟΥΕΙΡΗΝΗ ΖΕΡΒΟΥΔΑΚΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/i-simasia-na-eisai-sovaros-tou-oscar-wilde-se-magnitoskopimeni-metadosi-apo-to-ethniko-theatro-tis-vretanias-stin-othoni-tou-megarou-mousikis-athinon-06-03-2025-stis-2000/",
-    "eventTitle": "«Η σημασία να είσαι σοβαρός» του Oscar Wilde σε μαγνητοσκοπημένη μετάδοση από το Εθνικό Θέατρο της Βρετανίας στην οθόνη του Μεγάρου Μουσικής Αθηνών – 06/03/2025 στις 20:00",
-    "winners": [
-      "ΌΛΓΑ ΘΕΟΔΩΡΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-to-mporntelo-tis-mantam-rozas-se-skinothesia-aleksandrou-liakopoulou-sto-theatro-104-06-03-2025-stis-2115/",
-    "eventTitle": "“Το Μπορντέλο της Μαντάμ Ρόζας” σε σκηνοθεσία Αλέξανδρου Λιακόπουλου στο θέατρο 104 – 06/03/2025 στις 21:15",
-    "winners": [
-      "ΕΥΔΟΚΙΑ ΚΟΥΚΟΥΛΙΔΟΥΑΝΤΩΝΙΟΣ ΙΩΑΝΝΙΔΗΣΣΤΑΥΡΟΎΛΑ  ΛΙΩΡΗ ΑΙΚΑΤΕΡΊΝΗ ΔΡΟΣΟΥΜΑΡΙΑ ΓΟΝΤΙΚΑΖΩΗ  ΔΟΥΠΑ ΕΥΑΓΓΕΛΟΣ  ΤΣΙΆΜΗΣ ΓΑΡΥΦΑΛΛΙΆ  ΚΟΥΣΤΈΝΗΒΑΡΒΑΡΑ ΣΠΥΡΟΥΕΙΡΗΝΗ ΧΛΩΡΟΚΩΣΤΑ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-frankenstein-eliza-tis-eris-kyrgia-sto-theatro-poreia-06-03-2025-stis-2100/",
-    "eventTitle": "“Frankenstein & Eliza” της Έρις Κύργια στο Θέατρο Πορεία – 06/03/2025 στις 21:00",
-    "winners": [
-      "ΔΗΜΗΤΡΗΣ ΗΛΙΑΔΗΣ",
-      "ΒΑΣΙΛΗΣ ΡΟΥΧΩΤΑΣ",
-      "ΜΑΡΙΑ ΜΙΧΕΛΑΚΑΚΗ",
-      "ΜΑΊΡΗ ΚΑΡΑΧΆΛΙΟΥ",
-      "ΓΕΡΑΣΙΜΟΣ ΚΟΜΙΩΤΗΣ",
-      "ΦΙΛΙΩ ΜΑΡΚΑΤΟΥ",
-      "ΠΩΛΙΝΑ ΑΛΕΙΦΕΡΗ",
-      "ΟΔΥΣΣΕΑΣ ΑΛΜΠΑΝΙΔΗΣ",
-      "ΡΩΞΑΝΗ ΣΚΟΥΡΛΗ",
-      "ΠΕΡΙΚΛΗΣ ΙΑΚΩΒΙΔΗΣ"
     ]
   },
   {

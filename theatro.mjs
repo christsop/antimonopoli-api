@@ -4,12 +4,10 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
-// Get the current directory in ES module scope
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const processedIdsFile = path.join(__dirname, 'processedIds.json');
 
-// Function to read processed IDs from the file
 function readProcessedIds() {
   try {
     if (fs.existsSync(processedIdsFile)) {
@@ -23,7 +21,6 @@ function readProcessedIds() {
   }
 }
 
-// Function to save the processed IDs to the file
 function saveProcessedIds(ids) {
   try {
     fs.writeFileSync(processedIdsFile, JSON.stringify(ids, null, 2));
@@ -63,21 +60,28 @@ async function extractLinks(url) {
   }
 }
 
-  const categories = [
-    'https://www.monopoli.gr/diagonismos/',
-    'https://www.monopoli.gr/diagonismoi/proskliseis-gia-theatro',
-    'https://www.monopoli.gr/diagonismoi/proskliseis-gia-theatro/page/2/',
-    'https://www.monopoli.gr/diagonismoi/proskliseis-gia-theatro/page/3/',
-    'https://www.monopoli.gr/diagonismoi/proskliseis-gia-theatro/page/4/',
-    'https://www.monopoli.gr/diagonismoi/proskliseis-gia-geystikes-apolayseis/',
-  ]
+// TODO For faster runs use only a random link when having custom events
+const categories = [
+  'https://www.google.com'
+  // 'https://www.monopoli.gr/diagonismos/',
+  // 'https://www.monopoli.gr/diagonismoi/proskliseis-gia-theatro',
+  // 'https://www.monopoli.gr/diagonismoi/proskliseis-gia-theatro/page/2/',
+  // 'https://www.monopoli.gr/diagonismoi/proskliseis-gia-theatro/page/3/',
+  // 'https://www.monopoli.gr/diagonismoi/proskliseis-gia-theatro/page/4/',
+  // 'https://www.monopoli.gr/diagonismoi/proskliseis-gia-geystikes-apolayseis/',
+]
 
-  let pageLinks = [];
+let pageLinks = [];
 
-  for (const category of categories) {
-    const links = await extractLinks(category);
-    pageLinks.push(...links);
-  }
+// TODO If I need custom links hardcode them in pageLinks here and comment out the following for loop
+for (const category of categories) {
+  const links = await extractLinks(category);
+  pageLinks.push(...links);
+}
+// pageLinks = [
+//   'https://www.monopoli.gr/diagonismos/diagonismos-eimai-i-gynaika-mou-me-ton-antoni-loudaro-sto-theatro-metaksourgeio-14/',
+
+// ]
 
 async function fetchAvailableDates(code) {
   try {
@@ -112,7 +116,6 @@ async function fetchAvailableDates(code) {
   }
 }
 
-// Function to fetch the content of a page and extract the contest code
 async function fetchPageAndExtractCode(link) {
   try {
     // Fetch the HTML content of the page
@@ -141,9 +144,8 @@ async function fetchPageAndExtractCode(link) {
 }
 
 
-// Function to process all links, extract codes, and submit forms
-async function getIdsAndDates() {
-  const processedIds = readProcessedIds(); // Get already processed IDs
+async function getIdsAndDates(takeIntoAccountProcessedIds) {
+  const processedIds = takeIntoAccountProcessedIds ? readProcessedIds() : [];
   const idAndDates = [];
 
   for (const link of pageLinks) {
@@ -170,14 +172,58 @@ async function getIdsAndDates() {
   return idAndDates;
 }
 
-// Start processing and submitting forms
-const idsAndDates = await getIdsAndDates(pageLinks);
-
 
 async function processRequests(idsAndDates, users) {
+  // TODO use custom id's and dates  array if you need specific events and times 
+  idsAndDates = [
+    {
+      id: '869803',
+      dates: '11/04/2025 στις 21:00',
+      link: 'https://www.monopoli.gr/diagonismos/diagonismos-itan-oloi-tous-paidia-mou-tou-arthour-miller-sto-theatro-alkyonis-10/'
+    },
+    {
+      id: '869830',
+      dates: '09/04/2025 στις 20:00',
+      link: 'https://www.monopoli.gr/diagonismos/dr-strangelove-to-national-theatre-live-sto-megaro-me-ti-theatriki-metafora-tou-aristourgimatos-tou-kioumprik/'
+    },
+    {
+      id: '868261',
+      dates: '12/04/2025 στις 21:00',
+      link: 'https://www.monopoli.gr/diagonismos/diagonismos-memorantoum-apo-tin-omada-the-young-quill-sto-theatro-mpellos-12/'
+    },
+    {
+      id: '870034',
+      dates: '12/04/2025 στις 18:15',
+      link: 'https://www.monopoli.gr/diagonismos/diagonismos-votka-molotof-tis-elenis-rantou-ston-elliniko-kosmo-4/'
+    },
+    {
+      id: '870048',
+      dates: '12/04/2025 στις 18:00',
+      link: 'https://www.monopoli.gr/diagonismos/diagonismos-frankenstein-eliza-tis-eris-kyrgia-sto-theatro-poreia-14/'
+    },
+    {
+      id: '870048',
+      dates: '13/04/2025 στις 18:00',
+      link: 'https://www.monopoli.gr/diagonismos/diagonismos-frankenstein-eliza-tis-eris-kyrgia-sto-theatro-poreia-14/'
+    },
+    {
+      id: '869589',
+      dates: '07/04/2025 στις 21:00',
+      link: 'https://www.monopoli.gr/diagonismos/diagonismos-terror-tou-ferntinant-fon-sirax-sto-theatro-vasilakou-marianna-toli-8/'
+    },
+    {
+      id: '868368',
+      dates: '06/04/2025 στις 16:00',
+      link: 'https://www.monopoli.gr/diagonismos/diagonismos-to-agori-me-tis-dyo-kardies-ton-adelfon-amiri-sto-theatro-katerina-vasilakou-23/'
+    },
+    {
+      id: '868368',
+      dates: '07/04/2025 στις 19:00',
+      link: 'https://www.monopoli.gr/diagonismos/diagonismos-to-agori-me-tis-dyo-kardies-ton-adelfon-amiri-sto-theatro-katerina-vasilakou-23/'
+    }
+  ]
   for (const user of users) {      
       for (const data of idsAndDates) {          
-          // Send the POST request
           fetch("https://www.monopoli.gr/contest-form/", {
               headers: {
                   "content-type": "application/x-www-form-urlencoded",
@@ -304,6 +350,18 @@ const users = [
     age: "19-30"
   },
   {
+    gender: "Κα",
+    firstname: "Αθηνα",
+    lastname: "Τσεντιδου",
+    address: "Δοιρανης 11",
+    city: "Αθηνα",
+    postal: "60100",
+    phone: "6944640703",
+    email: "tsoptsop95@gmail.com",
+    job: "Ιδιωτ. Υπαλληλος",
+    age: "19-30"
+  },
+  {
       gender: "Κα",
       firstname: "Κωνσταντίνα",
       lastname: "Μαγκαφά",
@@ -314,30 +372,6 @@ const users = [
       email: "kmagafa92@gmail.com",
       job: "Ιδιωτ. Υπαλληλος",
       age: "31-45"
-  },
-  {
-    gender: "Κος",
-    firstname: "Γιωργος",
-    lastname: "Ανδρεου",
-    address: "Ιθακης 30",
-    city: "Αθήνα",
-    postal: "18120",
-    phone: "6983405545",
-    email: "gandreou9991@gmail.com",
-    job: "Ιδιωτ. Υπαλληλος",
-    age: "31-45"
-  },
-  {
-    gender: "Κα",
-    firstname: "Δομνα",
-    lastname: "Παντελιδου",
-    address: "Ιθακης 30",
-    city: "Αθήνα",
-    postal: "18120",
-    phone: "6980903334",
-    email: "ddomna2@gmail.com",
-    job: "Ιδιωτ. Υπαλληλος",
-    age: "19-30"
   },
   {
       gender: "Κα",
@@ -363,8 +397,34 @@ const users = [
       job: "Δημ. Υπαλληλος",
       age: "46+"
   },
+  // {
+  //   gender: "Κος",
+  //   firstname: "Γιωργος",
+  //   lastname: "Ανδρεου",
+  //   address: "Ιθακης 30",
+  //   city: "Αθήνα",
+  //   postal: "18120",
+  //   phone: "6983405545",
+  //   email: "gandreou9991@gmail.com",
+  //   job: "Ιδιωτ. Υπαλληλος",
+  //   age: "31-45"
+  // },
+  // {
+  //   gender: "Κα",
+  //   firstname: "Δομνα",
+  //   lastname: "Παντελιδου",
+  //   address: "Ιθακης 30",
+  //   city: "Αθήνα",
+  //   postal: "18120",
+  //   phone: "6980903334",
+  //   email: "ddomna2@gmail.com",
+  //   job: "Ιδιωτ. Υπαλληλος",
+  //   age: "19-30"
+  // }
 ];
 
+// TODO use true to avoid duplicates
+const idsAndDates = await getIdsAndDates(false);
 
 processRequests(idsAndDates, users);
 

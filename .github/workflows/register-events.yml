@@ -3,7 +3,7 @@ name: Register winners
 on:
   workflow_dispatch: # Allow manual trigger of the workflow
   schedule:
-    - cron: "00 19 * * *" # Runs at 19:00 UTC, which is 21:00 Greek time (EET)
+    - cron: "0 */6 * * *" # Runs every 6 hours
 
 jobs:
   build:

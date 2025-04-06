@@ -1,4 +1,5 @@
 import { JSDOM } from 'jsdom';
+import puppeteer from 'puppeteer';
 import path from 'path';
 import fs from 'fs';
 import { fileURLToPath } from 'url';
@@ -43,19 +44,23 @@ async function extractEventLinks(pageNumber) {
 
 // Function to extract winners and event title from an event page
 async function extractEventDetails(eventUrl) {
-    const response = await fetch(eventUrl);
-    const html = await response.text();
-    const dom = new JSDOM(html);
-    const document = dom.window.document;
-
-    // Extract winners
-    const winnersContainer = document.querySelector('.art_article_text.wrapptext p');
-    const winnersText = winnersContainer ? winnersContainer.textContent : '';
-    const winners = winnersText.split(/<br>|\n/).map(winner => winner.trim()).filter(winner => winner);
+    const browser = await puppeteer.launch();
+    const page = await browser.newPage();
+  
+    // Go to the event URL
+    await page.goto(eventUrl, { waitUntil: 'domcontentloaded' });
+  
+    // Extract winners text using innerText
+    const winnersText = await page.$eval('.art_article_text.wrapptext p', (p) => p.innerText);
+  
+    // Split the winnersText by <br> or newline and clean the text
+    const winners = winnersText.split(/\n/).map(winner => winner.trim()).filter(winner => winner);
+  
+    console.log(winners);
 
     // Extract event title and clean it up
-    const titleElement = document.querySelector('.art_info_main_ti');
-    let eventTitle = titleElement ? titleElement.textContent : '';
+    const titleElement = await page.$eval('.art_info_main_ti', (art) => art.innerText);
+    let eventTitle = titleElement ? titleElement : '';
     eventTitle = eventTitle.replace('Νικητές Διαγωνισμού:', '').replace('Νικητες Διαγωνισμου:', '').trim();
 
     return {

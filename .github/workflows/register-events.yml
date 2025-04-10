@@ -3,35 +3,35 @@ name: Register winners
 on:
   workflow_dispatch: # Allow manual trigger of the workflow
   schedule:
-    - cron: "0 */6 * * *" # Runs every 6 hours
+    - cron: "00 19 * * *" # Runs at 19:00 UTC, which is 21:00 Greek time (EET)
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }} # Use GitHub's token for authentication
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # Use GitHub's token for authentication
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: 22
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 22
 
-    - name: Install dependencies
-      run: npm install
+      - name: Install dependencies
+        run: npm install
 
-    - name: Run script
-      run: node theatro.mjs
+      - name: Run script
+        run: node theatro.mjs
 
-    - name: Commit and push changes
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git pull --rebase origin main  # Rebases local changes on top of the latest main
-        git add .
-        git commit -m "Update JSON data from script" || echo "No changes to commit"
-        git push origin main
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub token for authentication
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main  # Rebases local changes on top of the latest main
+          git add .
+          git commit -m "Update JSON data from script" || echo "No changes to commit"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub token for authentication

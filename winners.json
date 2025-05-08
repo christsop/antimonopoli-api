@@ -1,5 +1,75 @@
 [
   {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-giorgos-xatzinasios-kai-stefanos-korkolis-sto-vox-09-05-2025-stis-2100/",
+    "eventTitle": "Γιώργος Χατζηνάσιος και Στέφανος Κορκολής στο Vox – 09/05/2025 στις 21:00",
+    "winners": [
+      "ΑΝΘΗ ΜΑΡΑΓΚΟΥΣΕΒΑΣΤΉ ΒΑΔΑΛΟΥΚΑΙΩΑΝΝΗΣ ΑΡΒΑΝΙΤΑΚΗΣΜΑΝΟΥΕΛΑ  ΣΩΡΡΑ ΒΙΟΛΕΤΤΑ ΧΡΥΣΗΜΑΡΙΑΝΘΗ ΦΙΛΙΠΠΟΠΟΥΛΟΥΕΥΡΙΠΙΔΗΣ ΚΑΡΑΜΠΕΛΑΣΘΕΟΦΙΛΟΣ ΛΑΣΚΑΡΗΣΡΑΦΑΈΛΑ ΚΡΗΤΙΚΟΠΟΥΛΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-siopi-tou-grigori-liakopoulou-sto-theatro-texnis-ypogeio-09-05-2025-stis-2100/",
+    "eventTitle": "“Σιωπή” του Γρηγόρη Λιακόπουλου στο Θέατρο Τέχνης – Υπόγειο – 09/05/2025 στις 21:00",
+    "winners": [
+      "ΚΑΤΕΡΙΝΑ ΧΑΡΙΟΠΟΛΙΤΟΥΑΝΤΩΝΗΣ ΒΑΣΙΛΟΠΟΥΛΟΣΤΕΡΕΖΑ ΖΟΥΓΑΝΕΛΗΙΦΙΓΕΝΕΙΑ ΚΑΛΑΗΔΟΠΟΥΛΟΥΘΕΩΝΗ ΔΟΥΜΑΝΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-birthland-ta-kala-koritsia-de-milane-gi-ayta-tis-mina-petric-sto-plyfa-09-05-2025-stis-2100/",
+    "eventTitle": "“BIRTHLAND Τα καλά κορίτσια δε μιλάνε γι’ αυτά” της Mina Petrić στο Πλύφα – 09/05/2025 στις 21:00",
+    "winners": [
+      "ΣΤΑΎΡΟΣ ΓΕΝΝΙΤΣΑΡΗΣΙΩΑΝΝΑ ΣΤΑΘΟΠΟΥΛΟΥΦΩΤΕΙΝΗ ΝΤΟΒΟΛΟΥΕΒΕΛΊΝΑ ΜΑΡΓΑΡΙΤΟΠΟΎΛΟΥΔΩΡΑ ΠΟΥΓΓΙΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-paralirima-gia-dyo-tou-e-ionesko-sto-theatro-epi-kolono-09-05-2025-stis-2200/",
+    "eventTitle": "“Παραλήρημα για δυο” του Ε. Ιονέσκο στο Θέατρο Επί Κολωνώ – 09/05/2025 στις 22:00",
+    "winners": [
+      "ΑΝΤΡΈΑΣ ΒΑΣΙΛΑΚΌΠΟΥΛΟΣΠΑΝΑΓΙΩΤΗΣ ΛΑΓΙΟΣΜΑΡΊΑ ΠΙΣΙΝΆΡΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-foteini-thlimmeni-tis-maiis-sevastopoulou-sto-theatro-mikros-kerameikos-08-05-2025-stis-2030/",
+    "eventTitle": "«Φωτεινή & θλιμμένη» της Μαίης Σεβαστοπούλου στο Θέατρο Μικρός Κεραμεικός – 08/05/2025 στις 20:30",
+    "winners": [
+      "ΕΙΡΗΝΗ ΚΟΥΚΑΚΗΔΗΜΗΤΡΑ ΛΥΚΙΑΡΔΟΠΟΥΛΟΥΜΑΡΙΑ ΠΟΛΥΖΟΠΟΥΛΟΥΛΙΖΑ ΜΑΓΓΑΝΙΑΦΩΤΕΙΝΗ ΤΣΑΤΣΑΡΩΝΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-alexandra-sieti-sto-gazarte-roof-stage-kerdiste-proskliseis-09-05-2025-stis-2130/",
+    "eventTitle": "Η Alexandra Sieti στο Gazarte Roof Stage – Κερδίστε προσκλήσεις – 09/05/2025 στις 21:30",
+    "winners": [
+      "ΓΙΑΝΝΗΣ ΛΑΖΑΡΙΔΗΣΜΑΙΡΗ ΓΡΑΝΙΤΣΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-tilemachos-moussas-farm-sto-theatre-of-the-no-09-05-2025-stis-2100/",
+    "eventTitle": "Tilemachos Moussas Farm στο Theatre Of The No – 09/05/2025 στις 21:00",
+    "winners": [
+      "ΒΑΓΓΕΛΗΣ ΝΙΚΟΛΙΔΑΚΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-tap-aout-tou-andrea-flouraki-sto-theatro-mikro-gkloria-09-05-2025-stis-2100/",
+    "eventTitle": "“Ταπ Άουτ” του Ανδρέα Φλουράκη στο Θέατρο Μικρό Γκλόρια – 09/05/2025 στις 21:00",
+    "winners": [
+      "ΜΑΤΊΝΑ ΑΡΏΝΗΘΕΟΦΙΛΟΣ ΓΑΛΟΥΖΗΣΑΡΤΕΜΙΣ ΓΛΕΝΗΕΥΑΝΓΓΕΛΙΑ ΚΙΚΙΡΑΣΚΑΤΕΡΙΝΑ ΔΙΑΓΓΕΛΑΚΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-mnimi-tholi-tis-annas-vagena-sto-theatro-metaksourgeio-09-05-2025-stis-2100/",
+    "eventTitle": "“Μνήμη θολή” της Άννας Βαγενά στο Θέατρο Μεταξουργείο – 09/05/2025 στις 21:00",
+    "winners": [
+      "ΕΡΑΣΜΙΑ ΜΠΑΡΜΠΑΡΟΥΣΗΚΩΣΤΗΣ  ΚΑΛΛΙΠΕΤΗΣ ΜΙΧΑΛΗΣ ΚΑΤΣΟΥΛΑΚΟΣΔΗΜΗΤΡΗΣ ΞΥΝΟΣΓΩΓΩ ΔΑΡΡΑΒΑΣΙΛΗΣ ΑΓΓΕΛΟΠΟΥΛΟΣΓΙΩΡΓΟΣ ΜΙΧΑΚΗΣΧΡΗΣΤΟΣ ΡΑΦΑΗΛΙΔΗΣΠΑΝΑΓΙΩΤΗΣ ΑΓΓΕΛΗΣΕΛΕΝΗ ΝΟΥΣΙΝΑΝΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-vasilias-vaggelis-ii-o-leventokardos-tou-ilia-grammatikogianvni-sto-theatro-paramythias-09-05-2025-stis-2030/",
+    "eventTitle": "“Βασιλιάς Βαγγέλης ΙΙ o Λεβεντόκαρδος” του Ηλία Γραμματικογιάνvνη στο Θέατρο Παραμυθίας – 09/05/2025 στις 20:30",
+    "winners": [
+      "ΑΘΗΝΑ ΤΣΕΝΤΙΔΟΥΚΩΝΣΤΑΝΤΊΝΑ ΜΑΓΚΑΦΆΔΟΜΝΑ ΠΑΝΤΕΛΙΔΟΥΒΑΙΑ ΜΑΤΣΚΑΑΝΑΣΤΆΣΙΟΣ ΜΠΈΛΛΟΣ"
+    ]
+  },
+  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-apostolos-kitsos-sto-stayro-tou-notou-kerdiste-proskliseis-08-05-2025-stis-2100/",
     "eventTitle": "Ο Απόστολος Κίτσος στο Σταυρό του Νότου – Κερδίστε προσκλήσεις – 08/05/2025 στις 21:00",
     "winners": [
@@ -146,27 +216,6 @@
     "winners": [
       "ΔΑΝΑΗ ΑΚΤΥΠΗ",
       "ΓΙΑΣΕΜΉ ΔΕΡΜΙΤΖΆΚΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-tairiazei-to-penthos-stin-ilektra-se-skinothesia-konstantinou-kyriakou-sto-theatro-metaksourgeio-07-05-2025-stis-20-30/",
-    "eventTitle": "“Ταιριάζει το πένθος στην Ηλέκτρα;” σε σκηνοθεσία Κωνσταντίνου Κυριακού στο Θέατρο Μεταξουργείο – 07/05/2025 στις 20.30",
-    "winners": [
-      "ΑΛΕΚΑ ΧΑΛΙΚΙΑΑΓΓΕΛΙΚΗ ΓΚΟΥΓΚΟΥΣΗΒΑΣΊΛΕΙΟΣ ΠΕΤΡΆΣΕΛΕΥΘΕΡΊΑ ΚΩΣΤΑΡΆΧΑΡΗΣ ΜΑΖΑΡΑΚΗΣΓΡ ΓΡΗΓΌΡΗΣ ΓΟΎΛΑΣMARIA PETROULIΗΛΙΑΣ ΜΥΛΩΝΑΣΑΝΝΑ ΣΚΟΤΙΔΑΚΗΧΡΉΣΤΟΣ ΤΣΟΠΈΛΑΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/pending-aerial-dance-apo-tin-natassa-arampatzi-sto-theatro-rektifie-kerdiste-proskliseis-07-05-2025-stis-2000/",
-    "eventTitle": "(π)ending: aerial dance από την Νατάσσα Αραμπατζή στο Θέατρο Ρεκτιφιέ – Κερδίστε προσκλήσεις – 07/05/2025 στις 20:00",
-    "winners": [
-      "ΛΕΥΤΕΡΗΣ ΜΟΡΙΤΣΑΘΗΝΑ ΦΛΕΓΚΑΙΩΑΝΝΗΣ ΤΣΟΠΕΛΑΣΓΙΩΡΓΟΣ ΑΝΔΡΕΟΥΜΑΡΙΑ ΛΕΜΟΝΗΠΩΛΙΝΑ ΑΘΑΝΑΣΙΑΔΗΒΑΓΓΈΛΗΣ ΣΩΤΗΡΊΟΥΑΝΔΡΕΑΣ ΜΟΥΡΣΕΛΛΑΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-kelly-voudouri-sto-major-seven-07-05-2025-stis-2130/",
-    "eventTitle": "Η Κέλλυ Βουδούρη στο Major Seven – 07/05/2025 στις 21:30",
-    "winners": [
-      "ΝΙΚΟΣ ΔΕΛΛΗΣΣΑΡΑΝΤΟΣ ΤΖΟΡΤΖΗΣ"
     ]
   },
   {

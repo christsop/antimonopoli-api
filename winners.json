@@ -1,30 +1,41 @@
 [
   {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-nikolina-mathainei-ski-tis-marias-gkeralnta-zyka-nikits-apo-tis-ekdoseis-aggelaki-14-07-2025/",
+    "eventTitle": "«Η Νικολίνα μαθαίνει σκι» της Μαρίας-Γκεράλντα Ζύκα Νίκιτς από τις εκδόσεις Αγγελάκη – 14/07/2025",
+    "winners": [
+      "ΓΙΩΡΓΟΣ ΑΝΔΡΕΟΥΑΝΝΑ ΚΩΣΤΟΥΛΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-thanatos-tou-emporakou-tou-arthour-miler-se-kalokairini-periodeia-15-07-2025-stis-2130-veakeio-theatro/",
+    "eventTitle": "«Ο Θάνατος του Εμποράκου» του Άρθουρ Μίλερ σε καλοκαιρινή περιοδεία – 15/07/2025 στις 21:30",
+    "winners": [
+      "ΑΘΗΝΑ ΤΖΑΒΑΡΑ",
+      "ΚΩΝΝΑ ΤΣΑΚΑΛΟΥ",
+      "ΑΝΤΏΝΗΣ ΠΕΪΛΈΡΟΓΛΟΥ",
+      "ΜΑΡΊΑ ΜΑΛΕΤΣΙΚΑ",
+      "ΡΕΝΑ ΚΩΣΤΟΛΙΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-pentamorfi-to-teras-sto-kipotheatro-tis-nikaias-15-07-2025-stis-2100/",
+    "eventTitle": "“Η πεντάμορφη & το τέρας” στο Κηποθέατρο της Νίκαιας – 15/07/2025 στις 21:00",
+    "winners": [
+      "ΓΕΩΡΓΙΑ ΑΝΝΑ ΛΟΥΒΕΡΔΗΝΙΚΟΣ ΔΕΛΛΗΣΑΘΗΝΑ ΤΣΕΝΤΙΔΟΥΔΗΜΗΤΡΙΟΣ ΤΣΙΓΩΝΑΚΗΣMARIA MATZANA"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-oi-buena-vista-all-star-sto-theatro-vraxon-14-07-2025-stis-2100/",
+    "eventTitle": "Οι Buena Vista All Star στο Θέατρο Βράχων – 14/07/2025 στις 21:00",
+    "winners": [
+      "ΑΝΑΣΤΑΣΊΑ ΚΟΥΚΗΕΥΘΥΜΙΟΣ ΛΙΓΝΟΣΌΛΓΑ ΓΡΑΜΜΑΤΈΑΙΣΜΗΝΗ ΔΑΝΕΛΛΗΑΝΘΗ ΜΑΘΙΟΥΔΑΚΗ"
+    ]
+  },
+  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-oi-pagan-live-stin-texnopoli-kerdiste-proskliseis-15-07-2025-stis-2130/",
     "eventTitle": "Οι PAGAN live στην Τεχνόπολη – Κερδίστε προσκλήσεις – 15/07/2025 στις 21:30",
     "winners": [
       "ΑΓΓΕΛΙΚΗ ΞΕΝΟΥΆΝΝΑ ΧΑΡΑΛΑΜΠΙΔΟΥΓΙΑΝΝΗΣ ΛΑΖΑΡΙΔΗΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-xorika-ydata-se-keimeno-skinothesia-tis-linas-nikolakopoulou-sto-theatro-vraxon-13-07-2025-stis-2100/",
-    "eventTitle": "«Χορικά Ύδατα» σε κείμενο-σκηνοθεσία της Λίνας Νικολακοπούλου στο θέατρο Βράχων – 13/07/2025 στις 21:00",
-    "winners": [
-      "ΔΗΜΗΤΡΗΣ ΚΟΥΣΠΑΡΗΣΔΙΟΝΥΣΊΑ ΚΑΙΜΑΞΗΗΛΙΑΝΑ ΣΦΑΚΙΑΝΑΚΗΖΑΦΕΙΡΙΑ ΑΥΓΟΥΣΤΑΚΗΡΩΞΑΝΗ ΣΚΟΥΡΛΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-panos-vlaxos-sto-veakeio-theatro-peiraia-13-07-2025-stis-2100/",
-    "eventTitle": "Ο Πάνος Βλάχος στο Βεάκειο Θέατρο Πειραιά – 13/07/2025 στις 21:00",
-    "winners": [
-      "ΒΑΣΙΛΙΚΉ ΓΚΟΥΓΚΟΎΣΗΑΘΗΝΑ  ΕΥΘΥΜΊΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-xasame-ti-theia-stop-tou-giorgou-dialegmenou-sto-kentro-politismou-ellinikos-kosmos-13-07-2025-stis-2115/",
-    "eventTitle": "“Χάσαμε τη Θεία Στοπ” του Γιώργου Διαλεγμένου στο Κέντρο Πολιτισμού Ελληνικός Κόσμος – 13/07/2025 στις 21:15",
-    "winners": [
-      "ΑΙΜΙΛΙΑ ΡΟΥΣΣΗΜΑΡΙΑ ΜΙΧΕΛΑΚΑΚΗΕΥΗ ΑΝΑΣΤΑΣΙΑΔΗΝΙΚΟΣ ΚΑΠΑΣΜΑΡΙΑ ΑΝΑΣΤΑΣΙΟΥ"
     ]
   }
 ]

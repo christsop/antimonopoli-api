@@ -1,5 +1,33 @@
 [
   {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-prin-anoiksoume-ftera-tou-florian-zeler-sto-idryma-mixalis-kakogiannis-09-10-2025-stis-2000/",
+    "eventTitle": "“Πριν ανοίξουμε φτερά” του Φλοριάν Ζελέρ στο Ίδρυμα Μιχάλης Κακογιάννης – 09/10/2025 στις 20:00",
+    "winners": [
+      "ΜΑΡΙΑ ΜΑΚΡΟΠΟΥΛΟΥΜΑΡΊΑ  ΚΩΝΣΤΑΝΤΑΚΟΥΘΩΜΑΙΣ ΟΙΚΟΝΟΜΟΥΚΡΙΝΑ ΠΑΠΑΓΕΩΡΓΙΟΥΜΑΝΩΛΗΣ ΧΩΡΙΑΤΗΣΣΑΒΒΑΣ ΚΟΝΤΟΣΜΙΛΤΙΑΔΗΣ ΤΑΡΟΥΣΑΔΙΟΝΥΣΗΣ ΠΑΝΤΑΖΑΚΟΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-genica-o-pidakas-tou-aimatos-mou-se-skinothesia-iolis-andreadi-sto-theatro-simeio-09-10-2025-stis-2300/",
+    "eventTitle": "“GENICA-ο πίδακας του αίματός μου” σε σκηνοθεσία Ιόλης Ανδρεάδη στο Θέατρο Σημείο – 09/10/2025 στις 23:00",
+    "winners": [
+      "ΣΟΦΙΑ ΚΟΣΕΟΓΛΟΥΕΛΙΣΑΒΕΤ ΜΟΡΑΓΛΗΣΑΡΡΑ ΚΟΝΤΑΞΗΙΟΥΛΙΑ ΚΟΛΥΡΗΝΙΝΕΤΤΑ ΚΑΡΑΧΑΛΙΟΥΑΛΕΞΙΑ ΝΑΣΤΟΥΘΩΜΑΣ ΚΑΡΑΤΣΟΛΗΣΒΑΡΒΑΡΑ ΜΑΡΚΟΓΙΑΝΝΑΚΗΛΕΜΟΝΙΑ ΔΡΑΣΑΚΛΕΙΩ ΔΗΜΗΤΡΑΤΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-nomsferatu-tou-johnny-o-sto-theatro-104-09-10-2025-stis-1815/",
+    "eventTitle": "“Nomsferatu” του Johnny O στο Θέατρο 104 – 09/10/2025 στις 18:15",
+    "winners": [
+      "ΔΗΜΗΤΡΗΣ ΔΗΜΑΡΑΚΗΣΣΩΤΗΡΙΑ ΤΣΑΓΚΡΑΦΩΤΕΙΝΗ ΤΡΑΝΟΥΔΗΙΩΑΝΝΑ ΖΑΧΑΡΆΚΗΧΡΥΣΑΝΘΗ ΚΟΥΜΕΝΤΑΡΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-enoxes-tou-mixali-papadopoulou-sto-theatro-dromos-09-10-2025-stis-2115/",
+    "eventTitle": "“Ενοχές” του Μιχάλη Παπαδόπουλου στο θέατρο Δρόμος – 09/10/2025 στις 21:15",
+    "winners": [
+      "ΑΘΗΝΑ ΤΣΕΝΤΙΔΟΥΕΙΡΗΝΗ ΖΟΥΖΟΥΛΑ"
+    ]
+  },
+  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-poios-fovatai-ti-virtzinia-goulf-tou-entouarnt-almpy-sto-theatro-zina-08-10-2025-stis-2100/",
     "eventTitle": "“Ποιος φοβάται τη Βιρτζίνια Γουλφ” του Έντουαρντ Άλμπυ στο Θέατρο Ζίνα – 08/10/2025 στις 21:00",
     "winners": [
@@ -32,20 +60,6 @@
     "eventTitle": "“Αυτόματη εστίαση” του Γιώργου Αγγελίδη στο θέατρο ΑΡΓώ – 08/10/2025 στις 20:00",
     "winners": [
       "ΙΩΑΝΝΑ ΙΩΑΝΝΙΔΟΥΧΡΥΣΑ ΚΑΡΑΜΑΛΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-sta-vathi-tou-xeimona-deite-tin-premiera-tis-tainias-sta-village-athens-metro-mall-07-10-2025-stis-2000/",
-    "eventTitle": "“Στα βάθη του χειμώνα”- Δείτε την πρεμιέρα της ταινίας στα Village Athens Metro Mall – 07/10/2025 στις 20:00",
-    "winners": [
-      "ΕΛΕΝΗ ΓΑΒΡΙΗΛΑΘΑΝΑΣΙΑ ΕΜΜΑΝΟΥΗΛΜΙΧΑΛΗΣ ΜΑΝΕΤΟΣΝΕΦΕΛΗ ΦΑΤΟΥΡΟΥΔΗΜΗΤΡΗΣ ΚΟΥΣΠΑΡΗΣΓΕΩΡΓΙΟΣ ΣΑΦΛΑΓΙΟΥΡΑΣΜΑΡΙΑ ΜΑΛΕΤΣΙΚΑΑΝΝΑ ΜΑΡΊΑ ΚΕΛΛΑΡΗΣΠΥΡΙΔΟΥΛΑ ΚΟΥΤΣΟΓΙΑΝΝΟΥΕΥΑΓΓΕΛΊΑ  ΚΟΡΤΕΣΆΚΗ ΧΑΡΙΚΛΕΙΑ ΧΡΗΣΤΟΥΕΥΑΝΘΙΑ ΜΑΡΙΑ ΤΗΓΑΝΗΑΝΔΡΙΑΝΑ ΤΑΣΟΠΟΥΛΟΥΓΙΑΝΝΗΣ ΜΕΡΚΟΥΡΗΣΑΝΤΏΝΗΣ ΠΕΪΛΈΡΟΓΛΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-aytoi-pou-koitoun-tou-vasili-mayrogeorgiou-sto-theatro-104-07-10-2025-stis-2115/",
-    "eventTitle": "“Αυτοί που κοιτούν” του Βασίλη Μαυρογεωργίου στο Θέατρο 104 – 07/10/2025 στις 21:15",
-    "winners": [
-      "ΣΟΦΙΑ ΝΤΑΛΙΑΝΗΑΝΝΕΤΑ ΞΕΝΙΔΗΠΕΤΡΟΣ ΚΑΛΦΟΓΛΟΥΘΑΝΟΣ ΔΑΜΑΣΚΗΝΟΣΜΑΡΙΑΝΘΗ ΤΑΣΤΑΝΗ"
     ]
   }
 ]

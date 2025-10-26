@@ -1,5 +1,54 @@
 [
   {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-aithousa-anamonis-se-skinothesia-dimitras-tampasi-sto-s-o-t-a-27-10-2025-stis-2100/",
+    "eventTitle": "“Αίθουσα Αναμονής” σε σκηνοθεσία Δήμητρας Τάμπαση στο Σ.Ο.Τ.Α – 27/10/2025 στις 21:00",
+    "winners": [
+      "ΑΘΗΝΑ ΤΣΕΝΤΙΔΟΥΠΑΝΑΓΙΩΤΑ ΒΕΛΛΗΧΡΥΣΟΎΛΑ  ΚΑΡΑΓΙΩΡΓΟΥ ΒΑΣΙΛΙΚΗ ΖΑΛΜΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-aytoi-pou-koitoun-tou-vasili-mayrogeorgiou-sto-theatro-104-27-10-2025-stis-2115/",
+    "eventTitle": "“Αυτοί που κοιτούν” του Βασίλη Μαυρογεωργίου στο Θέατρο 104 – 27/10/2025 στις 21:15",
+    "winners": [
+      "ΜΑΡΓΑΡΊΤΑ ΧΑΛΚΙΑΔΗΜΗΤΡΗΣ ΖΗΣΗΣΖΑΧΑΡΙΑΣ ΣΤΑΓΚΟΣΘΩΜΑΣ ΚΑΡΑΤΣΟΛΗΣΒΥΡΩΝΑΣ ΡΑΛΛΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-surriento-o-kosmos-ksana-tou-thanasi-triaridi-ston-texnoxoro-ergotaksion-27-10-2025-stis-21-00/",
+    "eventTitle": "“Surriento – Ο Κόσμος Ξανά” του Θανάση Τριαρίδη στον Τεχνοχώρο Εργοτάξιον – 27/10/2025 στις 21.00",
+    "winners": [
+      "ΧΡΉΣΤΟΣ ΤΣΟΠΈΛΑΣΔΈΣΠΟΙΝΑ ΚΟΥΜΠΛΉΝΙΚΟΣ ΜΗΤΣΟΥΡΑΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-ir%d1%8fina-tis-giotas-argyropoulou-sto-theatro-texnis-karolou-koun-ypogeio-27-10-2025-stis-2100/",
+    "eventTitle": "“IRЯINA” της Γιώτας Αργυροπούλου στο Θέατρο Τέχνης Καρόλου Κουν (Υπόγειο) – 27/10/2025 στις 21:00",
+    "winners": [
+      "ΜΑΡΙΤΙΝΑ  ΕΜΜΑΝΟΥΉΛ ΑΡΙΣΤΕΑ ΚΑΡΥΔΑΚΗΜΑΡΙΑ ΗΛΙΟΥΑΝΘΗ ΦΩΣΤΗΡΟΠΟΥΛΟΥΛΥΔΙΑ ΕΥΤΑΞΙΟΠΟΥΛΟΥΕΛΒΙΡΑ ΚΑΡΟΛΑΕΛΙΖΑ ΜΠΕΛΟΓΙΑΝΝΗΘΕΩΝΗ ΔΟΥΜΑΝΗΝΙΚΟΣ ΖΟΥΖΟΥΛΑΣΣΠΥΡΙΔΟΥΛΑ ΚΕΧΑΓΙΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-tzin-lemoni-se-skinothesia-nikou-souli-sto-xoro-k4-27-10-2025-stis-2100/",
+    "eventTitle": "“Τζιν λεμόνι” σε σκηνοθεσία Νίκου Σούλη στο Χώρο K4 – 27/10/2025 στις 21:00",
+    "winners": [
+      "ΝΤΙΝΑ ΠΑΠΑΡΟΥΝΗΓΕΩΡΓΙΟΣ ΚΑΡΑΜΠΕΣΙΝΗΣΔΗΜΗΤΡΑ ΠΑΠΟΥΤΣΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-ilios-me-dontia-tou-gianni-makridaki-gia-2i-xronia-sto-theatro-mpellos-27-10-2025-stis-2100/",
+    "eventTitle": "“Ήλιος με δόντια” του Γιάννη Μακριδάκη για 2η χρονιά στο Θέατρο Μπέλλος – 27/10/2025 στις 21:00",
+    "winners": [
+      "ΑΝΑΣΤΑΣΗΣ ΤΣΑΜΑΣΦΥΡΑΣΑΠΟΛΛΩΝ ΓΚΟΥΜΑΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/katerina-gogou-to-gamoto-pou-den-ezisa-tou-andrea-zafeiri-sti-skini-brecht-2510-27-10-2025-stis-1900/",
+    "eventTitle": "“Κατερίνα Γώγου: το Γαμώτο που Δεν Έζησα” του Ανδρέα Ζαφείρη στη ΣΚΗΝΗ BRECHT-2510 – 27/10/2025 στις 19:00",
+    "winners": [
+      "ΑΝΑΣΤΑΣΙΑ ΚΑΤΑΚΟΥΖΗΝΟΥΜΑΝΟΣ ΔΡΑΓΑΣΑΚΗΣΤΡΑΥΛΟΥ ΑΣΗΜΙΝΑ"
+    ]
+  },
+  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-stin-eksoxi-tou-martin-crimp-sto-theatro-apothiki-26-10-2025-stis-1900/",
     "eventTitle": "“Στην Εξοχή” του Martin Crimp στο Θέατρο Αποθήκη – 26/10/2025 στις 19:00",
     "winners": [
@@ -23,24 +72,10 @@
     ]
   },
   {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-kiki-et-colette-the-age-of-time-sto-theatro-roes-25-10-2025-stis-2100/",
-    "eventTitle": "“Kiki et Colette / The Age of Time” στο Θέατρο Ροές – 25/10/2025 στις 21:00",
-    "winners": [
-      "ΠΑΝΑΓΙΩΤΗΣ ΗΛΙΟΠΟΥΛΟΣΣΕΡΑΦΕΊΜ ΛΆΖΟΣ"
-    ]
-  },
-  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-eygenios-tou-frank-mcguinness-sto-theatro-simeio-26-10-2025-stis-2000/",
     "eventTitle": "“Ευγένιος” του Frank McGuinness στο Θέατρο Σημείο – 26/10/2025 στις 20:00",
     "winners": [
       "ΑΝΑΣΤΑΣΊΑ ΣΥΛΆΙΔΟΥΧΑΛΑΚΑΤΕΒΑΚΗ ΕΥΔΟΚΙΑΧΡΙΣΤΙΝΑ ΒΛΑΙΚΟΥΔΗΜΑΡΙΛΕΝΑ ΙΓΝΑΤΙΆΔΗΒΑΓΓΕΛΗΣ ΖΟΛΩΤΑΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-interview-apo-tin-omada-emeis-sto-theatro-olvio-25-10-2025-stis-2115/",
-    "eventTitle": "«Interview» από την ομάδα Εμείς στο Θέατρο Olvio – 25/10/2025 στις 21:15",
-    "winners": [
-      "ΝΙΚΗ ΤΡΙΤΟΥΓΩΓΩ ΖΟΛΩΤΑΕΛΛΗ ΒΕΛΙΣΣΑΡΑΤΟΥΓΙΆΝΝΗΣ  ΓΚΆΤΖΙΑΣ"
     ]
   },
   {
@@ -55,13 +90,6 @@
     "eventTitle": "“Στρίγγλα” του Ο. Σαίξπηρ στο Δημοτικό Θέατρο Πειραιά – 26/10/2025 στις 20:00",
     "winners": [
       "ΑΝΘΗ ΔΡΑΓΚΙΝΗΘΩΜΑΣ ΛΑΛΙΩΤΗΣΚΩΝΣΤΑΝΤΙΝΑ ΧΑΤΖΗΙΩΆΝΝΑ ΚΩΝΣΤΑΝΤΉΔΗΜΗΤΡΙΟΣ ΤΡΙΚΚΑΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-listeia-tis-symforas-sto-theatro-lampeti-kerdiste-proskliseis-25-10-2025-stis-1800/",
-    "eventTitle": "Η ληστεία της συμφοράς στο θέατρο Λαμπέτη- Κερδίστε προσκλήσεις – 25/10/2025 στις 18:00",
-    "winners": [
-      "ΑΝΑΣΤΑΣΙΑ ΧΑΤΖΟΠΟΥΛΟΥΑΡΤΕΜΗ ΚΟΝΤΟΝΙΚΑΓΙΑΝΝΑ ΤΣΑΝΑΚΑΒΑΣΙΛΙΚΗ ΧΡΥΣΑΦΕΛΗΠΕΤΡΟΣ ΣΤΑΜΟΥΛΗΣ"
     ]
   },
   {
@@ -93,31 +121,10 @@
     ]
   },
   {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-xasame-ti-theia-stop-tou-giorgou-dialegmenou-sto-theatro-filip-25-10-2025-stis-2115/",
-    "eventTitle": "“Χάσαμε τη Θεία Στοπ” του Γιώργου Διαλεγμένου στο θέατρο ΦΙΛΙΠ – 25/10/2025 στις 21:15",
-    "winners": [
-      "ΧΡΥΣΑ ΝΙΚΟΛΑΙΔΟΥΠΑΝΑΓΙΩΤΗΣ ΠΑΝΟΤΟΠΟΥΛΟΣ"
-    ]
-  },
-  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-votka-molotof-tis-elenis-rantou-sto-theatro-filip-26-10-2025-stis-1815/",
     "eventTitle": "“Βότκα μολότοφ” της Ελένης Ράντου στο θέατρο ΦΙΛΙΠ – 26/10/2025 στις 18:15",
     "winners": [
       "ΧΆΡΗΣ ΓΛΑΡΌΣΝΑΤΆΣΣΑ  ΚΑΜΠΟΥΡΑΚΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-votka-molotof-tis-elenis-rantou-sto-theatro-filip-25-10-2025-stis-1815/",
-    "eventTitle": "“Βότκα μολότοφ” της Ελένης Ράντου στο θέατρο ΦΙΛΙΠ – 25/10/2025 στις 18:15",
-    "winners": [
-      "ΦΩΤΕΙΝΗ ΚΑΛΟΓΕΡΆΚΟΥ ΝΙΚΟΛΕΤΤΑ ΠΑΝΤΕΛΙΑ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-kokkinos-ippopotamos-tou-gianni-papazoglou-sto-theatro-en-a-25-10-2025-stis-2100/",
-    "eventTitle": "«Κόκκινος ιπποπόταμος» του Γιάννη Παπάζογλου στο Θέατρο ΕΝ-Α – 25/10/2025 στις 21:00",
-    "winners": [
-      "ΝΙΚΟΛΑΟΣ  ΡΟΥΚΟΣΑΙΜΙΛΙΑ ΒΕΛΙΣΣΑΡΑΚΟΥΕΛΕΝΗ ΧΡΥΣΊΔΟΥ ΚΑΤΕΡΙΝΑ ΑΛΕΞΑΝΔΡΟΥΝΙΚΟΣ ΒΑΛΣΑΜΑΚΗΣ"
     ]
   },
   {
@@ -128,24 +135,10 @@
     ]
   },
   {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-meres-oloklires-sta-dendra-tis-margkerit-ntyras-sto-theatro-ekstan-25-10-2025-stis-2100/",
-    "eventTitle": "«Μέρες ολόκληρες στα δένδρα» της Μαργκερίτ Ντυράς στο Θέατρο Εκστάν – 25/10/2025 στις 21:00",
-    "winners": [
-      "ΡΑΜΟΝΑ ΠΟΥΤΑΧΙΔOYΑΝΝΑ ΑΓΑΔΗΜΗΤΡΙΟΣ ΦΙΛΟΣΑΙΚΑΤΕΡΙΝΗ ΡΑΙΚΟΥΑΝΑΣΤΑΣΙΑ ΧΑΤΖΗΓΕΩΡΓΙΟΥ"
-    ]
-  },
-  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-eleni-tou-eyripidi-apo-ton-mikro-vorra-sto-theatro-nous-26-10-2025-stis-1700/",
     "eventTitle": "«Ελένη» του Ευριπίδη από τον Μικρό Βορρά στο Θέατρο Noūs – 26/10/2025 στις 17:00",
     "winners": [
       "ΕΥΣΤΑΘΙΑ ΚΑΦΡΙΤΣΑΕΙΡΗΝΗ ΔΕΚΑΡΙΣΤΟΥΔΕΣΠΟΙΝΑ  ΜΑΥΡΟΓΕΩΡΓΟΥ ΆΝΝΑ ΓΙΑΝΝΙΚΑΚΗΔΩΡΟΘΕΑ ΚΟΚΛΩΝΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-oi-mirolatres-ton-foteini-tsakiri-taso-gouseti-sto-theatro-alkmini-25-10-2025-stis-2130/",
-    "eventTitle": "“Οι Miroλάτρες” των Φωτεινή Τσακίρη & Τάσο Γουσέτη στο Θέατρο Αλκμήνη – 25/10/2025 στις 21:30",
-    "winners": [
-      "ΓΛΥΚΕΡΊΑ  ΓΚΌΤΣΗ ΓΙΩΡΓΟΣ ΚΑΚΟΥΣΙΟΣΑΣΗΜΙΝΑ  ΑΛΕΞΟΠΟΥΛΟΥ ΕΛΠΙΔΑ ΝΙΚΟΛΑΙΔΗΕΥΑΓΓΕΛΟΣ ΜΠΑΛΟΥΜΗΣ"
     ]
   },
   {
@@ -163,13 +156,6 @@
     ]
   },
   {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-aporriptetai-tou-tzortz-mpernarnt-so-sto-theatro-104-25-10-2025-stis-2100/",
-    "eventTitle": "“Απορρίπτεται” του Τζωρτζ Μπέρναρντ Σω στο Θέατρο 104 – 25/10/2025 στις 21:00",
-    "winners": [
-      "ΠΑΡΑΣΚΕΥΗ ΑΡΒΑΝΙΤΗΙΑΣΩΝ ΒΙΛΛΙΑΣΜΑΡΙΑ ΚΑΠΟΔΙΣΤΡΙΑΕΛΕΝΗ ΑΝΤΩΝΙΑΔΟΥΓΙΩΡΓΟΣ ΛΙΑΔΗΣ"
-    ]
-  },
-  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-linda-tis-penelope-skinner-sto-theatro-epi-kolono-26-10-2025-stis-1815/",
     "eventTitle": "«LINDA» της Penelope Skinner στο θέατρο Επί Κολωνώ – 26/10/2025 στις 18:15",
     "winners": [
@@ -177,40 +163,10 @@
     ]
   },
   {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-staxtopouta-sto-theatro-aylaia-25-10-2025-stis-1700/",
-    "eventTitle": "“Η Σταχτοπούτα” στο Θέατρο Αυλαία – 25/10/2025 στις 17:00",
-    "winners": [
-      "ΝΙΚΗ ΛΑΛΑΟΥΝΗΚΩΝΣΤΑΝΤΙΝΟΣ ΠΗΛΟΣΓΩΓΩ ΜΕΛΑΧΡΗΕΛΕΝΗ ΝΙΦΟΡΑΜΑΡΑ ΜΠΑΤΣΩΡΑΚΗΧΑΡΗΣ ΦΛΟΥΔΑΣΠΟΠΗ ΚΟΥΚΟΥΤΣΙΔΗΖΕΤΤΑ ΑΝΤΩΝΙΟΥΜΑΡΙΑ ΠΑΠΑΛΕΞΙΟΥΣΙΣΣΥ ΛΙΝΑ"
-    ]
-  },
-  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-raised-in-captivity-tou-nicky-silver-sto-theatro-mpellos-26-10-2025-stis-1800/",
     "eventTitle": "“Raised in captivity” του Nicky Silver στο Θέατρο Μπέλλος – 26/10/2025 στις 18:00",
     "winners": [
       "ΓΕΩΡΓΙΑ ΖΑΧΑΡΗΓΕΩΡΓΙΑ  ΑΓΓΕΛΟΠΟΥΛΟΥ ΝΤΙΝΑ ΒΡΑΝΑΒΑΙΑ ΜΑΤΣΚΑMARY VOKOROKOUΠΑΝΑΓΙΩΤΑ ΚΟΚΚΩΝΗΠΑΡΑΣΚΕΥΗ ΤΖΑΚΗΜΑΡΊΑ ΛΈΚΚΑΓΕΩΡΓΙΑ ΣΟΥΜΠΟΥΡΛΟΥΧΡΥΣΟΎΛΑ ΧΡΥΣΟΎΛΑΔΗΜΉΤΡΗΣ ΖΑΜΠΈΤΑΣΝΤΟΡΑ ΝΤΑΓΟΥΓΕΩΡΓΙΟΣ ΑΜΠΑΤΖΟΓΛΟΥΒΑΓΓΕΛΗΣ ΠΕΤΡΟΝΙΚΟΛΟΣΑΓΑΘΗ ΣΤΑΥΡΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-ilios-me-dontia-tou-gianni-makridaki-gia-2i-xronia-sto-theatro-mpellos-24-10-2025-stis-1800/",
-    "eventTitle": "“Ήλιος με δόντια” του Γιάννη Μακριδάκη για 2η χρονιά στο Θέατρο Μπέλλος – 25/10/2025 στις 18:00",
-    "winners": [
-      "ΝΙΚΟΛΕΤΤΑ ΦΑΜΕΛΗ",
-      "ΣΟΦΙΑ ΣΑΧΠΑΖΙΔΟΥ",
-      "ΗΡΩ ΠΑΠΑΔΟΠΟΥΛΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-orlanto-tis-virtzinia-goulf-sto-studio-kypselis-25-10-2025-stis-2100/",
-    "eventTitle": "“Ορλάντο” της Βιρτζίνια Γουλφ στο Studio Κυψέλης – 25/10/2025 στις 21:00",
-    "winners": [
-      "ΛΕΤΑ ΠΑΠΑΡΟΥΝΗΓΑΛΟΥΖΗΣ ΘΕΟΦΙΛΟΣΑΓΓΕΛΙΚΗ ΞΕΝΟΥΕΛΕΝΑ ΔΙΟΝΥΣΟΠΟΥΛΟΥΣΟΦΙΑ ΜΑΝΩΛΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-teen-talk-bullying-mia-parastasi-gia-ton-sxoliko-ekfovismo-sto-theatro-nous-25-10-2025-stis-1700/",
-    "eventTitle": "“Teen Talk Bullying” μια παράσταση για τον σχολικό εκφοβισμό στο θέατρο Noūs – 25/10/2025 στις 17:00",
-    "winners": [
-      "ΣΤΕΛΛΑ ΑΖΑΚΑΠΑΝΑΓΙΩΤΗΣ ΒΑΡΔΑΚΗΣΔΉΜΗΤΡΑ ΚΑΜΠΟΎΡΗΒΑΣΙΛΕΙΟΣ ΔΙΒΑΝΗΣΠΑΝΑΓΙΩΤΑ ΠΟΛΙΤΗ"
     ]
   },
   {
@@ -228,24 +184,10 @@
     ]
   },
   {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-mnimi-tholi-tis-annas-vagena-sto-theatro-metaksourgeio-25-10-2025-stis-2100/",
-    "eventTitle": "“Μνήμη θολή” της Άννας Βαγενά στο Θέατρο Μεταξουργείο – 25/10/2025 στις 21:00",
-    "winners": [
-      "ΔΏΡΑ ΤΖΆΜΟΥΕΛΈΝΗ ΜΗΤΡΟΦΑΝΑΚΗΦΩΤΕΙΝΗ ΜΩΚΟΥΚΑΤΕΡΙΝΑ ΜΑΘΙΟΥΔΑΚΗΕΛΕΝΗ ΚΥΦΩΝΙΔΟΥΑΘΗΝΆ  ΛΊΤΣΟΥ ΕΛΕΥΘΕΡΙΑ ΤΖΙΤΖΗΡΑΣΟΦΊΑ ΣΓΟΥΡΑΛΉΝΙΚΟΛΑΟΣ ΣΥΡΟΣΦΩΤΕΙΝΗ ΝΤΟΒΟΛΟΥΠΟΛΥΞΕΝΗ ΡΗΓΑΜΙΧΑΛΗΣ ΝΑΝΟΥΡΗΣΔΕΣΠΟΙΝΑ ΑΠΟΣΤΟΛΙΔΟΥΣΑΠΦΏ ΝΙΚΕΛΛΗΑΝΑΣΤΑΣΙΑ ΚΟΥΚΟΥ"
-    ]
-  },
-  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-mazi-tou-fampio-marra-sto-theatro-altera-pars-26-10-2025-stis-2030/",
     "eventTitle": "“Μαζί” του Φάμπιο Μάρρα στο Θέατρο Altera Pars – 26/10/2025 στις 20:30",
     "winners": [
       "ΜΙΛΤΟΣ ΛΑΓΟΓΙΑΝΝΗΣΠΑΝΑΓΙΩΤΑ ΜΙΧΑΛΑΚΟΥΚΟΥΜΑΡΊΑ  ΠΟΤΑΜΙΆΝΟΥ ΓΕΩΡΓΙΟΣ ΣΕΡΕΠΕΤΣΗΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-mazi-tou-fampio-marra-sto-theatro-altera-pars-25-10-2025-stis-2100/",
-    "eventTitle": "“Μαζί” του Φάμπιο Μάρρα στο Θέατρο Altera Pars – 25/10/2025 στις 21:00",
-    "winners": [
-      "ΔΗΜΗΤΡΗΣ ΠΑΡΙΣΗΣΑΓΆΠΗ  ΠΑΠΑΔΟΠΟΎΛΟΥ ΓΕΏΡΓΙΟΣ ΠΡΈΝΤΖΑΣΚΑΤΕΡΙΝΑ ΔΗΜΗΤΡΑΣΚΟΥ"
     ]
   },
   {
@@ -256,47 +198,11 @@
     ]
   },
   {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-makronisos-troades-tou-andrea-zafeiri-sti-skini-brecht-2510-25-10-2025-stis-2115/",
-    "eventTitle": "Μακρόνησος/Τρωάδες του Ανδρέα Ζαφείρη στη ΣΚΗΝΗ BRECHT-2510 – 25/10/2025 στις 21:15",
-    "winners": [
-      "ΣΟΦΙΑ ΚΟΣΕΟΓΛΟΥΓΙΑΝΝΑ ΠΑΠΑΡΟΥΝΗΘΕΟΧΆΡΗΣ  ΛΙΌΓΚΑΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-dimitris-zervoudakis-spyros-grammenos-sto-stayro-tou-notou-25-10-2025-stis-2230/",
-    "eventTitle": "Δημήτρης Ζερβουδάκης & Σπύρος Γραμμένος στο Σταυρό του Νότου – 25/10/2025 στις 22:30",
-    "winners": [
-      "ΜΑΡΊΑ ΠΙΣΙΝΆΡΑΑΝΤΑ ΓΡΑΨΑ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-leyteris-eleytheriou-eleni-karakasi-kai-alkiviadis-konstantopoulos-sto-stayro-tou-notou-25-10-2025-stis-2230/",
-    "eventTitle": "Λευτέρης Ελευθερίου, Ελένη Καρακάση και Αλκιβιάδης Κωνσταντόπουλος στο Σταυρό του Νότου – 25/10/2025 στις 22:30",
-    "winners": [
-      "ΜΠΆΜΠΗΣ ΑΝΤΩΝΌΠΟΥΛΟΣΑΝΑΣΤΑΣΙΑ ΖΑΛΜΑ"
-    ]
-  },
-  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-david-lynch-heritage-band-sto-jazzet-music-hall-26-09-2025-stis-2000/",
     "eventTitle": "David Lynch Heritage Band στο Jazzèt Music Hall – 26/10/2025 στις 20:00",
     "winners": [
       "ΑΡΙΣΤΕΙΔΗΣ ΜΑΛΚΟΤΣΗΣ",
       "ΕΛΈΝΗ ΚΟΣΕΟΓΛΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-david-lynch-heritage-band-sto-jazzet-music-hall-25-09-2025-stis-2200/",
-    "eventTitle": "David Lynch Heritage Band στο Jazzèt Music Hall – 25/10/2025 στις 22:00",
-    "winners": [
-      "ΒΑΣΙΑ ΚΟΥΤΑΒΑ",
-      "ΛΕΥΤΕΡΗΣ ΜΟΡΙΤΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-giorgis-manolakis-sto-theatre-of-the-no-kerdiste-proskliseis-25-10-2025-stis-2130/",
-    "eventTitle": "Ο Γιώργης Μανωλάκης στο Theatre Of The No – Κερδίστε προσκλήσεις – 25/10/2025 στις 21:30",
-    "winners": [
-      "ΚΑΤΕΡΊΝΑ  ΠΟΥΛΗΜΕΝΟΥ"
     ]
   },
   {
@@ -314,94 +220,10 @@
     ]
   },
   {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-tzon-gavriil-mporkman-tou-errikou-ipsen-sto-theatro-ekati-25-10-2025-stis-2100/",
-    "eventTitle": "“Τζον Γαβριήλ Μπόρκμαν” του Ερρίκου Ιψεν στο Θέατρο Εκάτη – 25/10/2025 στις 21:00",
-    "winners": [
-      "ΙΩΑΝΝΗΣ ΤΣΟΠΕΛΑΣΝΕΚΤΑΡΙΟΣ ΧΑΡΑΤΣΗΣ"
-    ]
-  },
-  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-fiakas-tou-dimostheni-k-misitzi-sto-apo-mixanis-theatro-26-10-2025-stis-1800/",
     "eventTitle": "“Ο Φιάκας” του Δημοσθένη Κ. Μισιτζή στο Από Μηχανής Θέατρο – 26/10/2025 στις 18:00",
     "winners": [
       "ΝΕΦΈΛΗ ΠΙΤΣΉΚΑΤΕΡΙΝΑ ΓΚΑΤΖΙΑΕΛΕΥΘΈΡΙΟΣ ΜΑΟΎΝΗΣΕΙΡΗΝΗ ΚΑΡΑΝΤΩΝΙΟΥΠΑΠΑΓΕΩΡΓΊΟΥ ΣΟΦΊΑΒΑΣΙΛΗΣ ΑΓΓΕΛΟΠΟΥΛΟΣΚΩΝΣΤΑΝΤΊΝΑ ΑΝΤΩΝΆΚΗΑΝΔΡΕΑΣ ΒΑΓΓΑΛΗΣΣΤΑΥΡΟΥΛΑ ΜΠΑΚΟΠΟΥΛΟΥΝΙΚΟΛΑΟΣ ΠΑΠΟΥΤΣΗΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-fiakas-tou-dimostheni-k-misitzi-sto-apo-mixanis-theatro-25-10-2025-stis-2100/",
-    "eventTitle": "“Ο Φιάκας” του Δημοσθένη Κ. Μισιτζή στο Από Μηχανής Θέατρο – 25/10/2025 στις 21:00",
-    "winners": [
-      "ΜΑΡΊΑ  ΓΟΥΕΡΑ ΜΑΡΙΑ ΚΟΥΤΣΏΝΑΓΙΩΡΓΟΣ ΚΟΓΙΟΜΤΖΗΣΕΛΕΝΗ ΔΡΙΒΗΛΑΕΙΡΗΝΗ ΧΛΩΡΟΚΩΣΤΑΧΡΙΣΤΙΝΑ ΜΗΛΙΟΥΚΩΣΤΑΣ ΚΟΥΣΟΥΛΟΣΝΙΚΗΤΑΣ ΜΠΑΜΠΑΝΗΣΜΑΡΊΑ-ΑΝΑΣΤΑΣΊΑ  ΠΑΠΑΣΠΥΡΟΠΟΥΛΟΥ ΜΑΡΙΑ ΚΑΡΑΝΤΩΝΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-to-pio-omorfo-soma-pou-exei-vrethei-pote-se-ayto-to-meros-tou-zouzep-maria-miro-sto-theatro-thiseion-24-10-2025-stis-2100/",
-    "eventTitle": "“Το πιο όμορφο σώμα που έχει βρεθεί ποτέ σε αυτό το μέρος” του Ζουζέπ Μαρία Μιρό στο Θέατρο Θησείον – 24/10/2025 στις 21:00",
-    "winners": [
-      "ΔΗΜΉΤΡΙΟΣ ΧΑΡΑΤΣΆΡΗΣΜΑΡΙΑ ΓΙΑΝΝΟΥΤΣΟΥΑΡΓΥΡΩ ΘΕΟΛΟΓΙΤΟΥΜΕΛΑΝΙΑ ΓΕΩΡΓΊΟΥΚΩΣΤΗΣ ΨΑΘΑΣΚΑΤΕΡΊΝΑ ΜΑΡΑ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-kiki-et-colette-the-age-of-time-sto-theatro-roes-24-10-2025-stis-2100/",
-    "eventTitle": "“Kiki et Colette / The Age of Time” στο Θέατρο Ροές – 24/10/2025 στις 21:00",
-    "winners": [
-      "ΓΙΩΡΓΟΣ ΑΝΔΡΕΟΥΧΑΡΑ ΣΥΜΕΩΝΙΔΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-doros-dimosthenous-sto-stayro-tou-notou-plus-24-10-2025-stis-2200/",
-    "eventTitle": "Ο Δώρος Δημοσθένους στο Σταυρό του Νότου Plus – 24/10/2025 στις 22:00",
-    "winners": [
-      "ΔΙΟΝΥΣΙΑ  ΚΩΤΣΑΚΗΑΝΤΩΝΙΟΣ ΤΖΑΝΗΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-merde-ton-koutli-magoulioti-sto-dimotiko-theatro-peiraia-24-10-2025-stis-2030/",
-    "eventTitle": "“Merde!” των Κουτλή – Μαγουλιώτη στο Δημοτικό Θέατρο Πειραιά – 24/10/2025 στις 20:30",
-    "winners": [
-      "ΚΏΣΤΑ ΔΑΓΚΛΗΣΚΩΝΣΤΑΝΤΙΝΑ ΜΠΙΤΙΚΑΜΑΡΙΛΙΑ  ΚΟΚΚΙΝΟΠΟΥΛΟΥ ΠΑΝΟΣ ΓΙΑΝΝΟΠΟΥΛΟΣΑΛΙΚΗ ΙΝΤΖΟΓΛΟΥΓΙΩΡΓΟΣ ΚΑΝΕΛΛΟΣΑΛΕΞΑΝΔΡΑ ΤΖΑΧΡΗΣΤΑΖΑΦΕΙΡΙΑ ΑΥΓΟΥΣΤΑΚΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-xasame-ti-theia-stop-tou-giorgou-dialegmenou-sto-theatro-filip-24-10-2025-stis-2100/",
-    "eventTitle": "“Χάσαμε τη Θεία Στοπ” του Γιώργου Διαλεγμένου στο θέατρο ΦΙΛΙΠ – 24/10/2025 στις 21:00",
-    "winners": [
-      "ΒΑΣΙΛΗΣ ΓΙΑΝΝΟΠΟΥΛΟΣΣΑΒΒΑΣ ΑΜΕΡΙΚΑΝΟΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-makronisos-troades-tou-andrea-zafeiri-sti-skini-brecht-2510-24-10-2025-stis-2115/",
-    "eventTitle": "Μακρόνησος/Τρωάδες του Ανδρέα Ζαφείρη στη ΣΚΗΝΗ BRECHT-2510 – 24/10/2025 στις 21:15",
-    "winners": [
-      "ΚΩΝΣΤΑΝΤΊΝΟΣ ΡΟΎΤΣΗΣΕΥΑ  ΚΙΚΗΡΑ ΕΡΜΙΟΝΗ ΒΑΡΒΑΡΟΠΟΥΛΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-oi-mirolatres-ton-foteini-tsakiri-taso-gouseti-sto-theatro-alkmini-24-10-2025-stis-2130/",
-    "eventTitle": "“Οι Miroλάτρες” των Φωτεινή Τσακίρη & Τάσο Γουσέτη στο Θέατρο Αλκμήνη – 24/10/2025 στις 21:30",
-    "winners": [
-      "ΒΛΑΣΙΑ ΚΟΛΟΒΟΥΝΙΚΟΣ ΔΕΛΛΗΣΒΑΣΙΛΗΣ ΡΟΥΧΩΤΑΣΘΕΟΔΏΡΑ  ΤΟΥΜΠΈΚΗ ΚΑΤΕΡΙΝΆ ΤΣΙΚΡΙΚΑ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-epitheoritis-ntreik-kai-i-mayri-xira-tou-david-tristram-sto-theatro-art-63-24-10-2025-stis-2330/",
-    "eventTitle": "«Ο Επιθεωρητής Ντρέικ και η Μαύρη Χήρα» του David Tristram στο Θέατρο Art 63 – 24/10/2025 στις 23:30",
-    "winners": [
-      "ΜΙΧΆΛΗΣ  ΧΑΝΙΏΤΗΣ ΕΡΑΤΩ ΦΩΤΙΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-tzon-gavriil-mporkman-tou-errikou-ipsen-sto-theatro-ekati-24-10-2025-stis-2100/",
-    "eventTitle": "“Τζον Γαβριήλ Μπόρκμαν” του Ερρίκου Ιψεν στο Θέατρο Εκάτη – 24/10/2025 στις 21:00",
-    "winners": [
-      "ΣΠΥΡΟΣ ΣΑΠΕΡΑΣΠΑΝΑΓΙΏΤΗΣ ΜΟΥΡΊΚΗΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-enoxes-tou-mixali-papadopoulou-sto-theatro-dromos-24-10-2025-stis-2115/",
-    "eventTitle": "“Ενοχές” του Μιχάλη Παπαδόπουλου στο θέατρο Δρόμος – 24/10/2025 στις 21:15",
-    "winners": [
-      "ΑΓΓΕΛΙΚΗ ΚΟΥΤΣΙΜΠΕΛΑΓΕΩΡΓΙΑ ΑΓΓΕΛΑΚΟΠΟΥΛΟΥ"
     ]
   },
   {
@@ -411,13 +233,6 @@
       "ΣΟΦΙΑ ΓΕΩΡΓΟΠΟΥΛΟΥ",
       "ΕΙΡΗΝΗ ΕΛΙΣΑΒΕΤ ΡΙΖΟΠΟΥΛΟΥ",
       "ΑΝΑΣΤΑΣΙΑ ΕΠΙΤΡΟΠΑΚΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-koa-tima-ton-elyti-me-to-monogramma-sto-megaro-mousikis-24-10-2025-stis-2030/",
-    "eventTitle": "Η ΚΟΑ τιμά τον Ελύτη με “Το Μονόγραμμα” στο Μέγαρο Μουσικής – 24/10/2025 στις 20:30",
-    "winners": [
-      "ΓΙΑΝΝΗΣ ΛΑΖΑΡΔΗΣΜΑΡΙΑ ΜΟΥΧΑ"
     ]
   },
   {

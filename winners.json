@@ -1,5 +1,68 @@
 [
   {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-agnostos-prigkipas-paylos-sidiropoulos-tou-andrea-zafeiri-sti-skini-brecht-2510-11-11-2025-stis-2100/",
+    "eventTitle": "“Ο Άγνωστος Πρίγκιπας: Παύλος Σιδηρόπουλος” του Ανδρέα Ζαφείρη στη ΣΚΗΝΗ BRECHT-2510 – 11/11/2025 στις 21:00",
+    "winners": [
+      "ΕΥΑΝΘΊΑ  ΜΠΟΜΠΟΤΣΙΆΡΗ ΜΑΝΟΣ ΔΡΑΓΑΣΑΚΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-terror-tou-ferntinant-fon-sirax-sto-theatro-filip-11-11-2025-stis-2115/",
+    "eventTitle": "“Terror” του Φέρντιναντ φον Σίραχ στο θέατρο ΦΙΛΙΠ – 11/11/2025 στις 21:15",
+    "winners": [
+      "ΜΑΡΙΑ ΠΛΑΣΤΟΥΡΓΟΥΧΡΉΣΤΟΣ ΡΟΥΚΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-ta-pente-mayra-foremata-tis-marias-mpourani-sto-theatro-argo-11-11-2025-stis-2100/",
+    "eventTitle": "“Τα πέντε μαύρα φορέματα” της Μαρίας Μπουράνη στο θέατρο ΑΡΓώ – 11/11/2025 στις 21:00",
+    "winners": [
+      "ΠΑΝΑΓΙΩΤΑ ΜΙΧΑΛΑΚΟΥΚΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-aporrito-tou-ivan-vyrypaev-sto-theatro-diana-11-11-2025-stis-2100/",
+    "eventTitle": "“Απόρρητο” του Ivan Vyrypaev στο Θέατρο Διάνα – 11/11/2025 στις 21:00",
+    "winners": [
+      "ΡΙΤΑ ΟΡΦΑΝΟΥΔΑΚΗΒΑΣΙΛΗΣ ΜΟΥΤΖΟΥΡΗΣΜΑΡΊΑ ΓΟΥΡΝΗARCHONTIA MOYNTAKHΦΙΛΙΠΠΟΣ ΑΘΑΝΑΣΟΥΛΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-omologia-tis-4is-ianouariou-sto-mikro-gkloria-11-11-2025-stis-2100/",
+    "eventTitle": "“Η Ομολογία της 4ης Ιανουαρίου” στο Μικρό Γκλόρια – 11/11/2025 στις 21:00",
+    "winners": [
+      "MATINA ΣΕΛΕΜΕΚΟΥΔΩΡΟΘΕΑ ΚΟΚΛΩΝΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-caveman-tou-rob-becker-sto-theatro-athinon-11-11-2025-stis-2100/",
+    "eventTitle": "Ο “Caveman” του Rob Becker στο Θέατρο Αθηνών – 11/11/2025 στις 21:00",
+    "winners": [
+      "ΑΘΗΝΑ ΤΖΑΒΑΡΑΚΥΡΙΑΚΗ ΜAINAΠΆΝΟΣ ΛΑΚΑΦΏΣΗΣΕΥΑΓΓΕΛΙΑ ΔΙΡΕΚΗΜΑΡΙΤΊΝΑ ΛΙΑΚΟΠΟΎΛΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-surriento-o-kosmos-ksana-tou-thanasi-triaridi-ston-texnoxoro-ergotaksion-11-11-2025-stis-21-00/",
+    "eventTitle": "“Surriento – Ο Κόσμος Ξανά” του Θανάση Τριαρίδη στον Τεχνοχώρο Εργοτάξιον – 11/11/2025 στις 21.00",
+    "winners": [
+      "ΚΑΤΕΡΊΝΑ  ΑΝΔΡΙΑΝΟΠΟΥΛΟΥ ΣΕΡΑΦΕΊΜ ΛΆΖΟΣΖΩΗ ΑΝΑΓΝΩΣΤΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-aggelia-thanatou-tou-heiner-muller-sto-tzamia-krystalla-11-11-2025-stis-21-00/",
+    "eventTitle": "“Αγγελία Θανάτου” του Heiner Müller στο Τζάμια Κρύσταλλα – 11/11/2025 στις 21.00",
+    "winners": [
+      "ΒΙΚΤΩΡ ΚΑΡΕΛΛΑΣΓΕΩΡΓΙΟΣ ΠΑΥΛΑΚΗΣΒΑΣΙΛΕΊΑ ΓΕΩΡΓΙΆΔΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-pio-dynati-tou-strintmpergkt-sto-mpagkeion-11-11-2023-stis-2100/",
+    "eventTitle": "“Η πιο δυνατή” του Στρίντμπεργκτ στο Μπάγκειον – 11/11/2023 στις 21:00",
+    "winners": [
+      "ΣΑΡΑΝΤΟΣ ΤΖΟΡΤΖΗΣΕΛΈΝΗ  ΚΟΥΤΡΟΥΜΠΗ ΤΆΣΟΣ ΜΟΣΧΟΝΆΣ"
+    ]
+  },
+  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-terror-tou-ferntinant-fon-sirax-sto-theatro-filip-10-11-2025-stis-2030/",
     "eventTitle": "“Terror” του Φέρντιναντ φον Σίραχ στο θέατρο ΦΙΛΙΠ – 10/11/2025 στις 20:30",
     "winners": [
@@ -84,143 +147,10 @@
     ]
   },
   {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-mnimi-tholi-tis-annas-vagena-sto-theatro-metaksourgeio-09-11-2025-stis-1900/",
-    "eventTitle": "“Μνήμη θολή” της Άννας Βαγενά στο Θέατρο Μεταξουργείο – 09/11/2025 στις 19:00",
-    "winners": [
-      "ΣΟΦΊΑ ΣΠΑΝΟΥΕΥΑΓΓΕΛΙΑ  ΚΟΥΤΡΟΥΜΠΑΚΗ ΝΑΤΑΣΑ ΔΗΜΟΥΝΙΚΟΣ ΔΕΛΛΗΣΑΘΗΝΑ ΤΣΕΝΤΙΔΟΥΚΩΝΣΤΑΝΤΊΝΑ ΜΑΓΚΑΦΆΔΟΜΝΑ ΠΑΝΤΕΛΙΔΟΥΕΛΕΝΗ ΔΗΜΗΤΡΑΚΟΥΙΩΑΝΝΗΣ ΙΓΝΑΤΙΑΔΗΣMARIA  ΦΙΛΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-tzon-gavriil-mporkman-tou-errikou-ipsen-sto-theatro-ekati-09-11-2025-stis-1900/",
-    "eventTitle": "“Τζον Γαβριήλ Μπόρκμαν” του Ερρίκου Ιψεν στο Θέατρο Εκάτη – 09/11/2025 στις 19:00",
-    "winners": [
-      "MARIA BELECHAKIΣΤΑΥΡΟΥΛΑ ΜΟΥΚΕΑ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-entoli-tis-didos-sotiriou-anevainei-ksana-sto-theatro-nous-09-11-2025-stis-2015/",
-    "eventTitle": "“Εντολή” της Διδώς Σωτηρίου ανεβαίνει ξανά στο Θέατρο Noūs – 09/11/2025 στις 20:15",
-    "winners": [
-      "ΧΡΥΣΟΎΛΑ  ΚΑΡΑΓΙΩΡΓΟΥ ΑΝΤΩΝΗΣ ΚΑΠΑΡΟΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-kontra-ston-anemo-i-iptameni-peripeteia-tis-tira-ton-hippo-theatre-group-sto-theatro-stathmos-09-11-2025-stis-1500/",
-    "eventTitle": "«Κόντρα στον Άνεμο: η ιπτάμενη περιπέτεια της Τίρα» των Hippo Theatre Group στο Θέατρο Σταθμός – 09/11/2025 στις 15:00",
-    "winners": [
-      "ΜΑΤΘΑΙΟΣ ΛΑΠΙΔΑΚΗΣΠΑΝΑΓΙΩΤΗΣ ΜΠΑΚΥΡΑΣΒΑΡΒΑΡΑ ΑΝΑΣΤΑΣΟΠΟΥΛΟΥΤΑΝΙΑ  ΚΑΛΤΣΆ ΕΛΕΥΘΕΡΊΑ  ΜΩΡΑΪ́ΤΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-stayros-lantsias-sto-half-note-jazz-club-09-11-2025-stis-2130/",
-    "eventTitle": "Ο Σταύρος Λάντσιας στο Half Note Jazz Club – 09/11/2025 στις 21:30",
-    "winners": [
-      "ΔΗΜΗΤΡΗΣ ΝΤΟΚΑΤΖΗΣΣΑΡΑΝΤΗΣ ΦΥΡΟΓΕΝΗΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-xameni-anoiksi-tou-strati-tsirka-sto-theatro-poreia-kerdiste-proskliseis-09-11-2025-stis-2100/",
-    "eventTitle": "“Η Χαμένη Άνοιξη” του Στρατή Τσίρκα στο Θέατρο Πορεία – Κερδίστε προσκλήσεις – 09/11/2025 στις 21:00",
-    "winners": [
-      "ΧΡΙΣΤΙΝΑ ΓΙΑΝΝΟΥΔΗΝΑΤΑΣΑ ΑΝΩΓΕΙΑΝΑΚΗΧΑΡΟΎΛΑ  ΘΩΜΑΜΗΝΑΣ ΜΑΘΙΟΥΔΑΚΗΣΥΠΑΤΙΑ ΚΟΡΝΗΛΙΟΥ"
-    ]
-  },
-  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-photon-athens-2025-to-optikoakoustiko-project-tou-ben-klock-sto-universe-athens-08-11-2024-stis-23-00/",
     "eventTitle": "Photon Athens 2025-Το οπτικοακουστικό project του Ben Klock στο Universe Athens – 08/11/2024 στις 23.00",
     "winners": [
       "ΣΤΑΥΡΟΣ ΧΡΗΣΤΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-xainti-i-mikroula-ton-vounon-tis-gioxana-spiri-sto-theatro-thymeli-09-11-2025-stis-1130/",
-    "eventTitle": "«Χάιντι, η Μικρούλα των Βουνών» της Γιοχάνα Σπίρι στο Θέατρο Θυμέλη – 09/11/2025 στις 11:30",
-    "winners": [
-      "ΜΑΡΙΑ ΨΑΙΛΑΑΙΚΑΤΕΡΙΝΗ ΛΑΜΝΑΤΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-sodoma-kai-gomorra-tis-giotas-tzouani-sto-theatro-aylaia-09-11-2025-stis-2030/",
-    "eventTitle": "“Σόδομα και Γόμορρα” της Γιώτας Τζουάνη στο Θέατρο Αυλαία – 09/11/2025 στις 20:30",
-    "winners": [
-      "ΒΑΣΙΛΗΣ ΚΑΛΤΣΗΣMARINA MPOZINAKIΧΡΥΣΟΎΛΑ ΠΡΕΦΟΥΜΟΚΑΤΕΡΙΝΑ ΠΑΤΙΤΑΚΗΓΙΩΡΓΟΣ ΚΑΚΟΥΣΙΟΣΑΝΤΙΓΟΝΗ  ΧΑΡΜΠΙΛΑΕΛΕΝΑ ΔΙΟΝΥΣΟΠΟΥΛΟΥΒΑΣΙΛΙΚΉ ΜΩΡΑΙΤΗΓΙΑΝΝΟΎΛΑ ΒΕΝΤΟΎΡΗΧΡΉΣΤΟΣ  ΤΖΑΝΤΑΡΙΔΗΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-xasame-ti-theia-stop-tou-giorgou-dialegmenou-sto-theatro-filip-09-11-2025-stis-2015/",
-    "eventTitle": "“Χάσαμε τη Θεία Στοπ” του Γιώργου Διαλεγμένου στο θέατρο ΦΙΛΙΠ – 09/11/2025 στις 20:15",
-    "winners": [
-      "ΚΩΝΣΤΑΝΤΙΝΑ ΜΠΡΑΤΣΟΛΙΑΜΙΝΑ ΚΑΤΣΑΝΤΩΝΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-kokkinoskoufitsa-2-0-to-mystirio-tou-xamenou-kalathiou-sto-xoros-texnis-asomaton-09-11-2025-stis-1200/",
-    "eventTitle": "“Κοκκινοσκουφίτσα 2.0: Το μυστήριο του χαμένου καλαθιού” στο Χώρος Τέχνης Ασωμάτων – 09/11/2025 στις 12:00",
-    "winners": [
-      "ΦΩΤΕΙΝΗ ΛΙΒΑΚΑΛΛΙΡΌΗ ΔΟΥΡΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-maxi-ton-magon-mia-mousiko-magiki-peripeteia-sto-theatro-2510-09-11-2025-stis-1130/",
-    "eventTitle": "“Η μάχη των μάγων” μια μουσικο-μαγική περιπέτεια στο θέατρο 2510 – 09/11/2025 στις 11:30",
-    "winners": [
-      "ΠΑΝΑΓΙΩΤΑ ΜΗΤΣΙΑ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-votka-molotof-tis-elenis-rantou-sto-theatro-filip-09-11-2025-stis-1815/",
-    "eventTitle": "“Βότκα μολότοφ” της Ελένης Ράντου στο θέατρο ΦΙΛΙΠ – 09/11/2025 στις 18:15",
-    "winners": [
-      "ΑΝΑΣΤΑΣΊΑ ΚΑΡΑΚΑΤΣΑΝΗΑΝΑΣΤΑΣΙΑ ΑΛΤΑΝΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-mazi-tou-fampio-marra-sto-theatro-altera-pars-09-11-2025-stis-2030/",
-    "eventTitle": "“Μαζί” του Φάμπιο Μάρρα στο Θέατρο Altera Pars – 09/11/2025 στις 20:30",
-    "winners": [
-      "ΘΕΟΦΙΛΟΣ ΓΑΛΟΥΖΗΣΕΙΡΉΝΗ  ΕΥΑΓΓΈΛΟΥ ΖΑΦΕΙΡΟΎΛΑ  ΧΡΙΣΤΟΔΟΥΛΆΚΟΥ ΒΑΣΙΛΙΚΗ ΒΛΑΧΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-meres-oloklires-sta-dendra-tis-margkerit-ntyras-sto-theatro-ekstan-09-11-2025-stis-1900/",
-    "eventTitle": "«Μέρες ολόκληρες στα δένδρα» της Μαργκερίτ Ντυράς στο Θέατρο Εκστάν – 09/11/2025 στις 19:00",
-    "winners": [
-      "ΑΡΙΣΤΕΙΔΗΣ ΜΑΛΚΟΤΣΗΣΙΩΑΝΝΑ ΣΤΑΘΟΠΟΥΛΟΥΑΣΠΑΣΙΑ ΚΑΣΑΠΗ ΖΩΗ  ΔΟΥΠΑ ΣΠΥΡΟΣ  ΡΕΓΚΟΥΤΑΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-paplomatou-tis-mariannas-toli-sto-theatro-vasilakou-marianna-toli-09-11-2025-stis-1500/",
-    "eventTitle": "“Η Παπλωματού” της Μαριάννας Τόλη στο Θέατρο Βασιλάκου – Μαριάννα Τόλη – 09/11/2025 στις 15:00",
-    "winners": [
-      "ΕΛΕΥΘΕΡΙΑ  ΠΑΥΛΙΔΗΑΝΑΣΤΑΣΊΑ ΠΑΠΑΔΟΜΑΝΩΛΑΚΗΣΤΥΛΙΑΝΗ ΓΑΤΟΥΒΑΣΊΛΗΣ  ΚΑΛΟΜΠΡΑΤΣΟΣΔΗΜΗΤΡΙΟΣ  ΜΠΕΖΑΙΤΗΣ ΚΑΛΛΙΟΠΗ ΑΡΤΕΛΑΡΗΝΆΣΟΣ  ΜΗΤΣΙΟΣ ΑΘΗΝΑ ΣΑΛΤΑΟΥΡΑΑΝΑΣΤΑΣΙΑ ΜΠΟΛΟΒΙΤΣΙΩΤΗMΑΡΙΑ ΒΟΡΙΛΑ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-aggelia-thanatou-tou-heiner-muller-sto-tzamia-krystalla-09-11-2025-stis-21-00/",
-    "eventTitle": "“Αγγελία Θανάτου” του Heiner Müller στο Τζάμια Κρύσταλλα – 09/11/2025 στις 21.00",
-    "winners": [
-      "ΣΤΕΛΛΑ ΧΡΙΣΤΟΦΟΡΟΥΦΩΤΕΙΝΗ ΝΤΟΒΟΛΟΥΜΥΡΤΏ ΛΥΚΟΎΡΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-sonata-tou-selinofotos-giannis-ritsos-apo-tous-encardia-sto-theatre-of-the-no-09-11-2025-stis-2000/",
-    "eventTitle": "«Η Σονάτα του Σεληνόφωτος» (Γιάννης Ρίτσος) από τους Encardia στο Theatre Of The No – 09/11/2025 στις 20:00",
-    "winners": [
-      "ΕΥΑΓΓΕΛΙΑ ΛΑΠΠΑ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-to-potreto-tis-dimitras-papadima-sto-apo-mixanis-theatro-09-11-2025-stis-2100/",
-    "eventTitle": "“Το ποτρέτο” της Δήμητρας Παπαδήμα στο Από Μηχανής Θέατρο – 09/11/2025 στις 21:00",
-    "winners": [
-      "ΑΛΙΚΗ ΒΡΑΝΑΕΙΡΗΝΗ ΠΕΔΙΑΔΙΤΗΕΛΙΣΑΒΕΤ ΑΝΘΟΠΟΥΛΟΥΣΠΥΡΙΔΟΥΛΑ ΘΕΟΔΟΣΙΟΥΚΩΝΣΤΑΝΤΊΝΟΣ ΣΤΑΥΡΌΠΟΥΛΟΣΧΡΙΣΤΌΦΟΡΟΣ ΚΟΝΤΟΣΔΙΟΝΥΣΗΣ ΠΑΝΤΑΖΑΚΟΣΤΑΚΗΣ ΟΙΚΟΝΟΜΟΥΓΙΩΡΓΟΣ ΚΡΟΥΠΗΣΚΩΝΣΤΑΝΤΙΝΟΣ ΖΑΛΩΝΗΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-fiakas-tou-dimostheni-k-misitzi-sto-apo-mixanis-theatro-09-11-2025-stis-1800/",
-    "eventTitle": "“Ο Φιάκας” του Δημοσθένη Κ. Μισιτζή στο Από Μηχανής Θέατρο – 09/11/2025 στις 18:00",
-    "winners": [
-      "ΕΛΈΝΗ  ΜΠΑΝΤΟΥΒΑ ΓΑΡΟΥΦΑΛΙΑ KOKKOTAΠΈΤΡΟΣ ΚΑΛΛΙΓΕΡΟΣΠΕΛΑΓΙΑ ΙΩΣΗΦΙΔΟΥΕΛΕΝΗ ΔΕΔΕΛΕΤΑΚΗΑΓΓΕΛΙΚΉ ΠΑΝΑΓΟΎΛΗΕΥΣΤΑΘΊΑ  ΖΑΡΚΑΔΟΥΛΑ ΣΤΥΛΙΑΝΗ ΗΛΙΑΔΟΥΔΉΜΗΤΡΑ ΒΑΜΒΑΚΆΚΩΝΣΤΑΝΤΙΝΑ ΚΑΡΑΒΟΥΛΙΑ"
     ]
   },
   {

@@ -1,5 +1,62 @@
 [
   {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-xasame-ti-theia-stop-tou-giorgou-dialegmenou-sto-theatro-filip-13-11-2025-stis-2000/",
+    "eventTitle": "“Χάσαμε τη Θεία Στοπ” του Γιώργου Διαλεγμένου στο θέατρο ΦΙΛΙΠ – 13/11/2025 στις 20:00",
+    "winners": [
+      "ΜΑΡΊΑ ΒΕΛΑΏΡΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-stacey-kent-trio-sto-megaro-mousikis-athinon-13-11-2025-stis-2100/",
+    "eventTitle": "Stacey Kent Trio στο Μέγαρο Μουσικής Αθηνών – 13/11/2025 στις 21:00",
+    "winners": [
+      "ΚΩΣΤΑΣ ΓΟΥΡΝΑΚΗΣΕΛΈΝΗ ΜΠΑΛΙΟΎΚΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-xristoforos-xristofis-o-tyrannos-kai-i-kori-sto-megaro-mousikis-athinon-13-11-2025-stis-2100/",
+    "eventTitle": "Χριστόφορος Χριστοφής “Ο Τύραννος και η κόρη” στο Μέγαρο Μουσικής Αθηνών – 13/11/2025 στις 21:00",
+    "winners": [
+      "ΕΙΡΉΝΗ ΒΑΡΟΥΤΗ",
+      "ΕΥΓΕΝΙΑ ΣΕΡΕΤΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-mixalis-kai-pantelis-kalogerakis-sto-stayro-tou-notou-13-11-2025-stis-2130/",
+    "eventTitle": "Μιχάλης και Παντελής Καλογεράκης στο Σταυρό του Νότου – 13/11/2025 στις 21:30",
+    "winners": [
+      "ΛΑΜΠΡΙΝΗ ΒΕΛΛΗ ΓΚΟΥΜΑΣΠΥΡΙΔΩΝ ΦΙΛΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-to-noima-tou-sex-no-2-tou-dionysi-mpouga-sto-theatro-lyxnos-texnis-kai-politismou-13-11-2025-stis-2100/",
+    "eventTitle": "“Το Νόημα του Sex Νο 2” του Διονύση Μπουγά στο Θέατρο Λύχνος Τέχνης και Πολιτισμού – 13/11/2025 στις 21:00",
+    "winners": [
+      "ΜΑΝΟΥΕΛΑ  ΣΩΡΡΑ ΧΑΡΑΛΑΜΠΟΣ  ΚΕΙΣΟΓΛΟΥ ΓΙΩΡΓΟΣ ΑΝΑΓΝΩΣΤΟΥΆΝΝΑ  ΙΓΓΛΈΖΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-otan-megaloso-tha-gino-nana-mousxouri-tou-ntavint-lelai-elo-sto-theatro-stathmos-13-11-2025-stis-2100/",
+    "eventTitle": "“Όταν μεγαλώσω, θα γίνω Νάνα Μούσχουρη” του Νταβίντ Λελαί-Ελό στο Θέατρο Σταθμός – 13/11/2025 στις 21:00",
+    "winners": [
+      "ΑΝΑΣΤΑΣΙΑ  ΜΠΡΟΥΣΣΟΥ ΚΥΡΙΑΚΗ  ΛΟΥΡΑΝΤΟΥ ΒΛΑΣΙΑ ΚΟΛΟΒΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-striggla-tou-o-saikspir-sto-dimotiko-theatro-peiraia-13-11-2025-stis-2030/",
+    "eventTitle": "“Στρίγγλα” του Ο. Σαίξπηρ στο Δημοτικό Θέατρο Πειραιά – 13/11/2025 στις 20:30",
+    "winners": [
+      "ΕΛΕΝΗ ΚΑΡΑΝΙΚΗΤΑΓΙΩΡΓΟΣ ΑΝΔΡΕΟΥΣΟΦΙΑ ΒΟΥΓΑΜΑΡΓΑΡΙΤΑ ΧΑΛΚΙΑΑΛΙΚΗ ΙΝΤΖΟΓΛΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-purgatorio-tou-ariel-dorfman-sto-mikro-kerameiko-13-11-2025-stis-2100/",
+    "eventTitle": "“Purgatorio” του Ariel Dorfman στο Μικρό Κεραμεικό – 13/11/2025 στις 21:00",
+    "winners": [
+      "ΑΝΑΣΤΑΣΊΑ  ΜΟΎΤΣΙΟΥ ΦΟΙΒΟΣ  ΚΑΤΣΙΓΙΑΝΝΗΣ ΔΕΣΠΟΙΝΑ ΒΕΤΤΑΟΔΥΣΣΕΑΣ ΑΛΜΠΑΝΙΔΗΣΝΑΤΑΛΙΑ ΗΛΙΟΥ"
+    ]
+  },
+  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikitis-diagonismou-stroma-dunlopillo-2/",
     "eventTitle": "Νικητής διαγωνισμού- Στρώμα Dunlopillo",
     "winners": [
@@ -38,7 +95,9 @@
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-pio-dynati-tou-strintmpergkt-sto-mpagkeion-12-11-2023-stis-2100/",
     "eventTitle": "“Η πιο δυνατή” του Στρίντμπεργκτ στο Μπάγκειον – 12/11/2023 στις 21:00",
     "winners": [
-      "ΜΑΡΙΑ ΤΕΠΕΡΙΚΙΔΟΥΒΕΝΕΔΙΚΤΟΣ ΛΑΝΑΡΑΣΘΕΌΔΩΡΟΣ  ΑΠΟΣΤΟΛΌΠΟΥΛΟΣ"
+      "ΜΑΡΙΑ ΤΕΠΕΡΙΚΙΔΟΥ",
+      "ΒΕΝΕΔΙΚΤΟΣ ΛΑΝΑΡΑΣ",
+      "ΘΕΌΔΩΡΟΣ ΑΠΟΣΤΟΛΌΠΟΥΛΟΣ"
     ]
   },
   {
@@ -68,14 +127,9 @@
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-pio-dynati-tou-strintmpergkt-sto-mpagkeion-11-11-2023-stis-2100/",
     "eventTitle": "“Η πιο δυνατή” του Στρίντμπεργκτ στο Μπάγκειον – 11/11/2023 στις 21:00",
     "winners": [
-      "ΣΑΡΑΝΤΟΣ ΤΖΟΡΤΖΗΣΕΛΈΝΗ  ΚΟΥΤΡΟΥΜΠΗ ΤΆΣΟΣ ΜΟΣΧΟΝΆΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-pio-dynati-tou-strintmpergkt-sto-mpagkeion-10-11-2023-stis-2100/",
-    "eventTitle": "“Η πιο δυνατή” του Στρίντμπεργκτ στο Μπάγκειον – 10/11/2023 στις 21:00",
-    "winners": [
-      "ΘΑΝΟΣ ΑΘΑΝΑΣΙΑΔΗΣΧΡΉΣΤΟΣ ΡΑΜΑΝΤΆΝΗΣΠΑΝΑΓΙΏΤΗΣ ΣΙΑΦΆΚΑΣ"
+      "ΣΑΡΑΝΤΟΣ ΤΖΟΡΤΖΗΣ",
+      "ΕΛΈΝΗ ΚΟΥΤΡΟΥΜΠΗ",
+      "ΤΆΣΟΣ ΜΟΣΧΟΝΆΣ"
     ]
   },
   {

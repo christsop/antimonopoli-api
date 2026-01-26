@@ -1,5 +1,61 @@
 [
   {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-imeri-i-anatomia-mias-ptosis-tou-ntostogiefski-sto-theatro-thiseion-27-01-2026-stis-2100/",
+    "eventTitle": "“Ήμερη – Η ανατομία μιας πτώσης” του Ντοστογιέφσκι στο Θέατρο Θησείον – 27/01/2026 στις 21:00",
+    "winners": [
+      "ΑΧΙΛΛΕΑΣ ΚΟΝΤΟΒΑΙΟΣΣΤΕΦΑΝΙΑ ΘΕΟΔΩΡΗΑΝΤΩΝΙΑ ΓΙΑΝΝΑΡΑΚΗΕΛΕΝΗ ΠΕΝΤΕΔΕΚΑΕΥΑΓΓΕΛΊΑ ΒΙΤΣΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-surriento-o-kosmos-ksana-tou-thanasi-triaridi-ston-texnoxoro-ergotaksion-27-01-2026-stis-21-00/",
+    "eventTitle": "“Surriento – Ο Κόσμος Ξανά” του Θανάση Τριαρίδη στον Τεχνοχώρο Εργοτάξιον – 27/01/2026 στις 21.00",
+    "winners": [
+      "ΒΕΝΕΤΙΑ ΚΑΠΟΠΟΥΛΟΥΔΕΣΠΟΙΝΑ ΤΣΟΛΚΑΓΙΏΡΓΟΣ  ΠΑΥΛΆΚΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-thanasis-voutsas-krak-sto-plyfa-27-01-2026-stis-2100/",
+    "eventTitle": "Θανάσης Βούτσας – «ΚΡΑΚ» στο ΠΛΥΦΑ – 27/01/2026 στις 21:00",
+    "winners": [
+      "ΒΑΓΓΕΛΗΣ ΜΑΚΑΛΙΑΣΕΥΑΓΓΕΛΟΣ ΤΣΑΝΟΥΛΑΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-einai-ayti-i-despoinis-tzoulia-sto-studio-kypselis-27-01-2026-stis-2100/",
+    "eventTitle": "“Είναι αυτή η Δεσποινίς Τζούλια;” στο Studio Κυψέλης – 27/01/2026 στις 21:00",
+    "winners": [
+      "ΔΗΜΗΤΡΑ ΧΟΝΔΡΟΥΚΑΤΕΡΊΝΑ ΑΝΔΡΕΑΔΟΥΘΕΟΦΙΛΟΣ ΓΑΛΟΥΖΗΣΑΘΗΝΑ ΦΛΕΓΚΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-koimountai-ta-psaria-tou-tou-jens-raschke-sto-theatro-stathmos-27-01-2026-stis-2100/",
+    "eventTitle": "“Κοιμούνται τα ψάρια;” του του Jens Raschke στο Θέατρο Σταθμός – 27/01/2026 στις 21:00",
+    "winners": [
+      "ΚΑΤΕΡΊΝΑ  ΓΚΆΤΖΙΑ ΤΆΣΟΣ ΜΟΣΧΟΝΆΣΑΓΓΕΛΙΚΉ  ΜΠΆΡΛΟΥ ΚΑΤΕΡΙΝΑ ΣΟΥΜΠΑΣΗΑΝΤΖΕΛΑ ΚΑΡΠΑΘΑΚΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-tap-aout-tou-andrea-flouraki-sto-theatro-mikro-gkloria-27-01-2026-stis-2100/",
+    "eventTitle": "“Ταπ Άουτ” του Ανδρέα Φλουράκη στο Θέατρο Μικρό Γκλόρια – 27/01/2026 στις 21:00",
+    "winners": [
+      "ΑΛΕΞΑΝΤΕΡ ΓΡΑΖΤΑΝΕΛΙΝΑ ΦΙΛΙΠΠΙΑΔΟΥΒΑΣΙΛΕΙΟΣ ΙΟΡΔΑΝΙΔΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-aligatores-alligators-tou-andrew-keatley-sti-theatriki-skini-auditorium-27-01-2026-stis-2100/",
+    "eventTitle": "Αλιγάτορες (Alligators) του Andrew Keatley στη θεατρική σκηνή Auditorium – 27/01/2026 στις 21:00",
+    "winners": [
+      "ΓΕΩΡΓΙΟΣ ΚΑΡΑΜΠΕΣΙΝΗΣΔΙΟΝΥΣΊΑ ΚΑΙΜΑΞΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-fonissa-se-skinothesia-thodori-ampazi-sto-theatro-xoros-27-01-2026-stis-2100/",
+    "eventTitle": "“Η Φόνισσα” σε σκηνοθεσία Θοδωρή Αμπαζή στο Θέατρο Χώρος – 27/01/2026 στις 21:00",
+    "winners": [
+      "ΚΙΚΗ ΡΑΠΤΗΑΛΕΞΑΝΔΡΑ ΠΑΡΗΓΟΡΗ"
+    ]
+  },
+  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-koimountai-ta-psaria-tou-tou-jens-raschke-sto-theatro-stathmos-26-01-2026-stis-2100/",
     "eventTitle": "“Κοιμούνται τα ψάρια;” του του Jens Raschke στο Θέατρο Σταθμός – 26/01/2026 στις 21:00",
     "winners": [
@@ -63,171 +119,10 @@
     ]
   },
   {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-keik-tou-vaggeli-xatzigiannidi-sto-theatro-emporikon-25-01-2026-stis-1800/",
-    "eventTitle": "“Κέικ” του Βαγγέλη Χατζηγιαννίδη στο Θέατρο Εμπορικόν – 25/01/2026 στις 18:00",
-    "winners": [
-      "ΜΑΙΡΗ ΚΕΣΣΑΝΙΩΤΟΥΑΓΚΌΠ ΜΑΛΕΒΙΖΙΑΝΔΗΜΗΤΡΑ ΡΑΣΠΙΤΣΟΥΚΑΤΕΡΙΝΑ ΛΕΩΝΜΑΡΙΑ  ΧΑΤΖΗΠΑΠΑ"
-    ]
-  },
-  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-dyo-i-tria-pragmata-pou-ksero-gi-ayton-tou-anesti-aza-sto-theatro-proskinio-25-1-2026-stis-1900/",
     "eventTitle": "«Δύο ή τρία πράγματα που ξέρω γι’ αυτόν» του Ανέστη Αζά στο Θέατρο Προσκήνιο – 25/1/2026 στις 19:00",
     "winners": [
       "ΔΗΜΗΤΡΗΣ ΣΑΓΡΗΣΕΙΡΗΝΗ ΖΟΥΖΟΥΛΑΜΑΡΙΑ ΡΙΑΜΠΟΣΣΑΠΚΙΝΑΕΛΕΝΗ ΒΑΣΙΛΟΠΟΥΛΟΥΓΛΥΚΕΡΙΑ ΣΤΡΑΤΗΓΟΥΘΕΟΧΑΡΗΣ ΙΩΑΚΕΙΜΟΓΛΟΥΑΡΙΣΤΈΑ ΛΟΥΜΙΔΗΔΗΜΗΤΡΗΣ ΣΑΒΒΙΔΗΣΑΦΡΟΔΙΤΗ ΣΕΛΕΜΙΔΟΥΕΛΠΙΔΑ ΝΑΝΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/piano-days-piandaemonium-me-6-piana-12-pianistes-sto-megaro-mousikis-athinon-25-01-2026-stis-2100/",
-    "eventTitle": "Piano Days: Piandaemonium με 6 πιάνα – 12 πιανίστες στο Μέγαρο Μουσικής Αθηνών – 25/01/2026 στις 21:00",
-    "winners": [
-      "ΣΠΥΡΟΣ ΛΑΜΠΡΟΠΟΥΛΟΣΗΛΙΑΣ ΜΕΡΚΟΥΡΗΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/piano-days-lukas-sternath-sto-megaro-mousikis-athinon-25-01-2026-stis-1900/",
-    "eventTitle": "Piano Days: Lukas Sternath στο Μέγαρο Μουσικής Αθηνών – 25/01/2026 στις 19:00",
-    "winners": [
-      "ΕΥΑΓΓΕΛΟΣ ΧΟΡΤΗΣΑΓΟΡΙΤΣΑ ΚΑΡΑΙΣΚΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-quad-piano-trio-sto-half-note-jazz-club-25-01-2026-stis-2130/",
-    "eventTitle": "Quad Piano Trio στο Half Note Jazz Club – 25/01/2026 στις 21:30",
-    "winners": [
-      "ΙΩΆΝΝΗΣ  ΨΑΡΆΚΗΣ ΈΦΗ  ΜΙΧΑ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-votka-molotof-tis-elenis-rantou-sto-theatro-filip-25-01-2026-stis-1815/",
-    "eventTitle": "“Βότκα μολότοφ” της Ελένης Ράντου στο θέατρο ΦΙΛΙΠ – 25/01/2026 στις 18:15",
-    "winners": [
-      "ΕΥΗ ΝΙΚΟΛΑΙΔΟΥΧΡΥΣΟΎΛΑ  ΧΑΛΔΑΊΟΥ ΧΡΙΣΤΙΝΑ-ΑΘΗΝΑ ΣΕΡΕΤΗΚΥΡΙΑΚΉ ΟΚΤΑΠΟΔΑΣΟΦΙΑ ΔΟΥΚΕΛΛΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-miltos-pasxalidis-ston-stayro-tou-notou-25-01-2026-stis-2100/",
-    "eventTitle": "Ο Μίλτος Πασχαλίδης στον Σταυρό του Νότου – 25/01/2026 στις 21:00",
-    "winners": [
-      "ΚΑΤΕΡΙΝΑ ΜΙΧΑΛΑΚΗΑΝΑΣΤΑΣΙΑ ΑΛΤΑΝΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-kokkina-fanaria-tou-alekou-galanou-sti-skini-brecht-2510-25-01-2026-stis-2030/",
-    "eventTitle": "“Κόκκινα Φανάρια” του Αλέκου Γαλανού στη ΣΚΗΝΗ BRECHT-2510 – 25/01/2026 στις 20:30",
-    "winners": [
-      "ΒΑΣΙΛΙΚΉ ΚΟΝΤΟΓΕΏΡΓΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-pigkouinos-tou-gioxan-tis-almperta-tsopanaki-sto-theatro-paramythias-25-01-2026-stis-1200/",
-    "eventTitle": "“Ο Πιγκουίνος του Γιόχαν” της Αλμπέρτα Τσοπανάκη στο Θέατρο Παραμυθίας – 25/01/2026 στις 12:00",
-    "winners": [
-      "ΑΝΤΏΝΗΣ  ΜΠΙΝΤΟΎΔΗΣ ΝΙΚΟΣ ΒΛΑΧΟΔΗΜΗΤΡΟΠΟΥΛΟΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-ruby-moon-tou-mat-kameron-sto-theatro-aggelon-vima-25-01-2026-stis-1900/",
-    "eventTitle": "“Ruby Moon” του Ματ Κάμερον στο Θέατρο Αγγέλων Βήμα – 25/01/2026 στις 19:00",
-    "winners": [
-      "ΓΕΏΡΓΙΟΣ ΧΑΤΖΗΣΜΑΡΙΑ ΚΑΠΟΔΙΣΤΡΙΑΡΕΝΙΑ ΠΛΕΣΣΑΒΑΣΙΛΙΚΗ ΒΟΥΓΑΔΉΜΗΤΡΑ ΒΑΜΒΑΚΆ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-yerma-tou-f-g-lorca-sto-theatro-alkmini-25-01-2026-stis-2100/",
-    "eventTitle": "“Yerma” του F. G. Lorca στο Θέατρο Αλκμήνη – 25/01/2026 στις 21:00",
-    "winners": [
-      "ΜΑΡΊΑ ΔΉΜΑ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-dakry-sto-fidi-apo-tin-omada-hippo-theatre-group-sto-bios-25-01-2026-stis-2000/",
-    "eventTitle": "“Δάκρυ στο Φίδι” από την ομάδα Hippo Theatre Group στο Bios – 25/01/2026 στις 20:00",
-    "winners": [
-      "ΘΕΟΔΌΣΗΣ ΚΑΝΙΑΡΌΣΠΑΝΑΓΙΩΤΗΣ ΚΑΛΙΑΡΝΤΑΣΒΑΣΊΛΗΣ  ΜΙΝΟΣ ΑΝΝΑ ΦΑΜΕΛΟΥΕΥΑΓΓΕΛΙΑ ΔΙΑΣΑΚΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-mpen-kai-imo-tou-mark-reivenxil-stin-enallaktiki-skini-tis-ethnikis-lyrikis-skinis-sto-kpisn-25-01-2026-stis-1930/",
-    "eventTitle": "“Μπεν και Ίμο” του Μαρκ Ρέιβενχιλ στην Εναλλακτική Σκηνή της Εθνικής Λυρικής Σκηνής, στο ΚΠΙΣΝ – 25/01/2026 στις 19:30",
-    "winners": [
-      "ΝΙΚΟΛΑΟΣ ΒΙΝΤΙΑΔΗΣΠΑΝΑΓΙΩΤΗΣ ΗΛΙΟΠΟΥΛΟΣΣΤΥΛΙΑΝΗ ΚΟΛΟΒΟΥΚΩΣΤΑΣ ΖΑΦΕΙΡΙΑΔΗΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-in-motion-ena-agalma-pou-to-skase-tis-danais-mega-sto-dimotiko-theatro-peiraia-25-01-2026-stis-1100/",
-    "eventTitle": "“In Motion – Ένα άγαλμα που το ’σκασε” της Δανάης Μέγα στο Δημοτικό Θέατρο Πειραιά – 25/01/2026 στις 11:00",
-    "winners": [
-      "ΡΈΝΙΑ ΑΓΆΘΟΥΕΛΕΝΗ ΓΑΛΑΝΟΠΟΥΛΟΥΑΝΑΣΤΑΣΙΑ ΠΑΝΑΓΙΩΤΑΚΟΠΟΥΛΟΥΝΙΚΟΣ ΚΟΝΤΟΓΙΑΝΝΗΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-omologia-tis-4is-ianouariou-sto-mikro-gkloria-25-01-2026-stis-2015/",
-    "eventTitle": "“Η Ομολογία της 4ης Ιανουαρίου” στο Μικρό Γκλόρια – 25/01/2026 στις 20:15",
-    "winners": [
-      "ΑΝΝΑ ΘΕΟΔΩΡΑΚΟΠΟΥΛΟΥΙΑΣΩΝ ΒΙΛΛΙΑΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-to-tetarto-vagoni-ton-nikou-orlof-katerinas-triantafyllopoulou-sto-studio-kypselis-25-01-2026-stis-2100/",
-    "eventTitle": "“Το τέταρτο βαγόνι” των Νίκου Ορλώφ, Κατερίνας Τριανταφυλλοπούλου στο Studio Κυψέλης – 25/01/2026 στις 21:00",
-    "winners": [
-      "ΙΩΑΝΝΗΣ ΙΓΝΑΤΙΑΔΗΣΕΥΑΓΓΕΛΙΑ  ΚΟΥΤΡΟΥΜΠΑΚΗ ΒΑΣΊΛΗΣ ΚΥΡΙΑΖΟΠΟΥΛΟΣΧΡΗΣΤΟΣ ΡΟΥΚΗΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-me-dyvami-apo-tiv-kifisia-se-skinothesia-georgias-mayragavi-sto-theatro-stathmos-25-01-2026-stis-2115/",
-    "eventTitle": "“Με δύvαμη από τηv Κηφισιά” σε σκηνοθεσία Γεωργίας Μαυραγάvη στο Θέατρο Σταθμός – 25/01/2026 στις 21:15",
-    "winners": [
-      "ΚΩΝΣΤΑΝΤΙΝΟΣ  ΟΙΚΟΝΟΜΟΥ ΑΘΗΝΑ ΤΣΕΝΤΙΔΟΥΑΛΈΚΑ ΚΌΦΦΑΓΙΩΡΓΟΣ ΑΝΑΓΝΩΣΤΟΥΕΛΕΝΑ ΠΑΠΑΖΟΓΛΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-to-dentro-pou-agapousese-nees-peripeteies-tis-omadas-vida-sto-megaro-mousikis-athinon-25-01-2026-stis-1500/",
-    "eventTitle": "“Το δέντρο που αγαπούσε…σε νέες περιπέτειες” της ομάδας ΒίΔα στο Μέγαρο Μουσικής Αθηνών – 25/01/2026 στις 15:00",
-    "winners": [
-      "ΒΑΣΙΛΕΙΑ ΔΕΛΗΔΗΜΗΤΡΗΛΑΜΠΡΙΝΗ ΒΕΛΛΗ ΓΚΟΥΜΑ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-paplomatou-tis-mariannas-toli-sto-theatro-vasilakou-marianna-toli-25-01-2026-stis-1500/",
-    "eventTitle": "“Η Παπλωματού” της Μαριάννας Τόλη στο Θέατρο Βασιλάκου – Μαριάννα Τόλη – 25/01/2026 στις 15:00",
-    "winners": [
-      "ΣΕΒΙΝΑ ΛΟΥΒΕΡΔΗΓΙΩΡΓΟΣ ΠΑΥΛΟΥΣΤΈΛΛΑ ΤΣΑΡΤΣΆΡΑΑΛΈΞΑΝΔΡΟΣ ΚΑΡΑΜΑΛΕΓΚΟΣΓΕΩΡΓΙΟΣ ΒΑΣΙΛΕΙΑΔΗΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-paplomatou-tis-mariannas-toli-sto-theatro-vasilakou-marianna-toli-25-01-2026-stis-1200/",
-    "eventTitle": "“Η Παπλωματού” της Μαριάννας Τόλη στο Θέατρο Βασιλάκου – Μαριάννα Τόλη – 25/01/2026 στις 12:00",
-    "winners": [
-      "ΒΑΣΙΛΙΚΗ ΡΑΠΤΗΑΝΘΗ ΠΑΝΤΕΛΙΔΗΧΡΥΣΑ ΓΚΡΕΚΟΥΠΑΝΑΓΙΏΤΗΣ ΠΑΠΑΔΌΠΟΥΛΟΣΚΑΤΕΡΙΝΑ ΚΟΥΛΟΥΜΠΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-to-ksenodoxeio-i-nyxta-pou-peftei-tou-nanou-valaoriti-sto-dimotiko-theatro-peiraia-25-01-2026-stis-1900/",
-    "eventTitle": "“Το Ξενοδοχείο Η Νύχτα που Πέφτει” του Νάνου Βαλαωρίτη στο Δημοτικό Θέατρο Πειραιά – 25/01/2026 στις 19:00",
-    "winners": [
-      "ΒΑΣΙΛΙΚΗ ΣΤΑΥΡΟΠΟΥΛΟΥΕΙΡΗΝΗ ΓΙΑΝΝΑΚΑΚΗΕΥΑΓΓΕΛΟΣ ΨΥΛΛΑΚΗΣΚΥΡΙΑΚΟΣ ΓΟΥΡΝΑΚΗΣΠΑΣΧΑΛΗΣ ΣΑΝΙΔΑΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-aspra-aloga-tou-errikou-ipsen-sto-theatro-ekati-25-01-2026-stis-1900/",
-    "eventTitle": "“Άσπρα άλογα” του Ερρίκου Ιψεν στο Θέατρο Εκάτη – 25/01/2026 στις 19:00",
-    "winners": [
-      "ΓΙΩΤΑ ΜΠΡΑΒΟΥΚΩΝΣΤΑΝΤΊΝΑ ΜΑΓΚΑΦΆΙΩΑΝΝΗΣ ΤΣΟΠΕΛΑΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-don-kixotis-tou-migkel-nte-thervantes-sto-theatro-kappa-25-01-2026-stis-1130/",
-    "eventTitle": "“Δον Κιχώτης” του Μιγκέλ ντε Θερβάντες στο Θέατρο Κάππα – 25/01/2026 στις 11:30",
-    "winners": [
-      "ΣΤΑΥΡΟΥΛΑ  ΚΙΣΚΕΑΕΦΗ  ΠΑΠΑΚΩΣΤΑΧΑΡΙΚΛΕΙΑ ΜΠΑΝΤΟΥΝΑ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/o-kalyteros-magos-oi-magoi-tristan-ermis-sto-theatro-alkmini-kerdiste-proskliseis-25-01-2026-stis-1500/",
-    "eventTitle": "“Ο Καλύτερος Μάγος!”: Οι μάγοι Τρίσταν & Ερμής στο θέατρο Αλκμήνη – Κερδίστε προσκλήσεις – 25/01/2026 στις 15;00",
-    "winners": [
-      "ΓΙΩΡΓΟΣ ΑΝΔΡΕΟΥΔΟΜΝΑ ΠΑΝΤΕΛΙΔΟΥ"
     ]
   },
   {

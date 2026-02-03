@@ -1,5 +1,40 @@
 [
   {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-amerikanikos-vouvalos-tou-tou-david-mamet-sto-theatro-simeio-03-02-2026-stis-2100/",
+    "eventTitle": "“Αμερικάνικος Βούβαλος” του του David Mamet στο Θέατρο Σημείο – 03/02/2026 στις 21:00",
+    "winners": [
+      "ΑΝΤΡΕΑΣ ΒΑΣΙΛΑΚΟΠΟΥΛΟΣΤΗΛΕΜΑΧΟΣ ΜΕΛΙΟΣΓΙΑΝΝΗΣ ΜΕΡΚΟΥΡΗΣΑΝΤΙΓΟΝΗ ΒΛΑΧΟΔΗΜΟΥΕΥΑΝΘΙΑ ΛΑΙΟΥΝΑΤΑΛΙΑ ΔΑΦΝΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-oi-velones-tis-nerantzias-tou-panagioti-kalyviti-sto-plyfa-03-02-2026-stis-2115/",
+    "eventTitle": "“Οι Βελόνες της νεραντζιάς” του Παναγιώτη Καλυβίτη  στο ΠΛΥΦΑ – 03/02/2026 στις 21:15",
+    "winners": [
+      "ΔΗΜΗΤΡΗΣ ΜΙΧΑΛΗΣΠΑΝΑΓΙΩΤΗΣ ΛΑΓΙΟΣΘΕΌΔΩΡΟΣ ΤΣΕΛΙΟΣΕΎΗ ΤΖΑΚΗΣΤΕΦΑΝΟΣ ΚΡΙΚΕΛΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-einai-ayti-i-despoinis-tzoulia-sto-studio-kypselis-03-02-2026-stis-2100/",
+    "eventTitle": "“Είναι αυτή η Δεσποινίς Τζούλια;” στο Studio Κυψέλης – 03/02/2026 στις 21:00",
+    "winners": [
+      "ΕΥΑΝΘΙΑ ΧΡΙΣΤΟΠΟΥΛΟΥΧΡΉΣΤΟΣ ΡΑΜΑΝΤΆΝΗΣΡΈΝΙΑ  ΠΛΈΣΣΑ ΜΙΧΆΛΗΣ  ΚΛΑΜΕΝΆΚΟΣ ΡΟΎΛΑ  ΝΤΟΥΣΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-surriento-o-kosmos-ksana-tou-thanasi-triaridi-ston-texnoxoro-ergotaksion-03-02-2026-stis-21-00/",
+    "eventTitle": "“Surriento – Ο Κόσμος Ξανά” του Θανάση Τριαρίδη στον Τεχνοχώρο Εργοτάξιον – 03/02/2026 στις 21.00",
+    "winners": [
+      "ΠΑΡΑΣΚΕΥΗ ΚΑΚΟΥΗΛΙΑΣ ΚΡΕΜΑΣΜΈΝΟΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-koimomenos-xalepas-o-salos-agios-tou-aggelou-andreopoulou-sto-theatro-kallirrois-03-02-2026-stis-2115/",
+    "eventTitle": "“Κοιμώμενος Χαλεπάς, ο ΣΑΛόΣ άΓΙΟΣ” του Άγγελου Ανδρεόπουλου στο Θέατρο Καλλιρρόης – 03/02/2026 στις 21:15",
+    "winners": [
+      "ΚΥΡΙΑΚΗ ΑΝΔΡΙΑΝΗΙΩΑΝΝΗΣ ΤΣΟΠΕΛΑΣΑΓΓΕΛΙΚΉ ΣΤΆΘΗΚΆΤΙΑ  ΜΟΊΡΑ ΚΩΝΣΤΑΝΤΙΝΑ ΒΑΣΙΛΟΠΟΥΛΟΥ"
+    ]
+  },
+  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-ekptotoi-daimones-tou-ilia-stergiou-apo-tis-ekdoseis-aggelaki-02-02-2026/",
     "eventTitle": "«Έκπτωτοι Δαίμονες» του Ηλία Στεργίου από τις εκδόσεις Αγγελάκη",
     "winners": [
@@ -8,59 +43,10 @@
     ]
   },
   {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-epikideios-tou-iakovou-kampanelli-sto-theatro-aleksandreia-02-02-2026-stis-2000/",
-    "eventTitle": "“Ο Επικήδειος” του Ιάκωβου Καμπανέλλη στο Θέατρο Αλεξάνδρεια – 02/02/2026 στις 20:00",
-    "winners": [
-      "ΛΕΥΤΕΡΗΣ ΜΟΡΙΤΣΚΑΤΕΡΙΝΑ  ΣΚΛΕΠΑΡΗ"
-    ]
-  },
-  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-sonata-tou-selinofotos-ena-mousikotheatriko-analogio-sto-theatro-olympia-02-01-2026-stis-2030/",
     "eventTitle": "“Η Σονάτα του Σεληνόφωτος” ένα μουσικοθεατρικό αναλόγιο στο Θέατρο Ολύμπια – 02/01/2026 στις 20:30",
     "winners": [
       "ΟΥΡΑΝΙΑ ΧΟΥΣΟΥΜΑΡΙΑ ΒΑΣΙΛΟΠΟΥΛΟΥΤΕΡΕΖΑ ΖΟΥΓΑΝΕΛΗΝΙΚΟΛΕΤΤΑ ΧΟΙΔΑΙΩΣΗΦ ΠΑΠΑΔΟΠΟΥΛΟΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-imeri-i-anatomia-mias-ptosis-tou-ntostogiefski-sto-theatro-thiseion-02-02-2026-stis-2100/",
-    "eventTitle": "“Ήμερη – Η ανατομία μιας πτώσης” του Ντοστογιέφσκι στο Θέατρο Θησείον – 02/02/2026 στις 21:00",
-    "winners": [
-      "ΓΙΩΡΓΟΣ ΑΝΔΡΕΟΥΧΡΗΣΤΟΣ ΑΥΓΟΥΣΤΑΚΗΣΕΛΕΥΘΕΡΙΑ ΠΑΝΤΙΩΡΑΝΙΚΟΣ ΦΑΝΟΣΜΑΡΙΑ ΦΙΣΤΕΔΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-teleytaios-epizon-tis-marinas-sotiropoulou-sto-theatro-libro-02-02-2026-stis-1900/",
-    "eventTitle": "“Ο τελευταίος Επιζών” της Μαρίνας Σωτηροπούλου στο θέατρο Lib’ro – 02/02/2026 στις 19:00",
-    "winners": [
-      "ΚΩΝΣΤΑΝΤΊΝΑ ΜΑΓΚΑΦΆΔΟΜΝΑ ΠΑΝΤΕΛΙΔΟΥΕΙΡΗΝΗ ΖΟΥΖΟΥΛΑΝΤΙΝΑ ΚΑΡΑΧΑΛΙΟΥ ΝΤΟΡΑ ΝΤΑΓΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-anazitontas-ti-mageia-tou-giorgou-livanou-sto-studio-kypselis-02-02-2026-stis-2100/",
-    "eventTitle": "“Αναζητώντας τη μαγεία” του Γιώργου Λιβανού στο Studio Κυψέλης – 02/02/2026 στις 21:00",
-    "winners": [
-      "ΑΘΗΝΑ ΤΣΕΝΤΙΔΟΥΙΣΜΗΝΗ ΚΟΛΟΚΟΤΡΩΝΗΒΑΣΙΛΗΣ ΚΑΛΤΣΗΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-vourgoundia-i-sygxroni-yvonni-tou-gkomprovits-sto-theatro-sfendoni-02-02-2026-stis-2100/",
-    "eventTitle": "“Βουργουνδία” – Η σύγχρονη “Υβόννη” του Γκομπρόβιτς στο Θέατρο Σφενδόνη – 02/02/2026 στις 21:00",
-    "winners": [
-      "ΒΥΡΩΝΑΣ ΡΑΛΛΗΣΣΤΕΦΑΝΟΣ ΒΛΑΧΟΔΗΜΗΤΡΗΣΟΛΓΑ ΣΙΣΜΑΝΗΒΙΚΤΩΡΙΑ ΤΡΙΑΝΤΟΓΙΑΝΝΗΦΑΙΔΩΝΑΣ ΛΙΑΣΚΟΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-eyrydiki-tou-anouig-apo-tin-iro-mpezou-kai-ton-xristo-thano-sto-rabbithole-02-02-2026-stis-2100/",
-    "eventTitle": "«Ευρυδίκη» του Ανούιγ, από την Ηρώ Μπέζου και τον Χρήστο Θάνο στο Rabbithole – 02/02/2026 στις 21:00",
-    "winners": [
-      "ΧΡΥΣΆΝΘΗ ΚΑΤΣΑΝΟ ΠΑΝΑΓΙΩΤΗΣ ΣΙΑΦΆΚΑΣΣΩΤΗΡΗΣ ΑΓΑΠΙΟΥΝΙΚΟΣ ΠΑΝΑΓΙΩΤΑΚΗΣΒΑΝΑ ΚΟΖΟΚΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-glyko-nerantzi-tou-xristou-naoum-sto-theatro-paramythias-02-02-2026-stis-2100/",
-    "eventTitle": "“Γλυκό νεράντζι” του Χρήστου Ναούμ στο Θέατρο Παραμυθίας – 02/02/2026 στις 21:00",
-    "winners": [
-      "ΙΩΑΝΝΑ ΣΤΑΘΟΠΟΥΛΟΥΙΩΆΝΝΑ ΣΑΦΑΡΙΚΑΓΕΩΡΓΙΟΣ ΜΑΛΑΝΔΡΑΚΗΣΒΑΣΙΛΙΚΗ ΒΑΦΑΚΟΥ"
     ]
   }
 ]

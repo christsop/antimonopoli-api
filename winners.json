@@ -1,10 +1,417 @@
 [
   {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-dyo-i-tria-pragmata-pou-ksero-gi-ayton-tou-anesti-aza-sto-theatro-proskinio-14-02-2026-stis-2115/",
+    "eventTitle": "«Δύο ή τρία πράγματα που ξέρω γι’ αυτόν» του Ανέστη Αζά στο Θέατρο Προσκήνιο – 14/02/2026 στις 21:15",
+    "winners": [
+      "ΑΧΙΛΛΕΑΣ ΚΟΝΤΟΒΑΙΟΣΣΤΑΥΡΟΥΛΑ ΓΟΔΟΣΗΜΑΡΙΑ ΚΑΡΑΚΟΥΣΗΕΥΤΥΧΙΑ ΜΕΓΑΓΙΑΝΝΗΣΑΛΩΜΗ ΔΗΜΗΤΡΑΣΚΟΥΓΙΏΡΓΟΣ ΝΙΚΟΛΌΠΟΥΛΟΣΝΙΚΟΣ ΠΡΑΣΣΑΚΗΣΑΡΗΣ ΒΑΛΕΤΑΣΧΡΙΣΤΙΝΑ ΓΙΑΝΝΟΥΔΗΣΤΕΛΛΑ ΠΑΛΠΑΝΑΑΛΕΞΙΑ ΣΤΕΦΑΣΠΥΡΙΔΟΥΛΑ ΣΠΑΝΟΥΜΑΡΙΑ ΑΝΑΣΤΑΣΙΟΥDIMITRA KAMPISIOULIΣΤΕΛΛΑ ΑΚΑΚΙΑΔΗΑΛΙΚΗ ΒΡΑΝΑΖΩΗ ΠΑΡΛΑΒΑΝΤΖΑΑΝΑΣΤΑΣΙΑ ΤΕΡΖΗΑΡΙΣΤΕΙΔΗΣ ΑΛΤΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-evelyn-evelyn-the-musical-se-diaskeyi-tis-tzouli-tsolka-sto-theatro-104-15-02-2026-stis-2030/",
+    "eventTitle": "«EVELYN EVELYN» the musical σε διασκευή της Τζούλι Τσόλκα στο θέατρο 104 – 15/02/2026 στις 20:30",
+    "winners": [
+      "ΤΡΙΑΝΤΑΦΥΛΛΗ ΚΟΥΝΤΑΝΗΧΡΥΣΟΥΛΑ ΠΡΕΦΟΥΜΟ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-evelyn-evelyn-the-musical-se-diaskeyi-tis-tzouli-tsolka-sto-theatro-104-14-02-2026-stis-1900/",
+    "eventTitle": "«EVELYN EVELYN» the musical σε διασκευή της Τζούλι Τσόλκα στο θέατρο 104 – 14/02/2026 στις 19:00",
+    "winners": [
+      "ΆΛΚΗΣΤΙΣ  ΒΛΑΧΟΥ ΜΑΡΙΑ ΜΗΤΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-apopse-kaneis-den-pethainei-apo-tin-omada-the-young-quill-sto-theatro-mpellos-15-02-2026-stis-1800/",
+    "eventTitle": "“Απόψε κανείς δεν πεθαίνει” από την ομάδα The Young Quill στο Θέατρο Μπέλλος – 15/02/2026 στις 18:00",
+    "winners": [
+      "ΧΡΙΣΤΟΣ ΑΝΔΡΙΑΝΟΠΟΥΛΟΣΑΡΓΥΡΩ ΚΑΡΤΕΡΗΓΕΩΡΓΙΑ ΚΑΛΟΥΣΟΥΝΤΟΡΑ ΧΡΙΣΤΟΠΟΥΛΟΥΧΡΥΣΟΎΛΑ ΤΣΊΤΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-sama-abdulhadi-sto-universe-multivenue-14-02-2026-stis-2300/",
+    "eventTitle": "Η Sama’ Abdulhadi στο Universe Multivenue – 14/02/2026 στις 23:00",
+    "winners": [
+      "Η πρόσκληση αφορά είσοδο 2 ατόμων"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-to-apotypoma-apo-ti-fenia-apostolou-sto-calderone-art-space-14-02-2026-stis-1845/",
+    "eventTitle": "“Το Αποτύπωμα” από τη Φένια Αποστόλου στο Calderone Art Space – 14/02/2026 στις 18:45",
+    "winners": [
+      "ΧΑΡΑ ΣΥΜΕΩΝΙΔΟΥΕΙΡΗΝΗ ΚΟΚΛΩΝΗΠΑΡΘΕΝΑ ΚΟΥΠΙΔΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-xasame-ti-theia-stop-tou-giorgou-dialegmenou-sto-theatro-filip-15-02-2026-stis-2015/",
+    "eventTitle": "“Χάσαμε τη Θεία Στοπ” του Γιώργου Διαλεγμένου στο θέατρο ΦΙΛΙΠ – 15/02/2026 στις 20:15",
+    "winners": [
+      "ΒΑΣΩ ΕΥΘΥΜΙΟΥΙΩΑΝΝΗΣ ΜΠΑΣΤΕΑΣΕΙΡΗΝΗ ΚΑΡΑΝΤΩΝΙΟΥΕΛΕΝΗ ΒΡΟΤΣΟΥΝΑΝΤΙΑ ΠΑΠΠΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-xasame-ti-theia-stop-tou-giorgou-dialegmenou-sto-theatro-filip-14-02-2026-stis-2115/",
+    "eventTitle": "“Χάσαμε τη Θεία Στοπ” του Γιώργου Διαλεγμένου στο θέατρο ΦΙΛΙΠ – 14/02/2026 στις 21:15",
+    "winners": [
+      "ΒΊΚΥ  ΠΑΠΑΔΗΜΗΤΡΊΟΥ ΑΓΓΕΛΙΚΉ ΜΑΡΚΟΣΤΆΜΟΥΠΑΝΑΓΙΏΤΑ ΝΙΚΟΛΑΟΥΒΙΚΤΩΡΙΑ  ΑΔΑΜΑΚΗ ΧΡΥΣΑ ΔΑΡΑΜΟΥΣΚΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-votka-molotof-tis-elenis-rantou-sto-theatro-filip-15-02-2026-stis-1815/",
+    "eventTitle": "“Βότκα μολότοφ” της Ελένης Ράντου στο θέατρο ΦΙΛΙΠ – 15/02/2026 στις 18:15",
+    "winners": [
+      "ΧΡΗΣΤΟΣ ΠΟΥΛΙΑΣΕΙΡΗΝΗ ΖΟΥΖΟΥΛΑΡΕΝΑ ΚΩΣΤΟΛΙΑΑΛΕΞΑΝΔΡΑ ΘΕΟΦΙΛΟΠΟΥΛΟΥΧΡΥΣΑ ΛΙΑΣΚΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-votka-molotof-tis-elenis-rantou-sto-theatro-filip-14-02-2026-stis-1830/",
+    "eventTitle": "“Βότκα μολότοφ” της Ελένης Ράντου στο θέατρο ΦΙΛΙΠ – 14/02/2026 στις 18:30",
+    "winners": [
+      "ΝΙΚΟΛΑΟΣ ΚΑΣΤΡΙΝΑΚΗΣΚΑΛΛΙΟΠΗ ΚΩΤΣΟΝΑΡΟΥΜΑΡΊΑ ΦΑΦΟΎΤΗΙΩΑΝΝΗΣ ΚΑΚΑΒΕΛΑΚΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-xionati-kai-oi-7-nanoi-tis-giotas-tzouani-sto-theatro-aylaia-14-02-2026-stis-1700/",
+    "eventTitle": "“Η Χιονάτη και οι 7 Νάνοι” της Γιώτας Τζουάνη στο Θέατρο Αυλαία – 14/02/2026 στις 17:00",
+    "winners": [
+      "ΝΙΚΟΛΑΟΣ ΚΟΡΔΩΝΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-dimitris-mystakidis-sto-stayro-tou-notou-club-14-02-2026-stis-2200/",
+    "eventTitle": "Ο Δημήτρης Μυστακίδης στο Σταυρό του Νότου Club – 14/02/2026 στις 22:00",
+    "winners": [
+      "ΓΕΩΡΓΊΑ ΜΑΥΡΑΚΗΕΙΡΗΝΗ ΓΟΥΛΟΠΟΥΛΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-miltos-pasxalidis-ston-stayro-tou-notou-15-02-2026stis-2100/",
+    "eventTitle": "Ο Μίλτος Πασχαλίδης στον Σταυρό του Νότου – 15/02/2026στις 21:00",
+    "winners": [
+      "ΜΑΡΊΑ  ΒΙΤΣΙΟΥ ΣΕΒΗ ΛΟΥΒΕΡΔΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-miltos-pasxalidis-ston-stayro-tou-notou-14-02-2026-stis-2200/",
+    "eventTitle": "Ο Μίλτος Πασχαλίδης στον Σταυρό του Νότου – 14/02/2026 στις 22:00",
+    "winners": [
+      "ΜΑΡΙΑ  ΓΚΟΥΜΑ ΕΛΕΝΗ ΚΑΠΡΑΛΙΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-sirlei-valentain-tou-willy-russell-sto-theatro-xoros-texnis-asomaton-14-02-2026-stis-2030/",
+    "eventTitle": "«Σίρλεϊ Βαλεντάιν» του Willy Russell στο θέατρο «Χώρος Τέχνης Ασωμάτων» – 14/02/2026 στις 20:30",
+    "winners": [
+      "ΖΩΗ ΠΕΤΡΟΠΟΥΛΟΥΧΡΥΣΗ ΠΕΡΙΚΛΑΚΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-kokkinoskoufitsa-2-0-to-mystirio-tou-xamenou-kalathiou-sto-xoros-texnis-asomaton-15-02-2026-stis-1200/",
+    "eventTitle": "“Κοκκινοσκουφίτσα 2.0: Το μυστήριο του χαμένου καλαθιού” στο Χώρος Τέχνης Ασωμάτων – 15/02/2026 στις 12:00",
+    "winners": [
+      "ΦΩΤΕΙΝΗ ΛΕΒΕΝΤΑΚΟΥΑΝΑΣΤΑΣΊΑ  ΤΑΜΒΑΚΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-spyros-grammenos-giortazei-ton-agio-valentino-sto-fuzz-club-kerdiste-proskliseis-14-02-2026-stis-2200/",
+    "eventTitle": "Ο Σπύρος Γραμμένος γιορτάζει τον Άγιο Βαλεντίνο στο Fuzz Club – Κερδίστε προσκλήσεις – 14/02/2026 στις 22:00",
+    "winners": [
+      "MARIA VALELIΡΌΜΟΥΑΛΝΤ  ΣΤΆΝΚΙΕΒΙΤΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-pantelis-ampazis-zito-ta-laika-koritsia-sto-theatre-of-the-no-14-02-2026-stis-2200/",
+    "eventTitle": "Παντελής Αμπαζής «ΖΗΤΩ τα λαϊκά κορίτσια!» στο Theatre Of The No – 14/02/2026 στις 22:00",
+    "winners": [
+      "ΝΙΚΌΛΑΟΣ ΠΡΊΦΤΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-kokkina-fanaria-tou-alekou-galanou-sti-skini-brecht-2510-15-02-2026-stis-2030/",
+    "eventTitle": "“Κόκκινα Φανάρια” του Αλέκου Γαλανού στη ΣΚΗΝΗ BRECHT-2510 – 15/02/2026 στις 20:30",
+    "winners": [
+      "ΧΡΥΣΟΥΛΑ ΒΡΥΩΝΗΓΕΏΡΓΙΟΣ ΧΑΤΖΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-parea-tou-miky-kai-to-tragoudi-tis-xaras-sto-theatro-aylaia-15-02-2026-stis-1230/",
+    "eventTitle": "“Η Παρέα του ΜΙΚΥ και το Τραγούδι της Χαράς” στο Θέατρο Αυλαία – 15/02/2026 στις 12:30",
+    "winners": [
+      "ΓΙΩΡΓΟΣ ΚΑΝΤΑΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-maria-kilaidoni-gia-2i-xronia-sto-patari-tou-theatrou-metaksourgeio-14-02-2026-stis-2230/",
+    "eventTitle": "Η Μαρία Κηλαηδόνη για 2η χρονιά στο “Πατάρι” του θεάτρου Μεταξουργείο – 14/02/2026 στις 22:30",
+    "winners": [
+      "ΔΩΡΑ ΔΕΡΒΕΝΤΗΕΥΑΓΓΕΛΊΑ  ΤΑΡΑΣΟΥΛΕΑ ΧΑΡΑ ΑΜΟΛΟΧΙΤΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-don-kixotis-tou-migkel-nte-thervantes-sto-theatro-kappa-15-02-2026-stis-1130/",
+    "eventTitle": "“Δον Κιχώτης” του Μιγκέλ ντε Θερβάντες στο Θέατρο Κάππα – 15/02/2026 στις 11:30",
+    "winners": [
+      "ΜΑΡΊΑ  ΓΑΛΆΝΗ ΚΩΣΤΑΣ ΜΠΙΤΟΥΝΗΣΧΛΟΗ ΜΑΝΤΖΑΡΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-pigkouinos-tou-gioxan-tis-almperta-tsopanaki-sto-theatro-paramythias-15-02-2026-stis-1200/",
+    "eventTitle": "“Ο Πιγκουίνος του Γιόχαν” της Αλμπέρτα Τσοπανάκη στο Θέατρο Παραμυθίας – 15/02/2026 στις 12:00",
+    "winners": [
+      "ΝΤΙΝΑ  ΛΙΟΚΑΥΤΟΥΑΓΓΕΛΙΚΗ ΠΑΝΤΟΥΛΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-oi-bag-of-nails-sto-jazzet-music-hall-14-02-2026-stis-2200/",
+    "eventTitle": "Οι Bag of Nails στο Jazzèt Music Hall – 14/02/2026 στις 22:00",
+    "winners": [
+      "ΑΝΤΩΝΙΑ ΚΗΠΟΥΡΟΥΝΙΚΗ ΜΑΡΙΕΤΤΑΚΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-ta-swing-tou-manoli-xioti-sto-gyalino-mousiko-theatro-14-02-2026-stis-2230/",
+    "eventTitle": "Τα swing του Μανώλη Χιώτη στο Γυάλινο Μουσικό Θέατρο – 14/02/2026 στις 22:30",
+    "winners": [
+      "ΧΡΥΣΟΎΛΑ  ΚΑΡΑΓΙΩΡΓΟΥ ΑΡΙΑΔΝΗ ΔΟΥΒΡΗΕΛΕΝΗ ΠΕΝΤΕΔΕΚΑΑΓΓΕΛΙΚΗ ΕΚΜΕΤΖΟΓΛΟΥΘΑΛΕΙΑ ΚΩΝΣΤΑΝΤΙΝΙΔΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-lola-tou-ilia-lymperopoulou-sto-theatro-pallas-15-02-2026-stis-1900/",
+    "eventTitle": "“ΛΟΛΑ” του Ηλία Λυμπερόπουλου στο Θέατρο Παλλάς – 15/02/2026 στις 19:00",
+    "winners": [
+      "ΑΝΤΖΕΛΑ ΛΙΟΖΗΕΥΑΓΓΕΛΊΑ ΑΡΓΥΡΆΚΗΓΕΩΡΓΙΑ ΤΣΟΥΚΑΛΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-lola-tou-ilia-lymperopoulou-sto-theatro-pallas-14-02-2026-stis-2100/",
+    "eventTitle": "“ΛΟΛΑ” του Ηλία Λυμπερόπουλου στο Θέατρο Παλλάς – 14/02/2026 στις 21:00",
+    "winners": [
+      "ΧΡΥΣΑΝΘΗ ΣΙΔΕΡΗΓΕΡΑΣΙΜΟΣ ΚΑΙΛΟΓΛΟΥΓΙΩΤΑ ΦΑΡΜΑΚΗΜΑΡΙΑ  ΖΑΒΟΔΗΜΗΤΡΑΚΗ ΠΊΤΣΑ  ΤΥΡΟΠΩΛΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-elizabeth-fuller-i-mpety-nteivis-stin-poli-sas-apo-tous-theatrinon-theates-sto-studio-kypselis-14-02-2026-stis-1900/",
+    "eventTitle": "“Elizabeth Fuller Η ΜΠΕΤΥ ΝΤΕΗΒΙΣ ΣΤΗΝ ΠΟΛΗ ΣΑΣ” από τους Θεατρίνων Θεατές στο Studio Κυψέλης – 14/02/2026 στις 19:00",
+    "winners": [
+      "ΓΙΩΤΑ ΜΠΡΑΒΟΥΛΆΜΠΡΟΣ ΛΙΌΣΗΣΒΑΣΙΛΙΚΗ ΜΠΕΤΣΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-dakry-sto-fidi-apo-tin-omada-hippo-theatre-group-sto-bios-15-02-2026-stis-2000/",
+    "eventTitle": "“Δάκρυ στο Φίδι” από την ομάδα Hippo Theatre Group στο Bios – 15/02/2026 στις 20:00",
+    "winners": [
+      "ΒΑΣΙΛΕΙΟΣ  ΓΚΟΓΚΑΣMICHAIL PAPADOPOULOSΒΑΣΙΛΕΙΟΣ ΓΚΟΓΚΑΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-dakry-sto-fidi-apo-tin-omada-hippo-theatre-group-sto-bios-14-02-2026-stis-2100/",
+    "eventTitle": "“Δάκρυ στο Φίδι” από την ομάδα Hippo Theatre Group στο Bios – 14/02/2026 στις 21:00",
+    "winners": [
+      "ΚΩΝΣΤΑΝΤΙΝΑ ΚΑΛΛΙΜΑΝΗΝΙΚΟΣ ΒΑΛΣΑΜΑΚΗΣΗΛΙΑΝΑ ΑΓΓΕΛΟΠΟΥΛΟΥΑΡΙΣΤΕΑ ΤΟΝΤΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-kokkinos-ippopotamos-tou-gianni-papazoglou-sto-theatro-en-a-14-02-2026-stis-2100/",
+    "eventTitle": "«Κόκκινος ιπποπόταμος» του Γιάννη Παπάζογλου στο Θέατρο ΕΝ-Α – 14/02/2026 στις 21:00",
+    "winners": [
+      "ΑΣΗΜΊΝΑ ΤΣΑΡΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-fyge-an-mporeis-ton-renee-taylor-joseph-bologna-sto-theatro-alkmini-14-02-2026-stis-2130/",
+    "eventTitle": "“Φύγε… αν μπορείς” των Renée Taylor & Joseph Bologna στο Θέατρο Αλκμήνη – 14/02/2026 στις 21:30",
+    "winners": [
+      "ΠΑΝΑΓΙΩΤΗΣ ΚΟΥΡΑΚΟΣΑΝΑΣΤΑΣΙΑ ΖΥΜΑΤΙΚΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-xainti-i-mikroula-ton-vounon-tis-gioxana-spiri-sto-theatro-thymeli-14-02-2026-stis-1700/",
+    "eventTitle": "«Χάιντι, η Μικρούλα των Βουνών» της Γιοχάνα Σπίρι στο Θέατρο Θυμέλη – 14/02/2026 στις 17:00",
+    "winners": [
+      "ΑΓΓΕΛΙΚΗ ΛΙΑΛΙΑΡΗΑΓΓΕΛΙΚΗ ΓΚΟΥΓΚΟΥΣΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-kata-fantasian-asthenis-tou-molierou-sto-theatro-thymeli-elli-vozikiadou-14-02-2026-stis-2100/",
+    "eventTitle": "«Ο κατά φαντασίαν ασθενής» του Μολιέρου στο Θέατρο Θυμέλη-Έλλη Βοζικιάδου – 14/02/2026 στις 21:00",
+    "winners": [
+      "ΑΙΚΑΤΕΡΊΝΗ  ΚΑΡΑΒΑΣΊΛΗ ΑΓΝΗ ΚΡΥΣΤΑΛΛΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-rizil-ginikamiapokriatka-stand-up-comedy-me-ton-kosta-goni-sto-theatro-thymeli-elli-vozikiadou-15-02-2026-stis-2000/",
+    "eventTitle": "«ΡΙΖΙΛ ΓΙΝΙΚΑΜΙ…αποκριάτκα» stand-up comedy με τον Κώστα Γόνη στο Θέατρο Θυμέλη-Έλλη Βοζικιάδου – 15/02/2026 στις 20:00",
+    "winners": [
+      "ΛΗΔΑ ΖΑΜΠΑΚΟΥΣΤΕΛΛΑ ΧΡΙΣΤΟΦΟΡΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-linda-tis-penelope-skinner-sto-theatro-epi-kolono-14-02-2026stis-2115/",
+    "eventTitle": "«LINDA» της Penelope Skinner στο θέατρο Επί Κολωνώ – 14/02/2026στις 21:15",
+    "winners": [
+      "ΑΛΕΞ ΧΑΛΙΚΙΑΒΑΣΙΛΙΚΗ ΠΑΠΠΑΒΑΣΙΛΙΚΗ ΣΠΗΛΙΩΤΗΕΥΣΤΡΑΤΙΑ ΕΥΑΓΓΕΛΟΥΒΑΣΙΛΙΚΗ ΚΡΟΥΣΤΟΥΡΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-omologia-tis-4is-ianouariou-sto-mikro-gkloria-15-02-2026-stis-2015/",
+    "eventTitle": "“Η Ομολογία της 4ης Ιανουαρίου” στο Μικρό Γκλόρια – 15/02/2026 στις 20:15",
+    "winners": [
+      "ΜΑΡΊΑ ΜΟΝΔΈΛΟΥΜΑΡΙΑ ΤΕΠΕΡΙΚΙΔΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-omologia-tis-4is-ianouariou-sto-mikro-gkloria-14-02-2026-stis-2100/",
+    "eventTitle": "“Η Ομολογία της 4ης Ιανουαρίου” στο Μικρό Γκλόρια – 14/02/2026 στις 21:00",
+    "winners": [
+      "ΕΛΠΙΔΑ ΠΑΝΤΙΛΙΔΟΥΜΑΡΙΑ ΧΑΒΕΛΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-agapitikos-tis-voskopoulas-ton-thodori-oikonomou-kai-gianni-kalavrianou-sto-theatro-akropol-15-02-2026-stis-1730/",
+    "eventTitle": "“Ο Αγαπητικός της Βοσκοπούλας” των Θοδωρή Οικονόμου και Γιάννη Καλαβριανού στο Θέατρο Ακροπόλ – 15/02/2026 στις 17:30",
+    "winners": [
+      "ΑΛΕΞΙΑ ΒΕΡΓΗΣΩΤΉΡΗΣ ΣΩΤΗΡΊΟΥΜΙΧΑΛΗΣ ΜΑΝΕΤΟΣΕΛΛΗ ΞΕΝΣΚΗΔΗΜΉΤΡΗΣ ΚΙΑΦΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-agapitikos-tis-voskopoulas-ton-thodori-oikonomou-kai-gianni-kalavrianou-sto-theatro-akropol-14-02-2026-stis-2100/",
+    "eventTitle": "“Ο Αγαπητικός της Βοσκοπούλας” των Θοδωρή Οικονόμου και Γιάννη Καλαβριανού στο Θέατρο Ακροπόλ – 14/02/2026 στις 21:00",
+    "winners": [
+      "ΒΑΣΙΛΗΣ ΡΟΥΧΩΤΑΣΧΑΡΗΣ ΠΑΠΑΘΑΝΑΣΙΟΥΓΙΩΤΑ ΚΡΟΥΚΗΜΑΡΙΑ ΙΩΑΝΝΟΥΓΕΩΡΓΙΑ ΑΝΥΦΑΝΤΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-agapitikos-tis-voskopoulas-ton-thodori-oikonomou-kai-gianni-kalavrianou-sto-theatro-akropol-14-02-2026-stis-1745/",
+    "eventTitle": "“Ο Αγαπητικός της Βοσκοπούλας” των Θοδωρή Οικονόμου και Γιάννη Καλαβριανού στο Θέατρο Ακροπόλ – 14/02/2026 στις 17:45",
+    "winners": [
+      "ΒΑΣΙΛΙΚΗ ΚΟΥΤΡΟΥΜΠΑΣΟΎΛΑ ΠΑΝΑΓΌΠΟΥΛΟΥΑΝΘΗ ΜΑΡΑΓΚΟΥΠΟΛΥΔΩΡΑ ΧΑΛΑΤΣΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-termites-tou-panagioti-kastritsi-sto-ison-theatro-xoros-15-02-2026-stis-2100/",
+    "eventTitle": "“ΤΕΡΜΙΤΕΣ” του Παναγιώτη Καστρίτση στο ΙΣΟΝ Θέατρο – Χορός – 15/02/2026 στις 21:00",
+    "winners": [
+      "ΑΝΝΑ ΠΑΠΑΛΕΞΙΟΥΧΡΙΣΤΌΦΟΡΟΣ ΔΑΣΚΑΛΗΣΠΑΝΑΓΙΩΤΗΣ ΓΟΥΡΝΑΚΗΣΔΗΜΗΤΡΑ ΠΑΠΟΥΤΣΗΓΕΩΡΓΙΟΣ ΚΡΑΣΣΑΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-perplex-tou-marious-fon-magienmpourgk-sto-theatro-kamiros-15-02-2026-stis-2100/",
+    "eventTitle": "“Perplex” του Μάριους Φον Μάγιενμπουργκ στο Θέατρο Κάμιρος – 15/02/2026 στις 21:00",
+    "winners": [
+      "ELENI ATHANASIADIΜΑΡΙΑ ΜΟΣΚΟΦΙΔΟΥΒΙΚΤΩΡΙΑ ΜΠΡΑΤΗΚΩΣΤΑΣ ΓΟΥΡΝΑΚΗΣΜΑΡΊΑ ΠΙΣΙΝΆΡΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-perplex-tou-marious-fon-magienmpourgk-sto-theatro-kamiros-14-02-2026-stis-2100/",
+    "eventTitle": "“Perplex” του Μάριους Φον Μάγιενμπουργκ στο Θέατρο Κάμιρος – 14/02/2026 στις 21:00",
+    "winners": [
+      "ΒΑΣΙΛΙΚΗ ΠΥΡΓΟΥΑΝΝΕΤΑ ΞΕΝΑΚΟΥΘΑΝΟΣ ΚΑΥΚΑΛΙΔΗΣΘΩΜΑΣ ΓΛΥΚΟΖΗΣΔΗΜΗΤΡΗΣ ΑΛΒΑΝΟΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-perplex-tou-marious-fon-magienmpourgk-sto-theatro-kamiros-14-02-2026-stis-1830/",
+    "eventTitle": "“Perplex” του Μάριους Φον Μάγιενμπουργκ στο Θέατρο Κάμιρος – 14/02/2026 στις 18:30",
+    "winners": [
+      "ΓΕΩΡΓΙΑ  ΑΓΓΕΛΟΠΟΥΛΟΥ ΕΛΛΗ ΒΕΛΙΣΣΑΡΑΤΟΥΓΙΑΝΝΗΣ ΚΟΥΣΠΑΡΗΣΝΤΙΝΑ ΒΡΑΝΑΜΑΡΙΛΕΝΑ ΓΕΩΡΓΟΥΛΕΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-lost-found-tis-nalini-vidoolah-mootoosamy-sto-theatro-altera-pars-15-02-2026-stis-2030/",
+    "eventTitle": "“Lost & Found” της Nalini Vidoolah Mootoosamy στο Θέατρο Altera Pars – 15/02/2026 στις 20:30",
+    "winners": [
+      "ΙΩΑΝΝΗΣ ΙΓΝΑΤΙΑΔΗΣΘΕΟΣ ΔΗΜΗΤΡΙΑΔΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-aspra-aloga-tou-errikou-ipsen-sto-theatro-ekati-15-02-2026-stis-1900/",
+    "eventTitle": "“Άσπρα άλογα” του Ερρίκου Ιψεν στο Θέατρο Εκάτη – 15/02/2026 στις 19:00",
+    "winners": [
+      "ΓΙΩΡΓΟΣ ΛΙΑΔΗΣΑΙΚΑΤΕΡΙΝΗ ΑΝΔΡΙΑΝΟΠΟΥΛΟΥΕΛΈΝΗ  ΝΤΟΥΣΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-aspra-aloga-tou-errikou-ipsen-sto-theatro-ekati-14-02-2026-stis-2100/",
+    "eventTitle": "“Άσπρα άλογα” του Ερρίκου Ιψεν στο Θέατρο Εκάτη – 14/02/2026 στις 21:00",
+    "winners": [
+      "ΓΛΥΚΕΡΊΑ ΓΚΙΝΟΥΜΙΧΑΛΗΣ ΚΛΑΜΕΝΑΚΟΣΜΑΡΙΑΝΑ ΒΛΑΧΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-koimomenos-xalepas-o-salos-agios-tou-aggelou-andreopoulou-sto-theatro-kallirrois-15-02-2026-stis-1815/",
+    "eventTitle": "“Κοιμώμενος Χαλεπάς, ο ΣΑΛόΣ άΓΙΟΣ” του Άγγελου Ανδρεόπουλου στο Θέατρο Καλλιρρόης – 15/02/2026 στις 18:15",
+    "winners": [
+      "ΕΛΈΝΗ  ΛΙΑΚΟΠΟΥΛΟΥ ΑΘΗΝΑ ΦΛΕΓΚΑΑΝΝΥ ΚΩΣΤΑΓΙΑΝΝΑ ΠΑΠΑΡΟΥΝΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-meta-to-fili-the-musical-sti-skini-brecht-2510-14-02-2026-stis-1815/",
+    "eventTitle": "“Μετά το φιλί” The Musical στη ΣΚΗΝΗ BRECHT-2510 – 14/02/2026 στις 18:15",
+    "winners": [
+      "ΣΩΚΡΑΤΗΣ ΜΑΛΛΙΟΣΝΙΚΟΣ ΖΟΥΖΟΥΛΑΣΜΑΡΙΑ ΚΑΠΟΔΙΣΤΡΙΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-oi-dalkance-epistrefoun-sto-stayro-tou-notou-15-02-2026-stis-2030/",
+    "eventTitle": "Οι Dalkance επιστρέφουν στο Σταυρό του Νότου – 15/02/2026 στις 20:30",
+    "winners": [
+      "ΒΑΣΙΛΗΣ ΒΑΣΙΛΕΙΟΥΣΟΦΙΑ ΚΟΣΕΟΓΛΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-skia-tis-mygas-tis-valentinas-papadimitraki-sto-rektifie-14-02-2026-stis-1900/",
+    "eventTitle": "«Η σκιά της μύγας» της Βαλεντίνας Παπαδημητράκη στο Ρεκτιφιέ – 14/02/2026 στις 19:00",
+    "winners": [
+      "ΣΑΡΑΝΤΟΣ ΤΖΟΡΤΖΗΣΡΕΒΕΚΚΑ ΔΟΥΣΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-rodafnon-tou-kosta-diamantidi-sto-apo-mixanis-theatro-14-02-2026-stis-2100/",
+    "eventTitle": "“Ροδάφ’νον” του Κώστα Διαμαντίδη στο Από Μηχανής Θέατρο – 14/02/2026 στις 21:00",
+    "winners": [
+      "ΜΑΓΔΑ ΜΑΓΚΟΥΛΕΜΟΝΙΑ ΔΡΑΣΑΟΡΦΕΑΣ ΣΙΟΥΤΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-paplomatou-tis-mariannas-toli-sto-theatro-vasilakou-marianna-toli-15-02-2026-stis-1500/",
+    "eventTitle": "“Η Παπλωματού” της Μαριάννας Τόλη στο Θέατρο Βασιλάκου – Μαριάννα Τόλη – 15/02/2026 στις 15:00",
+    "winners": [
+      "ΜΑΡΙΑ ΜΟΥΖΟΥΡΑΚΗΠΑΝΑΓΙΩΤΑ ΑΠΟΣΤΟΛΑΚΗΙΟΥΛΙΑ ΚΟΛΥΡΗΚΩΣΤΑΣ ΗΛΙΟΥΘΕΩΝΗ ΔΟΥΜΑΝΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-keik-tou-vaggeli-xatzigiannidi-sto-theatro-emporikon-14-02-2026-stis-2100/",
+    "eventTitle": "“Κέικ” του Βαγγέλη Χατζηγιαννίδη στο Θέατρο Εμπορικόν – 14/02/2026 στις 21:00",
+    "winners": [
+      "ΕΙΡΗΝΗ ΓΙΑΝΝΑΚΑΚΗΚΥΡΙΑΚΗ ΙΩΑΝΝΙΔΟΥΖΩΗ ΜΠΑΡΙΑΜΗΑΛΕΞΑΝΔΡΑ ΑΝΑΣΤΑΣΙΑΔΟΥΑΝΤΑ ΖΕΝΕΛΑΙ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-to-dentro-pou-agapousese-nees-peripeteies-tis-omadas-vida-sto-megaro-mousikis-athinon-15-02-2026-stis-1500/",
+    "eventTitle": "“Το δέντρο που αγαπούσε…σε νέες περιπέτειες” της ομάδας ΒίΔα στο Μέγαρο Μουσικής Αθηνών – 15/02/2026 στις 15:00",
+    "winners": [
+      "ΑΘΗΝΑ ΠΙΠΕΡΑΕΙΡΗΝΗ ΚΑΦΟΥΡΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-killing-godot-tou-nikolas-kazan-sto-theatro-topos-allou-15-02-2026-stis-2030/",
+    "eventTitle": "“Killing Godot” του Νίκολας Καζάν στο θέατρο Τόπος Αλλού – 15/02/2026 στις 20:30",
+    "winners": [
+      "ΕΛΈΝΗ ΚΟΣΕΟΓΛΟΥΔΉΜΗΤΡΑ ΣΤΡΙΜΠΑΚΟΥΙΩΑΝΝΗΣ ΚΡΑΣΣΑΣΚΥΡΙΑΚΟΣ ΓΟΥΡΝΑΚΗΣΕΛΈΝΗ ΚΟΥΖΟΥΝΆΚΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-killing-godot-tou-nikolas-kazan-sto-theatro-topos-allou-14-02-2026-stis-2030/",
+    "eventTitle": "“Killing Godot” του Νίκολας Καζάν στο θέατρο Τόπος Αλλού – 14/02/2026 στις 20:30",
+    "winners": [
+      "ΧΡΉΣΤΟΣ ΤΣΟΠΈΛΑΣΝΙΚΟΣ ΔΕΛΛΗΣΠΗΝΕΛΟΠΗ ΚΑΛΥΒΑΜΙΧΆΛΗΣ ΠΑΤΣΙΑΣΔΗΜΉΤΡΗΣ ΛΆΓΙΑΣ"
+    ]
+  },
+  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/kerdiste-proskliseis-gia-tin-proti-kataigistiki-imera-tou-stegi-radio-takeover-2026-13-02-2026-stis-2000/",
     "eventTitle": "Κερδίστε προσκλήσεις για την πρώτη καταιγιστική ημέρα του Stegi.Radio Takeover 2026 – 13/02/2026 στις 20:00",
     "winners": [
       "ΤΑΣΟΣ ΚΟΥΤΕΛΑΣ",
-      "ΑΛΈΞΑΝΔΡΟΣ ΓΚΡΑΖΝΤΑΝ"
+      "ΑΛΈΞΑΝΔΡΟΣ ΓΚΡΑΖΝΤΑΝ",
+      "ΣΤΑΥΡΟΠΟΥΛΟΥ ΓΕΩΡΓΙΑ"
     ]
   },
   {

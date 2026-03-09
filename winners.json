@@ -1,5 +1,124 @@
 [
   {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-dikaioma-sti-lithi-tis-despoinas-apostolidou-sto-theatro-avaton-10-03-2026stis-2100/",
+    "eventTitle": "“Δικαίωμα στη λήθη” της Δέσποινας Αποστολίδου στο Θέατρο Άβατον – 10/03/2026στις 21:00",
+    "winners": [
+      "ΑΝΑΣΤΑΣΊΑ  ΚΑΡΑΘΑΝΆΣΗ ΕΙΡΗΝΗ ΚΩΣΤΑΚΟΥΜΑΡΙΑ ΠΑΠΠΑΣΟΦΙΑ ΜΙΧΑΗΛΑΝΝΑ ΦΑΜΕΛΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-paralirima-gia-dyo-tou-eygeniou-ionesko-sti-skini-brecht-2510-10-03-2026-stis-2100/",
+    "eventTitle": "“Παραλήρημα για δύο” του Ευγένιου Ιονέσκο στη ΣΚΗΝΗ BRECHT-2510 – 10/03/2026 στις 21:00",
+    "winners": [
+      "ΑΘΑΝΑΣΊΑ ΤΣΑΠΆΛΑΚΟΥΜΟΥΝΔΟΎΡΟΥ  ΜΑΡΙΆΝΝΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-metadramatiko-mia-polymesiki-solo-performans-sto-newman-sinema-10-03-2026-stis-2100/",
+    "eventTitle": "«ΜΕΤΑΔΡΑΜΑΤΙΚΟ» μια πολυμεσική σόλο περφόρμανς στο Newman σινεμά – 10/03/2026 στις 21:00",
+    "winners": [
+      "ΑΙΚΑΤΕΡΙΝΗ ΕΙΡΗΝΗ ΨΥΛΛΑΚΗΠΑΝΑΓΙΩΤΑ ΚΟΚΚΩΝΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-amerikanikos-vouvalos-tou-tou-david-mamet-sto-theatro-simeio-10-03-2026-stis-2100/",
+    "eventTitle": "“Αμερικάνικος Βούβαλος” του του David Mamet στο Θέατρο Σημείο – 10/03/2026 στις 21:00",
+    "winners": [
+      "ΔΩΡΑ ΙΝΤΖΕΑΝΝΑ ΦΑΜΕΛΗΕΥΘΥΜΙΑ ΕΦΗ  ΜΠΑΡΟΥΤΙΑΔΗ ΜΑΓΔΑ ΣΙΣΚΟΥΚΩΝΣΤΑΝΤΊΝΑ  ΕΡΉΜΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-can-can-apo-tin-theatriki-omada-marionetes-sto-theatro-aylaia-10-03-2026-stis-2115/",
+    "eventTitle": "“CAN CAN” από την θεατρική ομάδα Μαριονέτες στο Θέατρο Αυλαία – 10/03/2026 στις 21:15",
+    "winners": [
+      "ΦΩΤΕΙΝΗ  ΑΦΕΝΤΟΥΛΙΔΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-anthropos-xoris-onoma-tou-onore-nte-mpalzak-sto-theatro-apothiki-10-03-2026-stis-2115/",
+    "eventTitle": "“Άνθρωπος χωρίς όνομα” του Ονορέ Ντε Μπαλζάκ στο Θέατρο Αποθήκη – 10/03/2026 στις 21:15",
+    "winners": [
+      "ΕΥΦΡΟΣΥΝΗ ΤΣΑΡΤΙΝΟΓΛΟΥΓΙΏΡΓΟΣ  ΚΑΙΜΑΞΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-oi-velones-tis-nerantzias-tou-panagioti-kalyviti-sto-plyfa-10-03-2026-stis-2115/",
+    "eventTitle": "“Οι Βελόνες της νεραντζιάς” του Παναγιώτη Καλυβίτη  στο ΠΛΥΦΑ – 10/03/2026 στις 21:15",
+    "winners": [
+      "ΜΑΡΙΑ ΦΙΣΤΕΔΗΟΛΥΜΠΙΑ ΠΑΡΑΣΧΟΥΕΥΑΝΘΙΑ ΛΑΙΟΥΑΡΙΣΤΟΤΕΛΗΣ ΓΡΗΓΟΡΑΤΟΣΒΙΚΤΩΡΙΑ ΤΡΙΑΝΤΟΓΙΑΝΝΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-smalltown-boy-tou-manou-tzoraki-sto-theatro-104-10-03-2026-stis-2100/",
+    "eventTitle": "«Smalltown Boy» του Μάνου Τζωράκη στο θέατρο 104 – 10/03/2026 στις 21:00",
+    "winners": [
+      "ΒΑΣΊΛΗΣ  ΚΟΛΙΑΣ ΔΉΜΗΤΡΑ  ΚΑΡΑΛΉ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-enan-syggrafea-parakalo-tou-jean-pierre-martinez-sto-theatro-nous-10-03-2026-stis-2100/",
+    "eventTitle": "“Έναν συγγραφέα παρακαλώ!” του Jean-Pierre Martinez στο Θέατρο Noūs – 10/03/2026 στις 21:00",
+    "winners": [
+      "ΣΟΦΙΑ ΜΑΝΩΛΗΆΛΚΗΣΤΙΣ  ΒΛΑΧΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-tap-aout-tou-andrea-flouraki-sto-theatro-mikro-gkloria-10-03-2026-stis-2100/",
+    "eventTitle": "“Ταπ Άουτ” του Ανδρέα Φλουράκη στο Θέατρο Μικρό Γκλόρια – 10/03/2026 στις 21:00",
+    "winners": [
+      "ΚΏΣΤΑΣ ΜΑΘΙΟΣΑΝΝΑ ΣΚΟΤΙΔΑΚΗΓΙΩΡΓΟΣ ΒΑΣΙΛΕΙΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-aligatores-alligators-tou-andrew-keatley-sti-theatriki-skini-auditorium-10-03-2026-stis-2100/",
+    "eventTitle": "Αλιγάτορες (Alligators) του Andrew Keatley στη θεατρική σκηνή Auditorium – 10/03/2026 στις 21:00",
+    "winners": [
+      "ΓΛΥΚΕΡΊΑ ΓΚΙΝΟΥΤΑΝΙΑ ΓΙΑΝΝΑΚΟΥΔΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-vourgoundia-i-sygxroni-yvonni-tou-gkomprovits-sto-theatro-sfendoni-10-03-2026-stis-2100/",
+    "eventTitle": "“Βουργουνδία” – Η σύγχρονη “Υβόννη” του Γκομπρόβιτς στο Θέατρο Σφενδόνη – 10/03/2026 στις 21:00",
+    "winners": [
+      "ΟΥΡΑΝΙΑ ΦΙΛΙΔΟΥ ΑΝΤΡΕΑΣ ΒΑΣΙΛΑΚΟΠΟΥΛΟΣΠΑΝΑΓΙΩΤΗΣ ΠΥΡΓΟΣΚΑΤΕΡΙΝΑ ΔΙΑΓΓΕΛΑΚΗΔΗΜΉΤΡΗΣ ΖΑΜΠΈΤΑΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-24-ores-s-enan-kosmo-pou-den-mas-anikei-tou-panteli-flatsousi-sto-theatro-texnis-10-03-2026-stis-21-00/",
+    "eventTitle": "“24 ώρες σ’ έναν κόσμο που δεν μας ανήκει” του Παντελή Φλατσούση στο Θέατρο Τέχνης – 10/03/2026 στις 21.00",
+    "winners": [
+      "ΘΕΟΔΌΣΗΣ ΚΑΝΙΑΡΌΣΛΟΥΚΑΣ ΒΛΑΒΙΑΝΟΣΜΥΡΤΏ ΛΥΚΟΎΡΗΓΙΑΝΗΣ ΚΡΕΜΟΣΓΙΏΡΓΟΣ ΝΤΑΣΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-einai-ayti-i-despoinis-tzoulia-sto-studio-kypselis-10-03-2026-stis-2100/",
+    "eventTitle": "“Είναι αυτή η Δεσποινίς Τζούλια;” στο Studio Κυψέλης – 10/03/2026 στις 21:00",
+    "winners": [
+      "ΜΑΡΙΑΝΑ ΒΛΑΧΟΥΑΝΔΡΈΑΣ ΦΩΤΆΚΗΣΣΩΚΡΑΤΗΣ ΤΣΙΓΑΡΔΑΣΠΑΥΛΟΣ ΑΔΑΜΟΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-oraia-eleni-stin-koilada-ton-nekron-eroton-sto-theatro-radar-10-03-2026-stis-2115/",
+    "eventTitle": "“Η ωραία Ελένη στην κοιλάδα των νεκρών ερώτων” στο θέατρο Radar – 10/03/2026 στις 21:15",
+    "winners": [
+      "ΓΑΡΥΦΑΛΙΑ  ΛΙΟΣΗΓΕΏΡΓΙΟΣ ΠΡΈΝΤΖΑΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-fonissa-se-skinothesia-thodori-ampazi-sto-theatro-xoros-10-03-2026-stis-2100/",
+    "eventTitle": "“Η Φόνισσα” σε σκηνοθεσία Θοδωρή Αμπαζή στο Θέατρο Χώρος – 10/03/2026 στις 21:00",
+    "winners": [
+      "MICHAIL PAPADOPOULOSΘΕΟΔΩΡΑ ΣΥΜΕΩΝΙΔΟΥΜΑΡΙΑ ΣΟΥΛΤΑΤΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-pio-dynati-tou-strintmpergkt-sto-mpagkeion-10-03-2026-stis-2100/",
+    "eventTitle": "“Η πιο δυνατή” του Στρίντμπεργκτ στο Μπάγκειον – 10/03/2026 στις 21:00",
+    "winners": [
+      "ΕΥΑΓΓΕΛΊΑ  ΤΑΡΑΣΟΥΛΕΑ ΝΙΚΟΛΑΟΣ ΠΑΠΟΥΤΣΗΣΧΑΡΑ ΚΟΥΤΣΟΥΚΗ"
+    ]
+  },
+  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-can-can-apo-tin-theatriki-omada-marionetes-sto-theatro-aylaia-09-03-2026-stis-2115/",
     "eventTitle": "“CAN CAN” από την θεατρική ομάδα Μαριονέτες στο Θέατρο Αυλαία – 09/03/2026 στις 21:15",
     "winners": [

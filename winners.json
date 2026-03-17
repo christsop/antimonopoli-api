@@ -63,69 +63,6 @@
     ]
   },
   {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-anthropos-xoris-onoma-tou-onore-nte-mpalzak-sto-theatro-apothiki-16-03-2026-stis-2115/",
-    "eventTitle": "“Άνθρωπος χωρίς όνομα” του Ονορέ Ντε Μπαλζάκ στο Θέατρο Αποθήκη – 16/03/2026 στις 21:15",
-    "winners": [
-      "ΑΝΝΑ  ΙΩΑΝΝΙΔΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-24-ores-s-enan-kosmo-pou-den-mas-anikei-tou-panteli-flatsousi-sto-theatro-texnis-16-03-2026-stis-21-00/",
-    "eventTitle": "“24 ώρες σ’ έναν κόσμο που δεν μας ανήκει” του Παντελή Φλατσούση στο Θέατρο Τέχνης – 16/03/2026 στις 21.00",
-    "winners": [
-      "ΘΕΟΔΩΡΑ ΣΥΜΕΩΝΙΔΟΥΝΙΚΟΛΕΤΤΑ ΒΟΥΤΟΥΜΑΝΟΥΈΛΑ ΣΈΧΟΥΑΡΙΣΤΕΙΔΗΣ ΜΑΛΚΟΤΣΗΣΚΑΛΛΙΟΠΗ  ΚΑΪΑΦΑ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-athanasia-tis-nefelis-maistrali-sto-neo-theatro-katerina-vasilakou-16-03-2026-stis-2100/",
-    "eventTitle": "“Αθανασία” της Νεφέλης Μαϊστράλη στο Νέο Θέατρο Κατερίνα Βασιλάκου – 16/03/2026 στις 21:00",
-    "winners": [
-      "ΗΡΩ ΒΕΝΙΕΡΗΔΗΜΗΤΡΗΣ ΣΤΑΥΡΟΠΟΥΛΟΣΕΛΕΝΗ ΔΡΙΒΗΛΑΓΕΩΡΓΊΑ  ΚΩΤΣΙΑΝΤΗ ΑΓΓΕΛΙΚΗ ΡΙΓΓΑΚΥΡΙΑΚΟΣ ΡΟΙΛΟΣΕΙΡΗΝΗ ΞΑΝΘΟΥΔΑΚΗΒΑΛΜΙΝΑ ΠΡΕΖΑΝΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-pio-dynati-tou-strintmpergkt-sto-mpagkeion-16-03-2026-stis-2100/",
-    "eventTitle": "“Η πιο δυνατή” του Στρίντμπεργκτ στο Μπάγκειον – 16/03/2026 στις 21:00",
-    "winners": [
-      "ΔΟΜΝΑ ΠΑΝΤΕΛΙΔΟΥΓΙΩΤΑ ΜΠΡΑΒΟΥΠΑΡΘΕΝΩΠΗ ΦΟΥΝΤΟΥΚΙΔΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-hotel-amour-ton-gerasimou-eyaggelatou-kai-themi-karamouratidi-sto-theatro-akropol-16-03-2026-stis-2030/",
-    "eventTitle": "“Hotel Amour” των Γεράσιμου Ευαγγελάτου και Θέμη Καραμουρατίδη στο Θέατρο Ακροπόλ – 16/03/2026 στις 20:30",
-    "winners": [
-      "ΕΙΡΗΝΗ ΓΙΑΝΝΑΚΑΚΗΚΩΝΣΤΑΝΤΙΝΑ ΣΙΟΛΑΠΑΝΑΓΙΩΤΑ ΜΙΧΑΛΑΚΟΥΚΟΥΒΑΣΙΛΗΣ ΣΙΝΟΣΠΑΝΑΓΙΩΤΗΣ ΠΡΕΝΤΖΑΣΓΙΆΝΝΗΣ ΞΗΡΟΤΎΡΗΣΕΥΓΕΝΊΑ ΛΑΓΑΣΤΉΧΑΡΗΣ ΠΑΠΑΘΑΝΑΣΙΟΥΣΤΕΦΑΝΙΑ ΒΟΛΑΝΑΚΗΛΙΛΥ ΣΕΡΑΦΕΙΜΙΔΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-teleytaia-magnitotainia-tou-krap-tou-samouel-mpeket-sto-theatre-of-the-no-16-03-2026-stis-2030/",
-    "eventTitle": "“Η Τελευταία Μαγνητοταινία του Κραπ” του Σάμουελ Μπέκετ στο Theatre Of The No – 16/03/2026 στις 20:30",
-    "winners": [
-      "ΓΙΩΡΓΟΣ ΘΕΟΔΩΡΑΚΟΠΟΥΛΟΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-foteini-velesiotou-kiki-mayridou-sto-kyttaro-16-03-2026-stis-2100/",
-    "eventTitle": "Φωτεινή Βελεσιώτου & Κική Μαυρίδου στο Κύτταρο – 16/03/2026 στις 21:00",
-    "winners": [
-      "ΘΕΝΙΑ ΚΟΣΜΑΣΟΦΊΑ ΣΠΑΝΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-epikideios-tou-iakovou-kampanelli-sto-theatro-aleksandreia-16-03-2026-stis-2000/",
-    "eventTitle": "“Ο Επικήδειος” του Ιάκωβου Καμπανέλλη στο Θέατρο Αλεξάνδρεια – 16/03/2026 στις 20:00",
-    "winners": [
-      "ΣΟΦΙΑ ΚΟΣΕΟΓΛΟΥANNA ΞΕΝΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-glyko-nerantzi-tou-xristou-naoum-sto-theatro-paramythias-16-03-2026-stis-2100/",
-    "eventTitle": "“Γλυκό νεράντζι” του Χρήστου Ναούμ στο Θέατρο Παραμυθίας – 16/03/2026 στις 21:00",
-    "winners": [
-      "ΧΡΉΣΤΟΣ ΤΣΟΠΈΛΑΣΧΡΉΣΤΟΣ ΡΑΜΑΝΤΆΝΗΣΧΡΥΣΟΥΛΑ ΠΡΕΦΟΥΜΟΠΑΝΑΓΙΏΤΗΣ ΚΑΤΣΑΜΠΙΡΗΣ"
-    ]
-  },
-  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-haig-yazdjian-live-sto-half-note-jazz-club-11-03-2026-stis-2130/",
     "eventTitle": "Haig Yazdjian Live στο Half Note Jazz Club – 11/03/2026 στις 21:30",
     "winners": [

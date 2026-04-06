@@ -339,18 +339,6 @@ const users = [
   },
   {
     gender: "Κα",
-    firstname: "Σοφια",
-    lastname: "Κοσεογλου",
-    address: "Δοιρανης 11",
-    city: "Αθήνα",
-    postal: "60100",
-    phone: "6981229431",
-    email: "sofaki_092@hotmail.com",
-    job: "Ιδιωτ. Υπαλληλος",
-    age: "19-30"
-  },
-  {
-    gender: "Κα",
     firstname: "Αθηνα",
     lastname: "Τσεντιδου",
     address: "Δοιρανης 11",
@@ -420,7 +408,19 @@ const users = [
     email: "ddomna2@gmail.com",
     job: "Ιδιωτ. Υπαλληλος",
     age: "19-30"
-  }
+  },
+  {
+    gender: "Κος",
+    firstname: "Θεοφιλος",
+    lastname: "Θεοδωριδης",
+    address: "Σκοπευτηριου 1",
+    city: "Αθήνα",
+    postal: "17672",
+    phone: "6975362296",
+    email: "theotheodo@gmail.com",
+    job: "Ιδιωτ. Υπαλληλος",
+    age: "31-45"
+  },
 ];
 
 // TODO use true to avoid duplicates

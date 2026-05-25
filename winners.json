@@ -1,5 +1,40 @@
 [
   {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-nina-2-tis-katias-sperelaki-sto-theatre-of-the-no-26-05-2026-stis-2030/",
+    "eventTitle": "“NINA 2” της Κάτιας Σπερελάκη στο Theatre Of The No – 26/05/2026 στις 20:30",
+    "winners": [
+      "ΘΕΟΦΙΛΟΣ ΓΑΛΟΥΖΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-ti-apegine-i-nora-apo-tous-theatrinon-theates-sto-studio-kypselis-26-05-2026-stis-2100/",
+    "eventTitle": "“Τι απέγινε η Νόρα” από τους Θεατρίνων Θεατές στο Studio Κυψέλης – 26/05/2026 στις 21:00",
+    "winners": [
+      "ΔΟΜΝΑ ΠΑΝΤΕΛΙΔΟΥΕΡΙΚΑ ΧΥΣΕΝΠΟΛ ΔΑΦΝΟΜΙΛΗΣΙΩΑΝΝΗΣ ΤΣΟΠΕΛΑΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-onoma-mitros-lilith-tis-mariantzelas-katsiavria-sto-theatro-mikros-kerameikos-26-05-2026-stis-2100/",
+    "eventTitle": "“Όνομα μητρός Λίλιθ” της Μαριάντζελας Κατσιαβριά στο Θέατρο Μικρός Κεραμεικός – 26/05/2026 στις 21:00",
+    "winners": [
+      "ΧΡΥΣΟΥΛΑ ΠΡΕΦΟΥΜΟΧΡΉΣΤΟΣ ΡΑΜΑΝΤΆΝΗΣΕΎΗ ΤΖΑΚΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-eleytheri-sxesi-tou-giorgou-vlaxogianni-sto-theatro-metaksourgeio-kerdiste-proskliseis-26-05-2026-stis-2100/",
+    "eventTitle": "«Ελεύθερη σχέση» του Γιώργου Βλαχογιάννη στο Θέατρο Μεταξουργείο- Κερδίστε Προσκλήσεις – 26/05/2026 στις 21:00",
+    "winners": [
+      "ΓΙΩΡΓΟΣ ΑΝΔΡΕΟΥΝΙΚΌΛΑΟΣ ΠΡΊΦΤΗΣΕΛΕΝΗ ΤΟΠΟΥΖΟΓΛΟΥΣΩΤΗΡΗΣ ΚΛΕΙΔΑΡΑΣΜΑΡΊΑ ΔΉΜΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-alitheia-einai-tou-dimitri-dimitriadi-sto-theatro-104-26-05-2026-stis-2100/",
+    "eventTitle": "“Η Αλήθεια Είναι” του Δημήτρη Δημητριάδη στο Θέατρο 104 – 26/05/2026 στις 21:00",
+    "winners": [
+      "ΠΑΝΑΓΙΩΤΑ ΚΑΡΚΑΒΕΛΙΑΕΛΕΝΗ ΝΟΥΣΙΝΑΝΟΥΜΑΤΊΝΑ  ΈΚΛΕΜΕ ΜΕΡΚΟΥΡΙΟΣ ΚΑΡΑΓΙΑΝΝΗΣΣΤΑΥΡΟΣ ΝΕΟΣ"
+    ]
+  },
+  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-eleytheri-sxesi-tou-giorgou-vlaxogianni-sto-theatro-metaksourgeio-kerdiste-proskliseis-25-05-2026-stis-2100/",
     "eventTitle": "«Ελεύθερη σχέση» του Γιώργου Βλαχογιάννη στο Θέατρο Μεταξουργείο- Κερδίστε Προσκλήσεις – 25/05/2026 στις 21:00",
     "winners": [
@@ -39,69 +74,6 @@
     "eventTitle": "The Meet Market #Jazz Edition 2026 στην Τεχνόπολη – Κερδίστε δωροεπιταγές! – 25/05/2026 – 31/05/2026",
     "winners": [
       "ΑΝΑΣΤΑΣΙΑ ΤΣΙΡΑΚΟΓΛΟΥΒΙΡΓΙΝΙΑ  ΚΑΤΟΊΚΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-pentamorfi-to-teras-sto-theatro-aylaia-24-05-2026-stis-1700/",
-    "eventTitle": "“Η πεντάμορφη & το τέρας” στο Θέατρο Αυλαία – 24/05/2026 στις 17:00",
-    "winners": [
-      "ΣΤΕΦΑΝΙΑ ΜΕΛΕΚΗΚΑΤΕΡΊΝΑ  ΠΑΠΑΔΟΠΟΎΛΟΥ NIKITAS PETROPOULOS"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-parea-tou-miky-kai-to-tragoudi-tis-xaras-sto-theatro-aylaia-24-05-2026-stis-1230/",
-    "eventTitle": "“Η Παρέα του ΜΙΚΥ και το Τραγούδι της Χαράς” στο Θέατρο Αυλαία – 24/05/2026 στις 12:30",
-    "winners": [
-      "ΕΥΑΓΓΕΛΟΣ ΚΑΨΑΛΗΣΧΡΙΣΤΙΝΑ ΓΙΑΖΙΤΖΗΔΗΜΗΤΡΗΣ ΣΤΑΜΑΤΕΛΟΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-oi-stratigikes-tou-erota-tou-tzortz-farkiouar-sto-theatro-thiseion-24-05-2026-stis-1900/",
-    "eventTitle": "“Οι Στρατηγικές του Έρωτα” του Τζόρτζ Φάρκιουαρ στο Θέατρο Θησείον – 24/05/2026 στις 19:00",
-    "winners": [
-      "ΑΘΗΝΑ ΦΛΕΓΚΑΕΡΩΦΥΛΛΗ ΚΑΡΑΚΩΣΤΑΑΡΤΕΜΙΣ ΜΠΑΤΙΣΤΑΤΟΥΝΙΚΟΛΑΟΣ ΚΑΣΤΡΙΝΑΚΗΣΓΕΝΕΡΑΛΗΣ ΣΤΥΛΙΑΝΟΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-to-podilato-tis-oraias-elenis-tis-almperta-tsopanaki-sto-theatro-paramythias-24-05-2026-stis-2030/",
-    "eventTitle": "“Το Ποδήλατο της Ωραίας Ελένης” της Αλμπέρτα Τσοπανάκη στο Θέατρο Παραμυθίας – 24/05/2026 στις 20:30",
-    "winners": [
-      "ΕΥΑΓΓΕΛΙΑ ΦΩΤΟΠΟΥΛΟΥΓΕΩΡΓΙΟΣ ΛΑΒΔΑΣΜΑΡΙΑ ΜΟΛΥΒΑ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-karaflompekatsos-tis-lenas-kitsopoulou-sto-theatro-olvio-24-05-2026-stis-2100/",
-    "eventTitle": "«Ο Καραφλομπέκατσος» της Λένας Κιτσοπούλου στο Θέατρο Olvio – 24/05/2026 στις 21:00",
-    "winners": [
-      "ΓΕΩΡΓΙΑ ΝΤΑΚΑΝΙΚΌΛΑΟΣ ΚΟΥΤΣΟΥΒΈΛΗΣΘΕΟΔΩΡΑ ΣΥΜΕΩΝΙΔΟΥΙΩΑΝΝΑ ΒΑΡΤΑΛΑΑΓΓΕΛΙΚΗ ΛΙΟΣΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-aspra-aloga-tou-errikou-ipsen-sto-theatro-ekati-24-05-2026-stis-2000/",
-    "eventTitle": "“Άσπρα άλογα” του Ερρίκου Ιψεν στο Θέατρο Εκάτη – 24/05/2026 στις 20:00",
-    "winners": [
-      "ΑΣΗΜΙΝΑ ΤΡΑΥΛΟΥΔΗΜΉΤΡΗΣ  ΤΕΓΓΕΛΙΔΗΣ ΑΡΙΣΤΕΑ ΤΟΝΤΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-ouranos-katakokkinos-ston-galaksia-tis-anagnostaki-me-ti-roula-pateraki-sto-theatro-psyrri-24-05-2026-stis-2000/",
-    "eventTitle": "“Ο Ουρανός Κατακόκκινος στον γαλαξία της Αναγνωστάκη” με τη Ρούλα Πατεράκη στο Θέατρο Ψυρρή – 24/05/2026 στις 20:00",
-    "winners": [
-      "ΒΑΙΑ ΜΑΤΣΚΑΚΑΤΕΡΙΝΑ ΔΙΑΓΓΕΛΑΚΗΔΗΜΗΤΡΑ ΡΑΣΠΙΤΣΟΥΦΩΤΕΙΝΗ ΤΡΑΝΟΥΔΗΔΙΑΜΑΝΤΙΝΑ ΡΕΜΟΥΝΤΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-parantaiz-i-aithousa-klimatizetai-tis-lenas-kitsopoulou-to-theatro-104-24-05-2026-stis-2100/",
-    "eventTitle": "“Πάρανταϊζ – Η αίθουσα κλιματίζεται” της Λένας Κιτσοπούλου το Θέατρο 104 – 24/05/2026 στις 21:00",
-    "winners": [
-      "ΑΙΚΑΤΕΡΙΝΗ ΡΑΙΚΟΥΓΙΩΡΓΟΣ ΚΑΚΟΥΣΙΟΣΠΑΝΑΓΙΩΤΑ ΣΚΑΛΤΣΑΜΑΡΙΑ ΚΑΚΑΒΟΥΝΙΚΟΣ ΧΡΥΣΙΚΟΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-blunted-dimitres-kai-persefones-tis-sofiannas-theofanous-sto-theatro-kamiros-24-05-2026-stis-2000/",
-    "eventTitle": "“Blunted – Δήμητρες και Περσεφόνες” της Σοφιάννας Θεοφάνους στο θέατρο Κάμιρος – 24/05/2026 στις 20:00",
-    "winners": [
-      "ΕΥΤΥΧΙΑ ΜΕΓΑΓΙΑΝΝΗΙΟΥΛΙΑ ΚΟΛΥΡΗΠΕΤΡΟΣ ΑΝΔΡΙΟΛΑΣΑΓΗΣΙΛΑΟΣ ΖΕΡΒΟΠΑΝΟΣΒΙΡΓΙΝΙΑ ΧΟΛΕΒΑ"
     ]
   },
   {

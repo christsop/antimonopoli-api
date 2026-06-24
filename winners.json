@@ -1,5 +1,12 @@
 [
   {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikitis-diagonismou-diimeri-apodrasi-sto-nikki-beach-resort-spa-porto-heli/",
+    "eventTitle": "Nικητής Διαγωνισμού: Διήμερη απόδραση στο Nikki Beach Resort & Spa Porto Heli",
+    "winners": [
+      "Κωνσταντίνα Παπαδημητρίου"
+    ]
+  },
+  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-oi-locomondo-stin-texnopoli-gia-mia-megali-kalokairini-synaylia-24-06-2026-stis-2100/",
     "eventTitle": "Οι Locomondo στην Τεχνόπολη για μια μεγάλη καλοκαιρινή συναυλία – 24/06/2026 στις 21:00",
     "winners": [
@@ -32,20 +39,6 @@
     "eventTitle": "The Secret Paths στην Οθωνική Αυλή μέσα στο Πάρκο Αντώνης Τρίτσης – 24/06/2026 στις 19:00",
     "winners": [
       "ΝΙΚΟΣ ΤΙΤΙΔΗΣΒΙΚΥ ΑΡΓΥΡΑΚΟΠΟΥΛΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-thelo-na-sou-kratao-to-xeri-tou-tasou-iordanidi-se-kalokairini-periodeia-23-06-2026-stis-2130-theatro-vraxon/",
-    "eventTitle": "“Θέλω να σου κρατάω το χέρι” του Τάσου Ιορδανίδη σε καλοκαιρινή περιοδεία – 23/06/2026 στις 21:30 ΘΕΑΤΡΟ ΒΡΑΧΩΝ",
-    "winners": [
-      "ΜΑΝΩΛΗΣ ΠΑΠΑΔΑΚΗΣΗΛΙΑΣ ΑΒΡΑΜΠΟΣΠΡΟΚΌΠΗΣ ΣΠΥΡΌΠΟΥΛΟΣΚΏΣΤΑΣ ΒΑΚΑΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-poustara-tou-eyaggelou-lalou-sto-theatro-mavili-23-06-2026-stis-2130/",
-    "eventTitle": "“Πουστάρα” του Ευάγγελου Λάλου στο Θέατρο Μαβίλη – 23/06/2026 στις 21:30",
-    "winners": [
-      "ΔΗΜΗΤΡΑ ΧΩΡΑΦΑ"
     ]
   }
 ]

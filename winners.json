@@ -1,9 +1,85 @@
 [
   {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-nefeloma-omega-apo-tin-omada-ki-omos-kineitai-sto-theatro-roes-29-07-2026-stis-2100/",
-    "eventTitle": "“Νεφέλωμα Ωμέγα” από την ομάδα Κι όμΩς κινείται στο Θέατρο Ροές – 29/07/2026 στις 21:00",
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-anasa-apo-pilo-tou-giorgou-douatzi-apo-tis-ekdoseis-stiksis-30-07-2026/",
+    "eventTitle": "“Ανάσα από πηλό” του Γιώργου Δουατζή από τις εκδόσεις Στίξις",
     "winners": [
-      "ΒΑΙΑ ΜΑΤΣΚΑΓΕΩΡΓΙΟΣ ΣΕΡΕΠΕΤΣΗΣΕΥΑΓΓΕΛΟΣ  ΤΣΙΑΜΗΣ ΛΕΥΤΕΡΗΣ ΜΟΡΙΤΣΚΩΝΣΤΑΝΤΊΝΑ ΜΑΓΚΑΦΆΔΗΜΉΤΡΙΟΣ ΧΑΡΑΤΣΆΡΗΣΑΓΓΕΛΙΚΗ ΛΕΒΕΝΤΗΝΙΚΟΛΕΤΤΑ ΦΑΜΕΛΗΚΑΤΕΡΙΝΑ  ΓΚΙΚΑ ΝΙΚΟΣ ΣΠΑΤΙΩΤΗΣ"
+      "ΘΕΟΦΙΛΟΣ ΓΡΗΓΟΡΙΑΔΗΣ",
+      "ΣΤΈΛΛΑ ΜΑΓΔΆΚΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-lampa-thyellis-tou-konstantinou-alsinou-apo-tis-ekdoseis-stiksis-30-07-2026/",
+    "eventTitle": "“Λάμπα θυέλλης” του Κωνσταντίνου Αλσινού από τις εκδόσεις Στίξις",
+    "winners": [
+      "ΕΥΑΓΓΕΛΊΑ ΕΥΘΥΜΊΟΥ",
+      "ΑΛΕΞΊΑ ΝΆΝΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-to-deipno-tou-franko-kerdiste-proskliseis-gia-ta-therina-sinema-karmen-stella-kai-dafni-31-07-2026-stis-2300-dafni/",
+    "eventTitle": "“Το δείπνο του Φράνκο” – Κερδίστε προσκλήσεις για το θερινό σινεμά Δάφνη – 31/07/2026 στις 23:00",
+    "winners": [
+      "ΜΑΝΩΛΗΣ ΚΑΡΑΜΠΙΝΗΣ",
+      "ΔΗΜΗΤΡΗΣ ΚΑΡΑΝΙΚΟΛΗΣ",
+      "ΔΟΜΝΑ ΠΑΝΤΕΛΙΔΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-to-deipno-tou-franko-kerdiste-proskliseis-gia-ta-therina-sinema-karmen-stella-kai-dafni-31-07-2026-stis-2300-stella/",
+    "eventTitle": "“Το δείπνο του Φράνκο” – Κερδίστε προσκλήσεις για το θερινό σινεμά Στέλλα – 31/07/2026 στις 23:00",
+    "winners": [
+      "ΑΦΡΟΔΊΤΗ ΣΤΑΜΠΟΥΛΟΠΟΥΛΟΥ",
+      "ΕΙΡΗΝΗ ΔΙΓΕΝΗ",
+      "ΙΩΑΝΝΗΣ ΤΣΟΠΕΛΑΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-to-deipno-tou-franko-kerdiste-proskliseis-gia-ta-therina-sinema-karmen-stella-kai-dafni-31-07-2026-stis-2045-karmen/",
+    "eventTitle": "“Το δείπνο του Φράνκο” – Κερδίστε προσκλήσεις για το θερινό σινεμά Κάρμεν – 31/07/2026 στις 20:45",
+    "winners": [
+      "ΚΩΝΣΤΑΝΤΙΝΑ ΧΑΤΖΗ",
+      "ΘΕΟΦΙΛΟΣ ΘΕΟΔΩΡΙΔΗΣ",
+      "ΘΈΜΙΣ ΣΆΡΡΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-psila-takounia-kerdiste-proskliseis-gia-ta-therina-sinema-karmen-stella-kai-dafni-31-07-2026-stis-2045-dafni/",
+    "eventTitle": "“Ψηλά Τακούνια” – Κερδίστε προσκλήσεις για το θερινό σινεμά Δάφνη – 31/07/2026 στις 20:45",
+    "winners": [
+      "ΓΙΑΝΝΗΣ ΣΜΥΡΝΑΚΗΣ",
+      "ΔΗΜΉΤΡΗΣ ΔΑΜΙΑΝΌΣ",
+      "ΜΙΧΆΛΗΣ ΧΑΡΑΛΑΜΠΊΔΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-psila-takounia-kerdiste-proskliseis-gia-ta-therina-sinema-karmen-stella-kai-dafni-31-07-2026-stis-2045-stella/",
+    "eventTitle": "“Ψηλά Τακούνια” – Κερδίστε προσκλήσεις για το θερινό σινεμά Στέλλα – 31/07/2026 στις 20:45",
+    "winners": [
+      "ΚΩΝΣΤΑΝΤΙΑ ΦΛΏΡΟΥ",
+      "ΔΩΡΑ ΠΟΥΓΓΙΑ",
+      "ΝΙΚΟΛΕΤΤΑ ΒΟΥΤΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-psila-takounia-kerdiste-proskliseis-gia-ta-therina-sinema-karmen-stella-kai-dafni-31-07-2026-stis-2250-karmen/",
+    "eventTitle": "“Ψηλά Τακούνια” – Κερδίστε προσκλήσεις για τα θερινό σινεμά Κάρμεν – 31/07/2026 στις 22:50",
+    "winners": [
+      "ΜΑΡΙΑ ΛΥΤΡΙΒΗ",
+      "ΖΈΤΤΑ ΑΝΤΩΝΙΟΥ",
+      "ΠΑΝΑΓΙΩΤΑ ΚΟΚΚΩΝΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-2-pitses-vintage-collection-apo-tin-pizza-fan/",
+    "eventTitle": "Nικητές Διαγωνισμού- 2 πίτσες Vintage Collection από την Pizza Fan",
+    "winners": []
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-doroepitages-100e-apo-tin-oozoo/",
+    "eventTitle": "Δωροεπιταγές 100€ από την OOZOO",
+    "winners": [
+      "ΜΑΡΙΝΑ ΠΥΛΑΔΗ",
+      "ΕΙΡΗΝΗ ΝΤΙΣΤΕΛΛΑ"
     ]
   },
   {

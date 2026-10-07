@@ -1,5 +1,26 @@
 [
   {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-eytyxismenes-meres-se-skinothesia-dimitri-tarloou-sto-theatro-poreia-08-10-2026-stis-2100/",
+    "eventTitle": "“Ευτυχισμένες Μέρες” σε σκηνοθεσία Δημήτρη Τάρλοου στο Θέατρο Πορεία – 08/10/2026 στις 21:00",
+    "winners": [
+      "ΑΠΟΣΤΌΛΗΣ ΑΔΑΜΚΥΡΙΑΚΉ ΠΡΑΓΚΑΣΤΉΚΑΤΕΡΙΝΑ ΣΚΛΕΠΑΡΗΓΕΩΡΓΙΑ ΣΟΦΗΧΡΥΣΟΥΛΑ ΚΑΜΑΡΙΤΣΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-kokkino-tou-tzon-logkan-sto-theatro-mousouri-08-10-2026-stis-2000/",
+    "eventTitle": "“Κόκκινο” του Τζον Λόγκαν στο θέατρο Μουσούρη – 08/10/2026 στις 20:00",
+    "winners": [
+      "ΣΟΦΙΑ ΤΣΟΥΒΑΛΗΜΑΡΓΑΡΙΤΑ ΓΚΙΤΕΡΣΟΥΦΑΝΗΣ ΖΕΠΠΟΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-aris-papadopoulos-quintet-sto-theatre-of-the-no-08-10-2026-stis-2130/",
+    "eventTitle": "Aris Papadopoulos Quintet στο Theatre Of The No – 08/10/2026 στις 21:30",
+    "winners": [
+      "ΧΡΉΣΤΟΣ ΡΑΜΑΝΤΆΝΗΣΑΘΗΝΑ ΦΛΕΓΚΑ"
+    ]
+  },
+  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-kalytera-na-sou-vgei-to-mati-tis-xristinas-mparita-sto-studio-mayromixali-07-10-2026-stis-2100/",
     "eventTitle": "“Καλύτερα να σου βγει το μάτι” της Χριστίνας Μπαρίτα στο Studio Μαυρομιχάλη – 07/10/2026 στις 21:00",
     "winners": [
@@ -25,21 +46,6 @@
     "eventTitle": "Billy Cobham: Ο ντράμερ που άλλαξε τον ήχο της jazz στο Συνεδριακό Κέντρο Ι. Βελλίδης – 07/10/2026 στις 21:00",
     "winners": [
       "ΑΡΙΣΤΕΑ ΠΑΡΙΣΗΣΑΡΑΝΤΟΣ ΤΖΟΡΤΖΗΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-alitheia-sou-leo-psemata-tou-antoni-kalomoiraki-sto-theatro-alfa-06-10-2026-stis-2100/",
-    "eventTitle": "«Αλήθεια σου λέω ψέματα» του Αντώνη Καλομοιράκη στο θέατρο Άλφα – 06/10/2026 στις 21:00",
-    "winners": [
-      "ΣΤΑΜΑΤΙΑ ΦΙΛΟΘΕΪΔΟΥΑΓΛΑΪΑ ΚΑΝΕΛΛΟΥ ΔΗΜΟΣ ΓΕΝΝΑΙΟΣΝΑΤΑΛΙΑ ΣΕΡΜΠΕΖΟΒΑ ΕΛΕΝΗ ΣΔΡΑΛΛΗΑΛΕΞΑΝΔΡΑ ΤΖΑΧΡΗΣΤΑΙΣΑΒΕΛΛΑ ΒΕΡΓΩΤΗΈΦΗ  ΤΣΙΑΟΥΣΗ ΜΑΙΡΗ ΓΡΑΝΙΤΣΑΚΥΡΙΑΚΗ  ΒΑΒΟΥΡΑΚΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/oikogeneia-oi-desmoi-pou-mas-megalonoun-ton-eleni-papadopoulou-nikou-kouravana-apo-tis-ekdoseis-aggelaki-30-09-2026/",
-    "eventTitle": "“Οικογένεια: Οι δεσμοί που μας μεγαλώνουν” των Ελένη Παπαδοπούλου & Νίκου Κουραβάνα από τις εκδόσεις Αγγελάκη",
-    "winners": [
-      "ΕΥΑΓΓΕΛΊΑ ΤΣΙΑΜΗΣ",
-      "ΒΑΝΑ ΚΟΥΤΣΙΟΥΜΠΑ"
     ]
   }
 ]

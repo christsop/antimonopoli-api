@@ -1,5 +1,47 @@
 [
   {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-late-night-synaylia-me-tin-kratiki-orxistra-athinon-sto-megaro-mousikis-16-10-2026-stis-2200/",
+    "eventTitle": "Late Night συναυλία με την Κρατική Ορχήστρα Αθηνών στο Μέγαρο Μουσικής – 16/10/2026 στις 22:00",
+    "winners": [
+      "ΑΝΘΗ ΜΑΡΑΓΚΟΥΠΑΝΑΓΙΩΤΗΣ ΔΕΜΗΣΓΙΩΡΓΟΣ ΑΝΔΡΕΟΥΣΠΎΡΟΣ  ΠΑΝΤΖΕΚΟΣ ΠΑΠΑΓΕΩΡΓΌΠΟΥΛΟΣ ΕΥΑΓΓΕΛΟΣ  ΤΣΙΑΜΗΣ ΒΑΣΊΛΗΣ ΚΥΡΙΑΖΟΠΟΥΛΟΣΒΑΣΙΛΙΚΗ ΧΑΤΖΗΠΑΝΑΓΙΩΤΟΥΒΑΣΙΛΙΚΗ ΛΑΝΑΡΑΘΕΟΦΙΛΟΣ ΓΑΛΟΥΖΗΣΆΛΚΗΣΤΙΣ  ΒΛΑΧΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-alitheia-sou-leo-psemata-tou-antoni-kalomoiraki-sto-theatro-alfa-13-10-2026-stis-2100/",
+    "eventTitle": "«Αλήθεια σου λέω ψέματα» του Αντώνη Καλομοιράκη στο θέατρο Άλφα – 13/10/2026 στις 21:00",
+    "winners": [
+      "ΑΛΕΞΑΝΔΡΟΣ ΜΑΚΡΗΣΘΕΟΔΩΡΑ ΣΥΜΕΩΝΙΔΟΥΒΑΓΓΈΛΗΣ ΑΕΡΆΚΗΣΛΕΜΟΝΙΑ ΑΓΓΕΛΙΔΟΥΚΩΝΣΤΑΝΤΊΝΑ ΚΑΡΑΜΆΛΗΑΛΈΞΑΝΔΡΟΣ ΜΑΣΤΟΡΆΚΗΣΕΛΕΥΘΕΡΙΑ ΠΕΤΡΑΚΗΔΗΜΗΤΡΑ ΣΙΑΚΩΤΟΥΛΕΥΤΈΡΗΣ  ΤΣΑΡΚΑΤΟΓΛΟΥ ΙΩΆΝΝΗΣ  ΨΑΡΆΚΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-sygkatoikos-tis-jen-silverman-sto-theatro-peiraios-131-13-10-2026-stis-2000/",
+    "eventTitle": "“Η συγκάτοικος” της Jen Silverman στο Θέατρο Πειραιώς 131 – 13/10/2026 στις 20:00",
+    "winners": [
+      "ΔΗΜΉΤΡΗΣ ΔΑΜΙΑΝΌΣΜΑΡΙΆΝΘΗ  ΤΣΙΤΣΙΜΠΙΚΟΥ ΣΤΑΥΡΟΥΛΑ ΚΟΡΜΑΛΗΚΕΡΑΣΙΑ ΚΤΕΝΙΔΟΥΟΥΡΑΝΙΑ ΚΟΥΜΠΑΓΙΩΤΗΠΕΛΑΓΙΑ ΜΑΚΑΡΙΔΟΥΦΩΤΕΙΝΗ ΛΙΟΔΑΚΗΒΑΡΒΑΡΑ ΚΑΡΚΑΛΑΚΟΥΦΩΤΗΣ ΠΑΝΟΡΜΙΤΗΣΙΩΑΝΝΗΣ ΑΜΠΕΛΙΚΑΚΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-enoikiazetai-se-skinothesia-thanasi-zeriti-sto-theatro-mikro-xorn-13-10-2026-stis-2000/",
+    "eventTitle": "“Ενοικιάζεται” σε σκηνοθεσία Θανάση Ζερίτη στο Θέατρο Μικρό Χορν – 13/10/2026 στις 20:00",
+    "winners": [
+      "ΔΗΜΉΤΡΗΣ  ΓΡΗΓΟΡΙΆΔΗΣ ΧΡΥΣΑ ΜΠΑΡΤΖΩΚΑΕΥΑΓΓΕΛΙΑ ΚΑΡΑΘΑΝΟΥΚΑΛΛΙΟΠΗ ΚΟΥΛΊΖΟΥΕΛΕΝΗ ΚΟΥΤΡΟΥΜΠΗΚΩΝΣΤΑΝΤΙΝΑ ΤΖΑΝΑΚΙΔΟΥΧΡΙΣΤΙΝΑ ΝΙΚΟΛΟΠΟΎΛΟΥΑΒΡΑΑΜ ΣΤΑΝΙΟΣΑΛΕΞΙΑ ΛΟΥΚΕΡΗΕΙΡΗΝΗ ΔΙΓΕΝΗ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-deadlift-arsi-thanatou-tis-valerias-dimitriadou-sto-theatro-emporikon-13-10-2026-stis-2000/",
+    "eventTitle": "“DEADLIFT. Άρση θανάτου” της Βαλέριας Δημητριάδου στο Θέατρο Εμπορικόν – 13/10/2026 στις 20:00",
+    "winners": [
+      "ΕΛΕΝΗ ΠΑΥΛΟΥΝΙΚΌΛΑΣ ΤΣΙΤΙΔΗΣΓΕΩΡΓΙΑ ΓΑΡΑΤΖΙΩΤΗΑΓΓΕΛΟΣ ΚΟΥΤΣΗΣΒΑΣΙΛΗΣ ΜΠΟΤΣΕΛΙΔΗΣΔΗΜΗΤΡΑ ΠΑΠΟΥΤΣΗΘΕΟΔΩΡΟΣ ΛΥΡΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-theofilos-sold-tis-olias-lazaridou-sto-theatro-peiraios-131-13-10-2026-stis-2030/",
+    "eventTitle": "“Θεόφιλος sold” της Όλιας Λαζαρίδου στο Θέατρο Πειραιώς 131 – 13/10/2026 στις 20:30",
+    "winners": [
+      "ΝΙΚΗ ΤΣΑΚΑΛΟΥΔΗΜΗΤΡΗΣ ΓΕΩΡΓΟΥΣΗΣΣΑΡΑΝΤΟΣ ΤΖΟΡΤΖΗΣΑΣΗΜΙΝΑ ΑΛΕΞΟΠΟΥΛΟΥΡΟΥΛΑ ΛΟΥΤΑ"
+    ]
+  },
+  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-sygkatoikos-tis-jen-silverman-sto-theatro-peiraios-131-12-10-2026-stis-2000/",
     "eventTitle": "“Η συγκάτοικος” της Jen Silverman στο Θέατρο Πειραιώς 131 – 12/10/2026 στις 20:00",
     "winners": [
@@ -11,112 +53,6 @@
     "eventTitle": "Νέκυια: Η μουσικοθεατρική παράσταση της Φένιας Παπαδόδημα επιστρέφει στο Μέγαρο Μουσικής – 12/10/2026 στις 20:30",
     "winners": [
       "ΟΥΡΑΝΙΑ ΡΑΠΤΗΓΕΩΡΓΙΟΣ ΚΑΡΑΜΠΕΣΙΝΗΣΑΓΓΕΛΙΚΉ  ΔΙΑΜΑΝΤΟΠΟΎΛΟΥ ΓΙΑΝΝΗΣ ΦΟΎΝΤΟΣΑΓΓΕΛΙΚΉ ΣΤΡΟΥΣΟΠΟΎΛΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-arxaggelos-tis-kritis-mousikotheatriki-parastasi-gia-ton-niko-ksylouri-sto-theatro-ivi-11-10-2026-stis-1800/",
-    "eventTitle": "“Ο Αρχάγγελός της Κρήτης” μουσικοθεατρική παράσταση για τον Νίκο Ξυλούρη στο Θέατρο Ήβη – 11/10/2026 στις 18:00",
-    "winners": [
-      "ΜΑΡΊΑ ΛΎΚΟΥΓΕΩΡΓΙΑ ΚΟΥΛΕΝΤΙΑΝΟΥΣΤΕΛΛΑ ΧΡΙΣΤΟΦΟΡΟΥΑΓΓΕΛΙΚΗ ΞΕΝΟΥΣΤΑΥΡΟΥΛΑ ΚΥΡΙΤΣΗΑΘΗΝΑ  ΘΕΟΧΑΡΗ ΝΤΙΝΑ ΠΑΠΑΡΟΥΝΗΈΦΗ  ΤΣΙΑΟΥΣΗ ΑΓΓΕΛΙΚΉ  ΜΠΆΡΛΟΥ ΧΑΡΑ ΣΥΜΕΩΝΙΔΟΥΝΙΚΗ ΑΚΡΙΒΟΥΔΗΜΗΤΡΗΣ ΚΟΥΣΠΑΡΗΣΜΑΡΙΑ ΜΑΥΡΟΜΑΤΑΚΗΜΑΡΙΑΝΘΗ  ΡΑΣΠΊΤΣΟΥ ΕΙΡΗΛΕΝΑ  ΜΑΝΟΥΑΙΚΑΤΕΡΙΝΗ  ΧΑΡΑΜΗ ΡΑΝΙΑ ΚΩΣΤΟΠΟΥΛΟΥΒΑΝΑ ΒΕΛΛΗMINA ΔΡΑΚΑΚΗΣΟΦΗ ΣΟΦΟΚΛΕΟΥΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-deadlift-arsi-thanatou-tis-valerias-dimitriadou-sto-theatro-emporikon-11-10-2026-stis-2100/",
-    "eventTitle": "“DEADLIFT. Άρση θανάτου” της Βαλέριας Δημητριάδου στο Θέατρο Εμπορικόν – 11/10/2026 στις 21:00",
-    "winners": [
-      "ΛΥΔΙΑ ΚΑΚΝΑΔΙΟΝΥΣΊΑ  ΜΠΟΥΡΝΗ ΑΝΤΩΝΗΣ ΤΡΙΑΝΤΟΠΟΥΛΟΣΚΛΕΟΝΙΚΗ ΠΑΠΑΔΑΚΗΒΑΣΙΛΗΣ  ΠΑΠΑΘΑΝΑΣΙΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-nefeloma-omega-apo-tin-omada-ki-omos-kineitai-sto-theatro-roes-11-10-2026-stis-2100/",
-    "eventTitle": "“Νεφέλωμα Ωμέγα” από την ομάδα Κι όμΩς κινείται στο Θέατρο Ροές – 11/10/2026 στις 21:00",
-    "winners": [
-      "ΕΥΓΕΝΙΑ ΣΤΟΥΦΗΕΡΜΙΟΝΗ ΒΑΡΒΑΡΟΠΟΥΛΟΥΒΕΝΕΔΙΚΤΟΣ ΛΑΝΑΡΑΣΓΕΩΡΓΙΑ ΣΟΥΜΠΟΥΡΛΟΥΧΡΥΣΟΎΛΑ ΠΑΠΑΔΈΛΑ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/anna-magdalena-bach-to-mousiko-analogio-tis-magdas-mayrogianni-sto-megaro-mousikis-11-10-2026-stis-1200/",
-    "eventTitle": "Anna Magdalena Bach: Το μουσικό αναλόγιο της Μάγδας Μαυρογιάννη στο Μέγαρο Μουσικής – 11/10/2026 στις 12:00",
-    "winners": [
-      "ΕΥΑΓΓΕΛΙΑ ΚΑΤΣΙΚΙΓΙΑΝΝΗΕΛΈΝΗ  ΛΙΑΚΟΠΟΥΛΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/the-metropolitan-opera-live-etsi-kanoun-oles-tou-v-a-motsart-sto-megaro-mousikis-11-10-2026-stis-2000/",
-    "eventTitle": "The Metropolitan Opera Live: “Έτσι κάνουν όλες” του Β. Α. Μότσαρτ στο Μέγαρο Μουσικής – 11/10/2026 στις 20:00",
-    "winners": [
-      "ΓΙΑΝΝΗΣ ΚΟΥΣΠΑΡΗΣΝΙΚΟΛΑΟΣ ΣΩΤΗΡΙΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-omirou-odysseia-tis-dreamland-experience-sto-village-shopping-more-11-10-2026-1200-1900/",
-    "eventTitle": "«Ομήρου Οδύσσεια» της Dreamland Experience στο Village Shopping & More – 11/10/2026 (12:00 – 19:00)",
-    "winners": [
-      "ΧΡΥΣΑΝΘΗ ΝΑΣΙΑΔΗΑΓΑΠΗ ΣΩΦΡΟΝΙΑΔΟΥΜΑΡΙΑΝΘΗ ΦΙΛΙΠΠΟΠΟΥΛΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-kokkino-tou-tzon-logkan-sto-theatro-mousouri-11-10-2026-stis-1900/",
-    "eventTitle": "“Κόκκινο” του Τζον Λόγκαν στο θέατρο Μουσούρη – 11/10/2026 στις 19:00",
-    "winners": [
-      "ΔΙΟΝΥΣΙΑ ΜΑΚΡΗ",
-      "ΓΙΑΝΝΗΣ ΚΟΚΟΒΙΑΔΗΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-the-chairs-oi-karekles-tou-eygeniou-ionesko-sto-theatre-of-the-no-11-10-2026-stis-2000/",
-    "eventTitle": "«The Chairs» (Οι καρέκλες) του Ευγένιου Ιονέσκο στο Theatre Of The No – 11/10/2026 στις 20:00",
-    "winners": [
-      "ΑΛΈΞΑΝΔΡΟΣ ΓΚΡΑΖΝΤΑΝΟΛΓΑ  ΛΑΤΙΝΑΚΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-lagos-kai-i-xelona-ston-texnoxoro-ergotaksion-11-10-2026-stis-1000/",
-    "eventTitle": "“Ο λαγός και η χελώνα” στον Τεχνοχώρο Εργοτάξιον – 11/10/2026 στις 10:00",
-    "winners": [
-      "ΘΕΟΦΙΛΟΣ ΘΕΟΔΩΡΙΔΗΣΖΩΗ ΠΑΣΧΑΛΙΔΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-teen-talk-bullying-mia-parastasi-gia-ton-sxoliko-ekfovismo-sto-theatro-nous-11-10-2026-stis-1600/",
-    "eventTitle": "“Teen Talk Bullying” μια παράσταση για τον σχολικό εκφοβισμό στο θέατρο Noūs – 11/10/2026 στις 16:00",
-    "winners": [
-      "ΠΑΡΘΕΝΑ ΚΟΥΠΙΔΟΥΝΙΚΟΣ ΔΕΛΛΗΣΒΑΣΙΛΙΚΗ ΡΑΠΤΗΚΑΤΕΡΙΝΑ ΚΟΥΛΟΥΜΠΗΜΑΡΙΑ ΣΠΗΛΙΑΔΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-karaflompekatsos-tis-lenas-kitsopoulou-sto-theatro-olvio-11-10-2026-stis-2030/",
-    "eventTitle": "«Ο Καραφλομπέκατσος» της Λένας Κιτσοπούλου στο Θέατρο Olvio – 11/10/2026 στις 20:30",
-    "winners": [
-      "ΦΩΤΕΙΝΗ ΝΤΟΒΟΛΟΥΗΡΩ ΡΑΥΤΟΠΟΥΛΟΥΡΑΝΙΑ ΡΑΠΤΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-thisayros-tou-miki-sto-megaro-mousikis-athinon-11-10-2026-stis-1130/",
-    "eventTitle": "“Ο θησαυρός του Μίκη” στο Μέγαρο Μουσικής Αθηνών – 11/10/2026 στις 11:30",
-    "winners": [
-      "ΚΩΝΣΤΑΝΤΊΝΑ ΜΑΓΚΑΦΆΛΕΟΝΟΡΑ ΜΑΣΤΟΡΑ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-mia-parea-tragoudia-me-tous-gianni-lekopoulo-areti-kokkinou-sto-41-street-cafe-11-10-2026-stis-2000/",
-    "eventTitle": "“Μια παρέα τραγούδια” με τους Γιάννη Λεκόπουλο & Αρετή Κοκκίνου στο 41 Street Café – 11/10/2026 στις 20:00",
-    "winners": [
-      "ΦΑΙΔΡΑ  ΚΩΝΣΤΑΝΤΙΝΊΔΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-oi-perception-quartet-sto-jazzet-music-hall-11-10-2026-stis-2000/",
-    "eventTitle": "Οι Perception Quartet στο Jazzèt Music Hall – 11/10/2026 στις 20:00",
-    "winners": [
-      "ΕΛΈΝΗ ΚΟΣΕΟΓΛΟΥΜΙΧΆΛΗΣ ΚΑΤΣΟΥΛΆΚΟΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-aspra-aloga-tou-errikou-ipsen-sto-theatro-ekati-11-10-2026-stis-1900/",
-    "eventTitle": "“Άσπρα άλογα” του Ερρίκου Ιψεν στο Θέατρο Εκάτη – 11/10/2026 στις 19:00",
-    "winners": [
-      "ΑΝΑΣΤΑΣΊΑ ΠΑΠΑΔΟΜΑΝΩΛΑΚΗΔΟΜΝΑ ΠΑΝΤΕΛΙΔΟΥΒΙΡΓΙΝΙΑ ΘΕΟΧΑΡΗ"
     ]
   }
 ]

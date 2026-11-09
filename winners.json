@@ -1,5 +1,68 @@
 [
   {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-to-katarameno-paidi-tou-honore-de-balzac-sto-theatro-arroyo-10-11-2026-stis-2100/",
+    "eventTitle": "“Το καταραμένο παιδί” του Honoré de Balzac στο Θέατρο Arroyo – 10/11/2026 στις 21:00",
+    "winners": [
+      "ΕΥΑΓΓΕΛΙΑ ΠΑΠΑΝΑΣΤΑΣΙΟΥΕΥΑΝΘΙΑ ΧΡΙΣΤΟΠΟΥΛΟΥΑΓΑΘΗ ΑΝΑΓΝΩΣΤΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-mia-fyli-ayto-eimai-una-tribu-ecco-quello-che-sono-tou-jan-fabre-sto-theatro-stathmos-10-11-2026-stis-2100/",
+    "eventTitle": "“Μία Φυλή, αυτό είμαι (Una Tribù, ecco quello che sono)” του Jan Fabre στο Θέατρο Σταθμός – 10/11/2026 στις 21:00",
+    "winners": [
+      "ΘΕΟΦΙΛΟΣ ΓΑΛΟΥΖΗΣΣΩΚΡΆΤΗΣ ΤΣΙΓΑΡΔΑΣΙΩΆΝΝΑ  ΚΩΝΣΤΑΝΤΉ AKHS  ΚΩΝΣΤΑΝΤΙΝΟΥ         ΆΡΤΑ ΝΤΌΚΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-eterotopia-vegetale-sto-kinimatografo-newman-10-11-2026-stis-2100/",
+    "eventTitle": "ΕΤΕΡΟΤΟΠΙΑ – VÉGÉTALE στο Κινηματογράφο Newman – 10/11/2026 στις 21:00",
+    "winners": [
+      "ΑΝΘΗ  ΜΑΡΑΓΚΟΎ ΑΙΜΙΛΙΑ ΚΟΡΑΚΙΑΝΙΤΗΒΟΥΛΑ PETROPOULOUΠΑΡΘΕΝΑ ΚΟΥΠΙΔΟΥΕΎΗ  ΜΑΝΩΛΆΚΟΥ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-alitheia-sou-leo-psemata-tou-antoni-kalomoiraki-sto-theatro-alfa-10-11-2026-stis-2100/",
+    "eventTitle": "«Αλήθεια σου λέω ψέματα» του Αντώνη Καλομοιράκη στο θέατρο Άλφα – 10/11/2026 στις 21:00",
+    "winners": [
+      "ΒΑΓΙΑ ΖΩΗΜΑΡΙΑ ΓΙΑΝΝΟΥΤΣΟΥΕΛΕΝΗ ΟΙΚΟΝΟΜΟΥΚΥΡΙΑΚΟΣ ΡΟΙΛΟΣΕΛΕΝΗ ΓΕΩΡΓΑΛΗΠΑΝΔΏΡΑ ΜΑΛΛΙΑΡΟΎΛΑΟΥΡΑ ΒΑΝΔΩΡΟΥΑΝΔΡΟΝΙΚΗ ΠΕΡΡΑΚΗΤΑΣΟΥΛΑ ΜΗΤΣΑΡΑΛΆΜΠΡΟΣ ΑΠΟΣΤΟΛΆΚΗΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-alitheia-einai-tou-dimitri-dimitriadi-sto-plyfa-10-11-2026-stis-2100/",
+    "eventTitle": "“Η Αλήθεια Είναι” του Δημήτρη Δημητριάδη στο ΠΛΥΦΑ – 10/11/2026 στις 21:00",
+    "winners": [
+      "ΜΑΡΙΑ ΠΕΤΡΙΔΟΥΠΑΝΑΓΙΩΤΑ ΜΙΧΑΗΛΙΔΗAIKATERINI VRENTZOUΒΙΚΤΩΡ ΚΑΡΕΛΛΑΣΙΩΑΝΝΗΣ ΝΑΣΤΟΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-to-ypogeio-tou-fiontor-ntostogiefski-sto-theatro-vafeio-lakis-karalis-10-11-2026-stis-2100/",
+    "eventTitle": "Το “Υπόγειο” του Φιοντόρ Ντοστογιέφσκι στο Θέατρο Βαφείο Λάκης Καραλής – 10/11/2026 στις 21:00",
+    "winners": [
+      "ΑΝΝΑ ΦΛΩΡΟΥΕΥΑΓΓΕΛΊΑ  ΤΑΡΑΣΟΥΛΕΑ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-anazitontas-ti-mageia-tou-giorgou-livanou-sto-studio-kypselis-10-11-2026-stis-2100/",
+    "eventTitle": "“Αναζητώντας τη μαγεία” του Γιώργου Λιβανού στο Studio Κυψέλης – 10/11/2026 στις 21:00",
+    "winners": [
+      "ΕΥΦΡΑΝΣΙΑ ΠΑΠΑΔΟΠΟΥΛΟΥΝΙΚΟΣ ΔΕΛΛΗΣΧΡΉΣΤΟΣ ΡΑΜΑΝΤΆΝΗΣΔΗΜΗΤΡΗΣ ΠΕΤΡΟΠΟΥΛΟΣΒΑΣΙΛΗΣ ΛΙΑΡΜΑΚΟΠΟΥΛΟΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-mother-tongue-tis-georgias-tsagkaraki-sto-theatre-of-the-no-10-11-2026-stis-2100/",
+    "eventTitle": "“Mother Tongue” της Γεωργίας Τσαγκαράκη στο Theatre Of The No – 10/11/2026 στις 21:00",
+    "winners": [
+      "ΧΡΉΣΤΟΣ ΤΣΟΠΈΛΑΣΚΏΣΤΑΣ ΜΑΘΙΟΣ"
+    ]
+  },
+  {
+    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-psyxaris-to-taksidi-mou-tou-gianni-psyxari-sto-theatro-metaksourgeio-kerdiste-proskliseis-10-11-2026-stis-2000/",
+    "eventTitle": "«Ψυχάρης το ταξίδι μου» του Γιάννη Ψυχάρη στο Θέατρο Μεταξουργείο- Κερδίστε Προσκλήσεις – 10/11/2026 στις 20:00",
+    "winners": [
+      "ΘΕΟΦΙΛΟΣ ΘΕΟΔΩΡΙΔΗΣΑΘΑΝΑΣΙΟΣ ΑΣΚΗΤΗΣ"
+    ]
+  },
+  {
     "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-mother-tongue-tis-georgias-tsagkaraki-sto-theatre-of-the-no-09-11-2026-stis-2100/",
     "eventTitle": "“Mother Tongue” της Γεωργίας Τσαγκαράκη στο Theatre Of The No – 09/11/2026 στις 21:00",
     "winners": [
@@ -53,118 +116,6 @@
     "eventTitle": "Το Alkis Niilend Quartet συναντά τη Δήμητρα Τσαγκαράκη στο Half Note Jazz Club – 09/11/2026 στις 21:30",
     "winners": [
       "ΗΛΙΑΣ ΓΕΩΡΓΙΑΔΗΣΠΕΡΙΚΛΉΣ  ΚΩΝΣΤΑΝΤΙΝΊΔΗΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-jane-tis-katerinas-mayrogeorgi-sto-rabbithole-08-11-2026-stis-1930/",
-    "eventTitle": "“Jane” της Κατερίνας Μαυρογεώργη στο Rabbithole – 08/11/2026 στις 19:30",
-    "winners": [
-      "ΑΛΕΞΑΝΔΡΟΣ ΓΡΑΖΝΤΑΝΗΛΙΑΣ ΜΥΛΩΝΑΣΔΟΞΑ ΤΑΤΣΙΟΥΜΑΡΙΑ ΔΑΜΟΡΑΚΗEMY XAΛΙΚΙΑ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-rita-antonopoulou-sto-stayro-tou-notou-08-11-2026-stis-1930/",
-    "eventTitle": "Η Ρίτα Αντωνοπούλου στο Σταυρό του Νότου – 08/11/2026 στις 19:30",
-    "winners": [
-      "ΕΥΔΟΚΙΑ ΡΑΜΜΟΥΕΥΔΟΚΙΑ ΚΟΥΚΟΥΛΙΔΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-the-jazz-side-of-mimis-plessas-by-georgios-tsolis-quartet-sto-half-note-jazz-club-08-11-2026-stis-2130/",
-    "eventTitle": "The Jazz Side of Mimis Plessas by Georgios Tsolis Quartet στο Half Note Jazz Club – 08/11/2026 στις 21:30",
-    "winners": [
-      "ΔΗΜΗΤΡΗΣ ΚΑΡΑΝΙΚΟΛΗΣΧΡΙΣΤΙΝΑ ΝΙΚΟΛΑΙΔΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-vroxi-mesa-tis-tou-gianni-papazoglou-ston-texnoxoro-ergotaksion-08-11-2026-stis-2030/",
-    "eventTitle": "“Η βροχή μέσα της” του Γιάννη Παπάζογλου στον Τεχνοχώρο Εργοτάξιον – 08/11/2026 στις 20:30",
-    "winners": [
-      "ΑΡΙΣΤΕΙΔΗΣ ΡΙΖΟΠΟΥΛΟΣΟΥΡΑΝΙΑ ΠΑΠΑΔΟΠΟΥΛΟΥΚΑΤΕΡΙΝΑ ΜΟΣΧΟΠΟΥΛΟΥΑΝΑΣΤΑΣΙΑ ΜΠΡΟΥΣΣΟΥΕΥΓΕΝΙΑ ΣΑΠΟΥΝΤΖΗΒΙΚΤΩΡΙΑ ΤΡΙΑΝΤΟΓΙΑΝΝΗΝΙΝΕΤΤΑ ΚΑΡΑΧΑΛΙΟΥΑΓΓΕΛΙΚΗ ΡΙΓΓΑ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-mia-parea-tragoudia-me-tous-gianni-lekopoulo-areti-kokkinou-sto-41-street-cafe-08-11-2026-stis-2000/",
-    "eventTitle": "“Μια παρέα τραγούδια” με τους Γιάννη Λεκόπουλο & Αρετή Κοκκίνου στο 41 Street Café – 08/11/2026 στις 20:00",
-    "winners": [
-      "ΕΥΑΓΓΕΛΙΑ ΒΟΛΟΝΑΚΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-odysseia-apo-ton-thiaso-ilia-karella-sto-theatro-kappa-08-11-2026-stis-1130/",
-    "eventTitle": "“Οδύσσεια” από τον Θίασο Ηλία Καρελλά στο Θέατρο Κάππα – 08/11/2026 στις 11:30",
-    "winners": [
-      "ΘΑΝΟΣ ΑΘΑΝΑΣΙΑΔΗΣΑΝΑΣΤΑΣΙΑ ΜΗΤΡΟΛΙΟΥΣΤΑΥΡΟΥΛΑ ΖΕΡΒΟΥ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-ai-milia-me-tin-aimilia-ypsilanti-ksana-sto-theatro-argo-08-11-2026-stis-1900/",
-    "eventTitle": "“AI-MILIA” με την Αιμιλία Υψηλάντη ξανά στο Θέατρο Αργώ – 08/11/2026 στις 19:00",
-    "winners": [
-      "ΝΙΚΟΛΕΤΤΑ ΦΑΜΕΛΗΑΝΝΑ ΑΝΤΩΝΟΠΟΥΛΟΥΓΙΏΡΓΟΣ  ΚΑΙΜΑΞΗΣΦΡΥΝΗ ΔΙΑΛΕΤΗΙΩΆΝΝΗΣ  ΦΟΥΡΛΗΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-o-miky-kai-i-parea-tou-sto-magiko-xristougenniatiko-trenaki-sto-theatro-aylaia-08-11-2026-stis-1100/",
-    "eventTitle": "“Ο Μίκυ και η παρέα του στο μαγικό Χριστουγεννιάτικο τρενάκι” στο Θέατρο Αυλαία – 08/11/2026 στις 11:00",
-    "winners": [
-      "ΜΕΝΙΑ ΚΑΡΑΘΑΝΑΣΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-teen-talk-bullying-mia-parastasi-gia-ton-sxoliko-ekfovismo-sto-theatro-nous-08-11-2026-stis-1600/",
-    "eventTitle": "“Teen Talk Bullying” μια παράσταση για τον σχολικό εκφοβισμό στο θέατρο Noūs – 08/11/2026 στις 16:00",
-    "winners": [
-      "ΦΛΩΡΑ ΜΑΪΔΏΝΗΓΙΩΡΓΟΣ ΚΑΝΤΑΣΑΝΑΣΤΑΣΙΟΣ ΕΥΦΡΑΙΜΙΔΗΣΑΛΕΞΑΝΔΡΟΣ ΜΑΚΡΗΣΕΙΡΗΝΗ  ΧΑΤΖΗΔΑΚΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-mana-mitera-mama-tou-giorgou-dialegmenou-sto-theatro-alma-08-11-2026-stis-1900/",
-    "eventTitle": "“Μάνα, Μητέρα, Μαμά” του Γιώργου Διαλεγμένου στο Θέατρο Άλμα – 08/11/2026 στις 19:00",
-    "winners": [
-      "ΓΕΩΡΓΊΑ ΡΟΚΟΦΥΛΛΟΥΕΙΡΗΝΗ ΔΙΓΕΝΗΧΡΙΣΤΙΝΑ ΝΙΚΟΛΟΠΟΎΛΟΥΚΑΤΕΡΊΝΑ  ΚΑΛΑΤΖΉ ΑΛΚΜΗΝΗ ΤΣΙΩΛΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-to-mystiko-tis-xamenis-melodias-tis-eytyxias-konstantelou-ston-texnoxoro-ergotaksion-08-11-2026-stis-1130/",
-    "eventTitle": "“Το μυστικό της χαμένης μελωδίας” της Ευτυχίας Κωνσταντέλου στον Τεχνοχώρο Εργοτάξιον – 08/11/2026 στις 11:30",
-    "winners": [
-      "ΔΗΜΗΤΡΗΣ ΞΥΝΟΣΖΩΗ ΤΣΙΑΛΑΦΟΥΤΑΤΑΣΟΣ ΚΟΥΤΕΛΑΣ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-eliza-tis-ksenias-kalogeropoulou-epistrefei-sto-theatro-porta-08-11-2026-stis-1100/",
-    "eventTitle": "“Η Ελίζα” της Ξένιας Καλογεροπούλου επιστρέφει στο Θέατρο Πόρτα – 08/11/2026 στις 11:00",
-    "winners": [
-      "ΚΥΡΙΑΚΗ ΑΝΔΡΙΑΝΗΒΑΣΙΛΙΚΗ ΚΩΝΣΤΑΝΤΑΚΟΥΧΡΗΣΤΟΣ  ΑΣΚΗΤΗΣΕΛΕΥΘΕΡΊΑ ΜΩΡΑΪ́ΤΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-aspra-aloga-tou-errikou-ipsen-sto-theatro-ekati-08-11-2026-stis-1900/",
-    "eventTitle": "“Άσπρα άλογα” του Ερρίκου Ιψεν στο Θέατρο Εκάτη – 08/11/2026 στις 19:00",
-    "winners": [
-      "ΑΘΗΝΑ ΦΛΕΓΚΑΣΟΦΙΑ ΧΑΛΒΑΤΖΗΕΛΛΗ ΣΜΥΡΝΙΟΥΔΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-deadlift-arsi-thanatou-tis-valerias-dimitriadou-sto-theatro-emporikon-08-11-2026-stis-2100/",
-    "eventTitle": "“DEADLIFT. Άρση θανάτου” της Βαλέριας Δημητριάδου στο Θέατρο Εμπορικόν – 08/11/2026 στις 21:00",
-    "winners": [
-      "ΕΥΘΥΜΊΑ  ΦΩΤΊΟΥ ΕΛΕΝΗ ΠΑΠΑΝΙΚΟΛΟΠΟΥΛΟΥΓΡΗΓΟΡΗΣ ΜΗΤΣΗΣΧΑΙΔΩ ΣΙΟΎΝΤΡΗΘΕΟΔΩΡΟΣ ΑΛΕΞΑΝΔΡΟΠΟΥΛΟΣ ΑΓΓΕΛΙΚΗ  ΖΑΧΑΡΩΔΗ ΙΩΑΝΝΑ ΠΑΠΠΑΠΑΝΑΓΙΩΤΗΣ ΧΑΝΗΣΓΙΑΝΝΗΣ ΚΤΙΣΤΑΚΗΣΧΡΙΣΤΙΑΝΑ  ΧΑΤΖΗΓΡΗΓΟΡΙΑΔΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-panagiotis-margaris-mesogeios-sto-theatre-of-the-no-08-11-2026-stis-2030/",
-    "eventTitle": "Παναγιώτης Μάργαρης “Μεσόγειος” στο Theatre Of The No – 08/11/2026 στις 20:30",
-    "winners": [
-      "ΕΥΓΕΝΙΑ  ΣΤΟΥΦΗ ΚΩΝΣΤΑΝΤΊΝΑ ΜΑΓΚΑΦΆΜΑΡΙΑ ΓΚΟΓΚΑΝΙΚΟΣ ΨΑΘΑΣΜΑΡΙΑΝΝΑ ΚΑΚΟΥΔΑΚΗ"
-    ]
-  },
-  {
-    "eventUrl": "https://www.monopoli.gr/diagonismos/nikites-diagonismou-i-sonata-tou-selinofotos-giannis-ritsos-apo-tous-encardia-sto-theatre-of-the-no-08-11-2026-stis-1800/",
-    "eventTitle": "«Η Σονάτα του Σεληνόφωτος» (Γιάννης Ρίτσος) από τους Encardia στο Theatre Of The No – 08/11/2026 στις 18:00",
-    "winners": [
-      "ΕΛΈΝΗ ΚΟΣΕΟΓΛΟΥΧΡΗΣΤΟΣ ΤΑΡΟΥΣΑ"
     ]
   },
   {
